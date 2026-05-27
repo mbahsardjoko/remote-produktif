@@ -54,5 +54,69 @@
     "tag": "Karir & Gaji",
     "img": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=600&q=80",
     "date": "26 Mei 2026"
+  },
+  {
+    "slug": "deep-work-remote",
+    "title": "Deep Work: Cara Kerja Lebih Pintar di Era Remote yang Penuh Distraksi",
+    "desc": "Pelajari teknik deep work ala Cal Newport yang cocok buat remote worker Indonesia. Kerja lebih sedikit, hasil lebih banyak.",
+    "tag": "Fokus & Produktivitas",
+    "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+    "date": "28 Mei 2026"
+  },
+  {
+    "slug": "time-blocking-remote",
+    "title": "Time Blocking: Teknik Manajemen Waktu Paling Efektif buat Remote Worker",
+    "desc": "Time blocking adalah senjata rahasia pekerja remote produktif. Panduan lengkap cara terapinnya biar kerjaan beres tanpa lembur.",
+    "tag": "Produktivitas",
+    "img": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=600&q=80",
+    "date": "28 Mei 2026"
+  },
+  {
+    "slug": "wfh-setup-ideal",
+    "title": "WFH Setup Ideal: Panduan Lengkap Home Office biar Produktivitas Maksimal",
+    "desc": "Setup WFH yang ergonomis bikin badan sehat dan produktivitas naik. Panduan lengkap dari kursi, meja, pencahayaan sampai aksesoris.",
+    "tag": "Tools & Setup",
+    "img": "https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=600&q=80",
+    "date": "28 Mei 2026"
+  },
+  {
+    "slug": "work-life-balance-remote",
+    "title": "Work-Life Balance Saat Kerja Remote: Mitos, Fakta, dan Strategi Nyata",
+    "desc": "Mitos work-life balance di remote work bikin banyak orang salah langkah. Ini fakta dan strategi nyata yang beneran works.",
+    "tag": "Work-Life Balance",
+    "img": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=600&q=80",
+    "date": "28 Mei 2026"
+  },
+  {
+    "slug": "rutinitas-pagi-remote-produktif",
+    "title": "Rutinitas Pagi Remote Worker Produktif: Mulai Hari dengan Energi Maksimal",
+    "desc": "Rutinitas pagi yang tepat bikin produktivitas remote kerja lo naik drastis. Dari bangun tidur sampai jam kerja pertama.",
+    "tag": "Produktivitas",
+    "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+    "date": "28 Mei 2026"
+  },
+  {
+    "slug": "atasi-prokrastinasi-wfh",
+    "title": "Atasi Prokrastinasi Saat WFH: 7 Cara Berhenti Nunda-nunda Pekerjaan",
+    "desc": "Prokrastinasi musuh terbesar pekerja remote. Ini 7 cara jitu berhenti nunda-nunda kerjaan dan mulai produktif.",
+    "tag": "Produktivitas",
+    "img": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&q=80",
+    "date": "28 Mei 2026"
+  },
+  {
+    "slug": "kolaborasi-tim-remote-efektif",
+    "title": "Cara Efektif Kolaborasi Tim Remote Tanpa Ribet dan Meeting Berlebihan",
+    "desc": "Kolaborasi tim remote gak harus berarti meeting terus. Ini cara efektif kerja sama tim jarak jauh dengan tools dan komunikasi async.",
+    "tag": "Kolaborasi",
+    "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+    "date": "28 Mei 2026"
+  },
+  {
+    "slug": "skill-wajib-remote-worker-2026",
+    "title": "7 Skill Wajib Remote Worker di 2026 Biar Karir Makin Moncer",
+    "desc": "Skill apa aja yang harus dikuasai remote worker biar tetap relevan dan kompetitif di tahun 2026? Ini daftar lengkapnya.",
+    "tag": "Karir",
+    "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+    "date": "28 Mei 2026"
   }
 ]
