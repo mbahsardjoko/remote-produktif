@@ -254,5 +254,13 @@
     "tag": "Karir & Gaji",
     "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
     "date": "29 Mei 2026"
+  },
+  {
+    "slug": "mengelola-tim-remote-manager",
+    "title": "Mengelola Tim Remote: Panduan untuk Manager Pemula",
+    "desc": "Panduan lengkap mengelola tim remote buat manager pemula. Dari komunikasi async, trust building, sampai tools kolaborasi dan meeting efisien.",
+    "tag": "Manajemen Tim",
+    "img": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+    "date": "29 Mei 2026"
   }
 ]
