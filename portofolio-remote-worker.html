@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta name="google-site-verification" content="guUwDU5pbd_ktSd10IW512-Pn2jnBgFSg3PCdJTh5Lw" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="canonical" href="https://remoteproduktif.online/portofolio-remote-worker">
+  <meta name="description" content="Gini cara bikin portofolio remote worker yang bikin HRD auto kepo. Dari struktur, platform, sampai tips bikin portofolio yang standout.">
+  <title>Cara Bikin Portofolio Remote Worker yang Dilirik HRD</title>
+  <style>
+    /* ── Reset & Base ─────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      background: #f4f6fa;
+      color: #1a1a2e;
+      line-height: 1.7;
+    }
+
+    /* ── Nav ──────────────────────────────────────── */
+    nav {
+      position: sticky; top: 0; z-index: 50;
+      background: rgba(26, 26, 46, 0.92);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      padding: 14px 24px;
+      display: flex; align-items: center; justify-content: space-between;
+      border-bottom: 1px solid rgba(255,255,255,.08);
+    }
+    nav .logo {
+      font-weight: 800; font-size: 1.25rem;
+      color: #fff; letter-spacing: -.03em;
+    }
+    nav .logo span { color: #7c5cfc; }
+    nav a {
+      color: rgba(255,255,255,.7); text-decoration: none;
+      font-size: .875rem; font-weight: 500; margin-left: 24px;
+      transition: color .2s;
+    }
+    nav a:hover { color: #fff; }
+
+    /* ── Hero / Article Header ────────────────────── */
+    .article-header {
+      position: relative;
+      min-height: 420px;
+      display: flex; align-items: flex-end;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      overflow: hidden;
+    }
+    .article-header::after {
+      content: '';
+      position: absolute; inset: 0;
+      background: url('https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80') center/cover no-repeat;
+      opacity: .18;
+      z-index: 1;
+    }
+    .article-header .overlay {
+      position: relative; z-index: 2;
+      max-width: 800px; margin: 0 auto; width: 100%;
+      padding: 60px 24px 40px;
+      background: linear-gradient(transparent, rgba(0,0,0,.55));
+    }
+    .article-header .tag {
+      display: inline-block;
+      background: #7c5cfc; color: #fff;
+      padding: 4px 14px; border-radius: 20px;
+      font-size: .75rem; font-weight: 600; text-transform: uppercase;
+      letter-spacing: .04em; margin-bottom: 14px;
+    }
+    .article-header h1 {
+      color: #fff; font-size: clamp(1.8rem, 5vw, 2.8rem);
+      font-weight: 800; line-height: 1.2; letter-spacing: -.03em;
+      margin-bottom: 12px;
+    }
+    .article-header .meta {
+      color: rgba(255,255,255,.65);
+      font-size: .875rem; display: flex; align-items: center; gap: 12px;
+      flex-wrap: wrap;
+    }
+    .article-header .meta .sep { opacity: .4; }
+
+    /* ── Container ────────────────────────────────── */
+    .container {
+      max-width: 720px; margin: 0 auto; padding: 0 24px;
+    }
+
+    /* ── Article Body ─────────────────────────────── */
+    article { padding: 40px 0 60px; }
+    article p {
+      font-size: 1.0625rem; color: #2d2d44;
+      margin-bottom: 1.2rem;
+    }
+    article p:first-of-type { font-size: 1.15rem; color: #1a1a2e; font-weight: 500; }
+
+    article h2 {
+      font-size: 1.45rem; font-weight: 700; margin-top: 2.4rem; margin-bottom: .6rem;
+      color: #1a1a2e; line-height: 1.3;
+    }
+    article h2 .num {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 36px; height: 36px; border-radius: 10px;
+      background: linear-gradient(135deg, #7c5cfc, #5b3cd4);
+      color: #fff; font-size: .95rem; font-weight: 700;
+      margin-right: 10px; vertical-align: middle;
+    }
+    article h3 {
+      font-size: 1.15rem; font-weight: 700; margin-top: 1.6rem; margin-bottom: .4rem;
+      color: #1a1a2e;
+    }
+    article ul, article ol {
+      margin: .8rem 0 1.2rem 1.6rem;
+      font-size: 1.0625rem; color: #2d2d44;
+    }
+    article li { margin-bottom: .4rem; }
+    article strong { color: #1a1a2e; font-weight: 700; }
+
+    /* ── Image in article ─────────────────────────── */
+    .article-img {
+      margin: 2rem 0; border-radius: 16px; overflow: hidden;
+      box-shadow: 0 4px 24px rgba(0,0,0,.08);
+    }
+    .article-img img {
+      width: 100%; height: auto; display: block;
+    }
+    .article-img figcaption {
+      padding: 10px 16px; font-size: .8rem; color: #666;
+      background: #fff; border-top: 1px solid #eee;
+    }
+
+    /* ── Blockquote ───────────────────────────────── */
+    article blockquote {
+      border-left: 4px solid #7c5cfc;
+      padding: 14px 20px; margin: 1.6rem 0;
+      background: #f0ecff; border-radius: 0 12px 12px 0;
+      font-style: italic; color: #1a1a2e;
+    }
+
+    /* ── Footer ───────────────────────────────────── */
+    footer {
+      background: #1a1a2e; color: rgba(255,255,255,.7);
+      text-align: center; padding: 32px 24px;
+      font-size: .875rem; line-height: 1.6;
+    }
+    footer strong { color: #fff; }
+
+    /* ── Responsive ───────────────────────────────── */
+    @media (max-width: 600px) {
+      nav a { margin-left: 14px; font-size: .8rem; }
+      .article-header { min-height: 320px; }
+      article p { font-size: 1rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ══════════ NAV ══════════ -->
+  <nav>
+    <div class="logo">Remote<span>Produktif</span></div>
+    <div>
+      <a href="/">Beranda</a>
+      <a href="/artikel">Artikel</a>
+      <a href="/tentang">Tentang</a>
+    </div>
+  </nav>
+
+  <!-- ══════════ HERO ══════════ -->
+  <header class="article-header">
+    <div class="overlay">
+      <span class="tag">Karir &amp; Gaji</span>
+      <h1>Cara Bikin Portofolio Remote Worker yang Dilirik HRD</h1>
+      <div class="meta">
+        <span>RemoteProduktif</span>
+        <span class="sep">•</span>
+        <span>29 Mei 2026</span>
+        <span class="sep">•</span>
+        <span>~7 menit baca</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ══════════ ARTIKEL ══════════ -->
+  <div class="container">
+    <article>
+
+      <p>
+        <strong>Jujur aja — lo bisa jadi jago banget di bidang lo, tapi kalau portofolio lo berantakan, HRD bakal skip dalam 10 detik.</strong>
+        Di dunia remote work, CV aja <em>gak cukup</em>. Kenapa? Karena perusahaan remote gak bisa <em>ngelihat langsung</em> gimana lo kerja. Mereka gak bisa lewat meja lo, ngeliat lo pusing debugging, atau denger lo ngomong di meeting. Yang mereka punya cuma <strong>portofolio lo</strong>.
+      </p>
+
+      <p>
+        Portofolio adalah <em>wajah digital</em> lo. Ini bukti nyata bahwa lo bisa ngelakuin apa yang lo klaim di CV. Dan percaya atau enggak, banyak banget remote worker potensial yang <em>gagal di tahap ini</em> — bukan karena skill-nya kurang, tapi karena portofolio-nya <em>gak ngena</em>.
+      </p>
+
+      <p>
+        Di artikel ini, gue bakal jabarin <strong>gimana cara bikin portofolio remote worker yang bikin HRD auto tertarik</strong>. Mulai dari struktur yang bikin navigasi gampang, platform mana yang paling pas, sampai konten apa aja yang wajib lo masukin. Baca sampai habis, ya!
+      </p>
+
+      <!-- Gambar 1 -->
+      <figure class="article-img">
+        <img src="https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?w=800&q=80"
+             alt="Workspace remote worker dengan laptop dan catatan"
+             loading="lazy">
+        <figcaption>Portofolio yang rapi dan profesional adalah kunci pertama buat dilirik HRD.</figcaption>
+      </figure>
+
+      <!-- ── POIN 1 ── -->
+      <h2><span class="num">1</span>Kenapa Portofolio Itu Penting Banget buat Remote Worker?</h2>
+      <p>
+        Coba bayangin lo jadi HRD yang harus screening 200 kandidat dalam seminggu. Lo buka satu CV, baca "Saya berpengalaman di bidang digital marketing". Trus lo scroll LinkedIn-nya — isinya kosong. <em>Males banget, kan?</em>
+      </p>
+      <p>
+        Nah, portofolio itu <strong>bukti</strong>. Bukan klaim. Kalau lo bilang jago bikin konten, tunjukkin kontennya. Kalau lo bilang jago <em>project management</em>, tunjukkin project apa yang udah lo handle. Sederhana.
+      </p>
+      <p>
+        Buat remote worker, portofolio juga ngebantu ngatasin satu masalah besar: <strong>trust issue</strong>. Karena lo gak ketemu langsung, perusahaan perlu alat buat nge-<em>verify</em> skill lo. Portofolio adalah alat itu. Makin lengkap dan rapi portofolio lo, makin tinggi <em>trust factor</em> dari HRD.
+      </p>
+
+      <!-- ── POIN 2 ── -->
+      <h2><span class="num">2</span>Struktur Portofolio yang Bikin HRD Betah Baca</h2>
+      <p>
+        <em>Gak perlu ribet.</em> Struktur portofolio yang baik itu simpel, bersih, dan langsung ke poin. HRD gak punya waktu 15 menit buat baca satu portofolio. Rata-rata <strong>30-60 detik</strong> aja mereka ngeliat. Jadi buat yang penting-penting aja.
+      </p>
+
+      <h3>Splash / Intro Singkat</h3>
+      <p>
+        2-3 kalimat yang ngejelasin lo siapa dan apa yang lo lakuin. Contoh: <em>"I'm a UX Writer based in Jakarta. I help SaaS companies write clear, human product copy."</em> Langsung jelas, kan?
+      </p>
+
+      <h3>Project Showcase (Core)</h3>
+      <p>
+        Ini <strong>bagian terpenting</strong>. Pilih 3-5 project terbaik lo. Buat tiap project, jelasin:
+      </p>
+      <ul>
+        <li><strong>Masalahnya</strong> — apa yang mau lo selesain?</li>
+        <li><strong>Prosesnya</strong> — gimana lo nyari solusi?</li>
+        <li><strong>Hasilnya</strong> — apa dampak dari kerjaan lo? (pakai angka kalau bisa!)</li>
+      </ul>
+      <p>
+        Jangan cuma nampilin gambar atau link. Ceritain <em>proses</em> lo. Itu yang bikin HRD lihat kalau lo punya <strong>cara pikir strategis</strong>.
+      </p>
+
+      <h3>Skills &amp; Tools</h3>
+      <p>
+        Daftarin skill dan tool yang lo kuasain dengan jujur. Gak usah nambah-nambahin. Kalau ditanya di interview dan lo gak bisa jawab, itu <em>reputasi lo yang taruhannya</em>.
+      </p>
+
+      <h3>Testimonial / Rekomendasi</h3>
+      <p>
+        Kalau ada mantan klien atau atasan yang kasih <em>review</em> bagus, pajang di portofolio. <strong>Sosial bukti</strong> itu powerful banget. Orang lebih percaya kata orang lain daripada kata diri lo sendiri.
+      </p>
+
+      <h3>Contact &amp; Link Penting</h3>
+      <p>
+        Jangan bikin HRD <em>nyari-nyari</em> cara hubungin lo. Taruh email, LinkedIn, dan kalau ada nomor WhatsApp profesional. Yang gampang dijangkau.
+      </p>
+
+      <!-- Gambar 2 -->
+      <figure class="article-img">
+        <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80"
+             alt="Proses kreatif bikin portofolio dengan berbagai alat"
+             loading="lazy">
+        <figcaption>Ceritain proses pengerjaan project di portofolio lo — bukan cuma hasil akhirnya.</figcaption>
+      </figure>
+
+      <!-- ── POIN 3 ── -->
+      <h2><span class="num">3</span>Platform Portofolio: Mana yang Paling Pas?</h2>
+      <p>
+        Lo gak perlu jadi <em>web developer</em> buat bikin portofolio keren. Banyak platform yang tinggal <em>isi-isi</em> aja. Tapi pilihan platformnya tergantung bidang lo:
+      </p>
+
+      <ul>
+        <li><strong>LinkedIn</strong> — wajib buat semua orang. Isi <em>featured section</em>-nya dengan project terbaik. Ini portofolio paling simpel dan paling sering dilihat HRD pertama kali.</li>
+        <li><strong>Behance / Dribbble</strong> — cocok buat desainer, ilustrator, dan kreator visual. Komunitasnya gede, exposure-nya tinggi.</li>
+        <li><strong>GitHub / GitLab</strong> — wajib buat developer. Rapihin repo lo, tambahin README yang jelas, dan highlight project yang paling impressive.</li>
+        <li><strong>Notion</strong> — fleksibel buat semua bidang. Bikin portofolio pake Notion terus share link-nya. Gratis, gampang, dan keliatan profesional.</li>
+        <li><strong>Website sendiri</strong> — nilai plus besar. Pake Carrd, Swoosh, atau bikin dari nol. Domain sendiri ngasih kesan lo <em>serius</em> sama karir lo.</li>
+      </ul>
+
+      <p>
+        Tips: <strong>gak perlu semua platform</strong>. Cukup pilih 1-2 yang paling cocok, tapi isi dengan maksimal. Lebih baik punya satu portofolio yang <em>mind-blowing</em> daripada lima yang setengah-setengah.
+      </p>
+
+      <!-- ── POIN 4 ── -->
+      <h2><span class="num">4</span>Konten yang Wajib Ada di Portofolio Lo</h2>
+      <p>
+        Ini <em>make or break</em>. Banyak orang bikin portofolio yang isinya cuma <em>"ini hasil kerja saya, ini gambarnya, terima kasih"</em>. Gak cukup. HRD butuh <strong>konteks</strong>.
+      </p>
+
+      <h3>Pakai Metode STAR (Situation, Task, Action, Result)</h3>
+      <p>
+        Ini teknik standar di dunia rekrutmen. Buat tiap project di portofolio lo, ceritain:
+      </p>
+      <ul>
+        <li><strong>Situation:</strong> kondisi atau masalah yang lo hadapi</li>
+        <li><strong>Task:</strong> peran lo di situasi itu</li>
+        <li><strong>Action:</strong> langkah konkret yang lo ambil</li>
+        <li><strong>Result:</strong> hasil yang tercapai, pakai data kalau mungkin</li>
+      </ul>
+      <p>
+        Contoh: <em>"Company X punya bounce rate 70% (Situation). Gue ditugasinin nurunin bounce rate lewat redesign homepage (Task). Gue audit UX, A/B testing 3 varian, dan implementasi yang paling optimal (Action). Hasilnya bounce rate turun ke 45% dalam 2 bulan (Result)."</em> Ini <strong>jauh</strong> lebih powerful daripada cuma nunjukkin screenshot homepage.
+      </p>
+
+      <h3>Tambahin Angka dan Data</h3>
+      <p>
+        "Menaikkan engagement" itu <em>biasa</em>. "Menaikkan engagement 40% dalam 3 bulan" itu <em>impresif</em>. Angka itu bahasa universal yang langsung ngasih gambaran ke HRD soal dampak lo.
+      </p>
+
+      <h3>Tampilin Proses, Bukan Cuma Hasil</h3>
+      <p>
+        Ini yang paling sering dilupain. Hasil akhir emang penting, tapi <strong>proses nunjukkin skill lo</strong>. Lo riset gak? Lo pake data apa? Lo cobain pendekatan apa yang gagal? Itu semua nunjukkin kalau lo punya <em>growth mindset</em>.
+      </p>
+
+      <!-- ── POIN 5 ── -->
+      <h2><span class="num">5</span>Kesalahan Fatal yang Bikin Portofolio Lo Dilewatin</h2>
+      <p>
+        Udah susah-susah bikin, eh HRD cuma lihat 5 detik terus <em>skip</em>. Jangan sampe. Ini beberapa <em>red flag</em> yang bikin portofolio lo gak dilirik:
+      </p>
+
+      <ul>
+        <li><strong>Link broken / gambar gak muncul</strong> — ini nomor satu. Cek portofolio lo secara berkala. Gak ada yang lebih bikin <em>malas</em> daripada ngeklik link tapi <em>404</em>.</li>
+        <li><strong>Terlalu panjang dan bertele-tele</strong> — HRD gak punya banyak waktu. Potong yang gak perlu. Fokus ke project yang paling relevan sama posisi yang lo lamar.</li>
+        <li><strong>Gak ada konteks</strong> — nampilin hasil doang tanpa cerita. "Ini redesign app" tanpa jelasin kenapa dan gimana. Zonk.</li>
+        <li><strong>Desain berantakan</strong> — lo gak perlu jadi desainer, tapi pastiin portofolio lo rapi. Font gak selera? Ganti. Warna mencolok? Simplifikasi.</li>
+        <li><strong>Gak diupdate</strong> — portofolio dengan project terakhir tahun 2022 itu <em>red flag</em>. HRD bakal mikir lo udah lama gak aktif atau gak punya perkembangan.</li>
+        <li><strong>Gak mobile-friendly</strong> — banyak HRD yang ngecek portofolio dari HP sambil commuting. Kalau tampilan lo berantakan di HP, <em>auto skip</em>.</li>
+      </ul>
+
+      <!-- ── POIN 6 ── -->
+      <h2><span class="num">6</span>Tips Tambahan Biar Portofolio Lo Makin Standout</h2>
+      <p>
+        Oke, lo udah punya struktur yang bener, isi yang berkualitas, dan platform yang pas. Tapi gimana biar portofolio lo <em>bener-bener standout</em> di antara ratusan kandidat lain?
+      </p>
+
+      <ul>
+        <li><strong>Customize per lamaran</strong> — jangan kirim portofolio yang sama ke semua perusahaan. Highlight project yang relevan sama industri atau posisi yang lo tuju. Ini effort ekstra kecil tapi dampaknya gede.</li>
+        <li><strong>Tambahin personal touch</strong> — foto lo yang profesional (bukan selfie di kamar), bio yang relatable, dan mungkin sedikit <em>personality</em> lewat tulisan. Ingat, HRD juga manusia.</li>
+        <li><strong>Case study mendalam</strong> — daripada 10 project yang dangkal, mending 3 project dengan case study yang lengkap. Satu case study yang solid nilainya jauh lebih tinggi.</li>
+        <li><strong>Link ke social proof</strong> — testimonial LinkedIn, mention di artikel, atau hasil kerja yang dipublish di publik. Semua itu nambah kredibilitas.</li>
+        <li><strong>SEO-friendly</strong> — kalau lo pake website sendiri, pastiin judul, meta description, dan URL-nya rapi. Siapa tau HRD nemu portofolio lo dari Google.</li>
+      </ul>
+
+      <blockquote>
+        "Your portfolio is not just a collection of your work. It's a story of your professional journey." — Anonymous
+      </blockquote>
+
+      <!-- ── CLOSING ── -->
+      <h2 style="margin-top:3rem;">Mulai Bikin Portofolio Lo Sekarang</h2>
+      <p>
+        Gak ada kata terlambat buat mulai. Bahkan kalau lo baru pertama kali bikin portofolio, <strong>lebih baik portofolio sederhana daripada gak punya sama sekali</strong>. Mulai dari satu project. Rapihin. Upload. Share.
+      </p>
+      <p>
+        Ingat, di dunia remote worker, <em>portofolio adalah tiket lo buat masuk ke perusahaan impian</em>. HRD gak bisa ngelihat lo kerja langsung, tapi mereka bisa ngelihat bukti kerja lo. Jangan sia-siain kesempatan itu.
+      </p>
+      <p>
+        Yuk, gas bikin portofolio. Mulai dari riset, kumpulin project-project terbaik lo, dan susun dengan struktur yang gue kasih di atas. Kalau lo konsisten ngupdate portofolio lo, <strong>lamaran kerja lo bakal jauh lebih diperhitungkan</strong>. Trust me.
+      </p>
+      <p>
+        Lo butuh bantuan lebih lanjut? Ada topik spesifik soal portofolio yang pengen lo dalemin? <em>Drop a comment atau sharing aja</em> — gue seneng banget kalau artikel ini berguna buat lo. 🚀
+      </p>
+
+      <p><strong>— RemoteProduktif</strong></p>
+
+    </article>
+  </div>
+
+  <!-- ══════════ FOOTER ══════════ -->
+  <footer>
+    <p>© 2026 RemoteProduktif — digagas oleh fmindrayana</p>
+  </footer>
+
+</body>
+</html>
