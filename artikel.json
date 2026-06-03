@@ -438,5 +438,69 @@
     "tag": "Fokus & Produktivitas",
     "img": "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?w=600&q=80",
     "date": "1 Juni 2026"
+  },
+  {
+    "slug": "flow-state-ritual-remote",
+    "title": "Flow State Ritual: Cara Masuk Zona Fokus Maksimal dalam 5 Menit",
+    "desc": "Panduan lengkap ritual memasuki flow state buat remote worker. Teknik terbukti masuk zona fokus maksimal dalam hitungan menit tanpa nunggu mood.",
+    "tag": "Fokus & Produktivitas",
+    "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=80",
+    "date": "4 Juni 2026"
+  },
+  {
+    "slug": "budaya-async-first-remote",
+    "title": "Budaya Async-First: Cara Membangun Tim Remote Tanpa Meeting Real-Time",
+    "desc": "Panduan membangun budaya async-first di tim remote. Kurangi meeting, tingkatkan produktivitas, dan bebaskan tim dari notifikasi real-time.",
+    "tag": "Komunikasi & Kolaborasi",
+    "img": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&q=80",
+    "date": "4 Juni 2026"
+  },
+  {
+    "slug": "remote-performance-review",
+    "title": "Remote Performance Review: Menilai Kinerja Tim Jarak Jauh Tanpa Bias",
+    "desc": "Panduan lengkap performance review untuk tim remote. Cara menilai kinerja secara objektif, tanpa bias, dan memotivasi anggota tim jarak jauh.",
+    "tag": "Manajemen & Karir",
+    "img": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+    "date": "4 Juni 2026"
+  },
+  {
+    "slug": "keuangan-remote-worker",
+    "title": "Keuangan Remote Worker: Atur Uang dengan Pendapatan yang Tidak Tetap",
+    "desc": "Panduan lengkap mengatur keuangan untuk remote worker dan freelancer dengan pendapatan tidak tetap. Dari budgeting, dana darurat, sampai investasi.",
+    "tag": "Keuangan & Karir",
+    "img": "https://images.unsplash.com/photo-1579621970563-449ec573e012?w=600&q=80",
+    "date": "4 Juni 2026"
+  },
+  {
+    "slug": "belajar-skill-baru-remote",
+    "title": "Belajar Skill Baru Saat Remote: Panduan Learning & Development untuk Pekerja Jarak Jauh",
+    "desc": "Panduan lengkap belajar skill baru untuk remote worker. Strategi L&D efektif dari kursus online, proyek sampingan, sampai network learning.",
+    "tag": "Karir & Pengembangan",
+    "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+    "date": "4 Juni 2026"
+  },
+  {
+    "slug": "perbedaan-zona-waktu-remote",
+    "title": "Mengelola Perbedaan Zona Waktu dalam Tim Remote Global",
+    "desc": "Strategi dan tools mengelola perbedaan zona waktu di tim remote global. Dari sinkronisasi jadwal, async-first, sampai kebijakan timezone-inclusive.",
+    "tag": "Kolaborasi Tim",
+    "img": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=600&q=80",
+    "date": "4 Juni 2026"
+  },
+  {
+    "slug": "mental-health-workout-remote",
+    "title": "Mental Health Workout: Latihan Kesehatan Mental Khusus Remote Worker",
+    "desc": "Panduan latihan kesehatan mental untuk remote worker. Dari morning mindset, digital boundaries, sampai weekly mental check-in yang praktis.",
+    "tag": "Kesehatan Mental",
+    "img": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+    "date": "4 Juni 2026"
+  },
+  {
+    "slug": "komunikasi-tertulis-efektif",
+    "title": "Seni Komunikasi Tertulis Efektif buat Remote Worker: Tulis Lebih Sedikit, Dampak Lebih Besar",
+    "desc": "Panduan komunikasi tertulis efektif untuk remote worker. Teknik menulis pesan, email, dan dokumen yang jelas, ringkas, dan impactful.",
+    "tag": "Komunikasi",
+    "img": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=80",
+    "date": "4 Juni 2026"
   }
 ]
