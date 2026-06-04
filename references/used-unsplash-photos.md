@@ -46,3 +46,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1503676260728-1c00da094a0b | platform-belajar-skill-baru-remote-worker | 4 Juni 2026 |
 | 1451187580459-43490279c0fa | tips-manajemen-zona-waktu-tim-remote | 4 Juni 2026 |
 | 1517245386807-bb43f82c33c4 | slack-vs-teams-vs-discord | 4 Juni 2026 |
+| 1544367567-0f2fcb009e0b | jaga-kesehatan-mental-remote | 4 Juni 2026 |
