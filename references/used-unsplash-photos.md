@@ -42,3 +42,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1593642632559-0c6d3fc62b89 | wfh-setup-budget-friendly, investasi-peralatan-wfh | 29 Mei 2026 |
 | 1560472354-b33ff0c44a43 | minta-kenaikan-gaji-remote-worker | 4 Juni 2026 |
 | 1600880292203-757bb62b4baf | mengelola-tim-remote-manager | 29 Mei 2026 |
+| 1529156069898-49953e39b3ac | team-building-remote | 4 Juni 2026 |
