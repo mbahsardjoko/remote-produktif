@@ -56,3 +56,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1551288049-bebda4e38f71 | microlearning-efektif-remote-worker | 5 Juni 2026 |
 | 1559526324-593bc073d938 | kolaborasi-tim-remote-zona-waktu-berbeda | 5 Juni 2026 |
 | 1486312338219-ce68d2c6f44d | notion-vs-confluence-remote | 5 Juni 2026 |
+| 1496181133206-80ce9b88a853 | self-review-evaluasi-kinerja-remote | 5 Juni 2026 |
