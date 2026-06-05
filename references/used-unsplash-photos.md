@@ -52,3 +52,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1516321497487-e288fb19713f | budaya-perusahaan-remote | 5 Juni 2026 |
 | 1476480862126-209bfaa8edc8 | membangun-rutinitas-olahraga-remote | 5 Juni 2026 |
 | 1504639725590-34d0984388bd | cara-mengatasi-kelelahan-zoom-meeting-remote | 5 Juni 2026 |
+| 1563013544-824ae1b704d3 | sertifikasi-online-remote-2026 | 5 Juni 2026 |
