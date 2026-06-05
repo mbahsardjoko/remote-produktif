@@ -15,3 +15,5 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1556228578-0d85b1a4d571 | Purple skincare — JANGAN PAKE (skincare, not relevant) | 5 Juni 2026 |
 | 1476480862126-209bfaa8edc8 | Jogging/running shoes walking up stairs | 5 Juni 2026 |
 | 1559526324-593bc073d938 | Laptop minimalis/team collaboration | 5 Juni 2026 |
+| 1486312338219-ce68d2c6f44d | Laptop workspace — documentation/knowledge management | 5 Juni 2026 |
+| 1496181133206-80ce9b88a853 | Meja kerja minimalis — cocok buat artikel tools & setup | 5 Juni 2026 |
