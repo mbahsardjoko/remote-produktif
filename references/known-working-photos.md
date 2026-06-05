@@ -13,3 +13,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1551288049-bebda4e38f71 | Laptop dengan web analytics dashboard | 5 Juni 2026 |
 | 1460925895917-afdab827c52f | Laptop profesional dengan data dashboard | 5 Juni 2026 |
 | 1556228578-0d85b1a4d571 | Purple skincare — JANGAN PAKE (skincare, not relevant) | 5 Juni 2026 |
+| 1476480862126-209bfaa8edc8 | Jogging/running shoes walking up stairs | 5 Juni 2026 |
