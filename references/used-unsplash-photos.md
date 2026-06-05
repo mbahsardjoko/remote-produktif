@@ -49,3 +49,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1544367567-0f2fcb009e0b | jaga-kesehatan-mental-remote | 4 Juni 2026 |
 | 1555066931-4365d14bab8c | keamanan-digital-remote-worker | 5 Juni 2026 |
 | 1460925895917-afdab827c52f | keamanan-digital-remote-worker (inline) | 5 Juni 2026 |
+| 1516321497487-e288fb19713f | budaya-perusahaan-remote | 5 Juni 2026 |
