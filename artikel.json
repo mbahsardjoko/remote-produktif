@@ -1,642 +1,706 @@
 [
-  {
-    "slug": "self-review-evaluasi-kinerja-remote",
-    "title": "Self-Review dan Evaluasi Kinerja buat Remote Worker — Cara Ngukur Performa Sendiri",
-    "desc": "Gak ada bos yang ngawasin? Lakuin self-review secara rutin. Panduan lengkap evaluasi kinerja buat remote worker biar karir tetap naik.",
-    "tag": "Karir & Pengembangan",
-    "img": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "notion-vs-confluence-remote",
-    "title": "Notion vs Confluence — Mana Tools Dokumentasi Remote Terbaik buat Tim Lo?",
-    "desc": "Bandingin Notion vs Confluence buat kerja remote. Fitur, harga, kemudahan pake, dan rekomendasi tim — biar lo gak salah pilih tools dokumentasi tim.",
-    "tag": "Tools & Review",
-    "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "kolaborasi-tim-remote-zona-waktu-berbeda",
-    "title": "Cara Kolaborasi Efektif buat Tim Remote di Zona Waktu Berbeda",
-    "desc": "7 strategi kolaborasi tim remote lintas zona waktu. Cara atur overlap, pake tools async, dan bikin budaya tim biar kerja jarak jauh makin lancar.",
-    "tag": "Kolaborasi Tim",
-    "img": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "microlearning-efektif-remote-worker",
-    "title": "Microlearning Efektif untuk Remote Worker yang Sibuk — Belajar 15 Menit Sehari, Hasilnya Gak Main-Main",
-    "desc": "Gak punya waktu buat belajar skill baru? Coba microlearning — belajar 10-15 menit per hari yang hasilnya gak kalah dari kursus panjang.",
-    "tag": "Karir & Pengembangan",
-    "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "sertifikasi-online-remote-2026",
-    "title": "7 Sertifikasi Online yang Paling Dicari Perusahaan Remote 2026",
-    "desc": "Pengen dilirik perusahaan remote global? Ini 7 sertifikasi online yang paling dicari HRD di 2026 — dari project management sampe technical writing.",
-    "tag": "Karir & Pengembangan",
-    "img": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "cara-mengatasi-kelelahan-zoom-meeting-remote",
-    "title": "Cara Mengatasi Zoom Fatigue — 7 Strategi biar Meeting Gak Bikin Lelah Mental",
-    "desc": "Rasanya abis meeting online langsung lemes? Itu Zoom Fatigue. Ini 7 strategi nyata buat ngatasin kelelahan meeting di kerja remote.",
-    "tag": "Komunikasi & Kolaborasi",
-    "img": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "membangun-rutinitas-olahraga-remote",
-    "title": "Membangun Rutinitas Olahraga saat Kerja Remote — 7 Tips Biar Tubuh Tetap Bugar",
-    "desc": "Duduk 8+ jam sehari bikin badan sakit? Ini 7 cara membangun rutinitas olahraga buat remote worker. Simpel, gak perlu gym, langsung bisa dipraktekin.",
-    "tag": "Kesehatan Mental",
-    "img": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "budaya-perusahaan-remote",
-    "title": "Membangun Budaya Perusahaan Remote yang Kuat — Panduan untuk Manajer dan Tim",
-    "desc": "Panduan membangun budaya perusahaan remote yang solid. Dari values, rituals, komunikasi, sampe team bonding — biar tim lo kompak meski jarak pisah.",
-    "tag": "Manajemen Tim",
-    "img": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "keamanan-digital-remote-worker",
-    "title": "Keamanan Digital buat Pekerja Remote — Panduan Lengkap dari A sampai Z",
-    "desc": "Panduan keamanan digital buat pekerja remote Indonesia. Dari VPN, password manager, sampe tips aman WiFi publik — biar data lo gak gampang dibobol.",
-    "tag": "Tools & Setup",
-    "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "wawancara-kerja-remote-lolos-interview-online",
-    "title": "Wawancara Kerja Remote: Cara Lolos Interview Online dari HRD Perusahaan Global",
-    "desc": "Panduan lengkap lolos interview kerja remote dari HRD global. Dari persiapan teknis, teknik STAR, sampai follow-up yang bikin HRD inget terus.",
-    "tag": "Karir",
-    "img": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
-    "date": "3 Juni 2026"
-  },
-  {
-    "slug": "cara-fokus-kerja-remote-tanpa-gangguan",
-    "title": "Cara Fokus Kerja Remote Tanpa Gangguan — 7 Strategi yang Works",
-    "desc": "7 strategi jitu biar fokus kerja remote maksimal. Dari bikin zona fokus sampai teknik deep work.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
-    "date": "26 Mei 2026"
-  },
-  {
-    "slug": "cara-mengatasi-burnout-kerja-remote",
-    "title": "Cara Mengatasi Burnout Kerja Remote — 6 Tips Langsung Praktek",
-    "desc": "Burnout kerja remote itu nyata. Ini 6 cara mengatasinya: batasan jam kerja, ritual after work, sampai detoks digital.",
-    "tag": "Work-Life Balance",
-    "img": "https://images.unsplash.com/photo-1520333789090-1afc82db536a?w=600&q=80",
-    "date": "26 Mei 2026"
-  },
-  {
-    "slug": "cara-kurangi-rapat-gak-jelas",
-    "title": "Meeting Fatigue? 7 Cara Kurangi Rapat Gak Jelas di Kerja Remote",
-    "desc": "Bosan meeting mulu tapi gak produktif? Ini 7 cara kurangi rapat gak jelas di kerja remote. Dijamin waktu lo balik lagi.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=80",
-    "date": "26 Mei 2026"
-  },
-  {
-    "slug": "tools-wfh-wajib",
-    "title": "Tools WFH Wajib: 9 Rekomendasi Biar Kerja Remote Mak Lancar",
-    "desc": "Bingung tools WFH apa aja yang wajib dipake? Ini 9 rekomendasi aplikasi remote worker dari项目管理, komunikasi, sampai fokus.",
-    "tag": "Tools & Review",
-    "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
-    "date": "26 Mei 2026"
-  },
-  {
-    "slug": "komunikasi-async-remote",
-    "title": "Komunikasi Async: Biar Gak Perlu Meeting Terus di Kerja Remote",
-    "desc": "Komunikasi asinkron bikin lo bebas dari meeting gak jelas. Panduan lengkap cara nerapin async communication di tim remote.",
-    "tag": "Komunikasi",
-    "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
-    "date": "26 Mei 2026"
-  },
-  {
-    "slug": "manajemen-energi-kerja-remote",
-    "title": "Manajemen Energi Bukan Manajemen Waktu: Rahasia Produktif Tanpa Lelah",
-    "desc": "Berhenti manajemen waktu — mulai manajemen energi. Panduan kerja remote berdasarkan level energi, bukan jam kerja.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
-    "date": "26 Mei 2026"
-  },
-  {
-    "slug": "negosiasi-gaji-remote",
-    "title": "Negosiasi Gaji Remote: Cara Biar Dapet Bayaran Setimpal Tanpa ke Kantor",
-    "desc": "Panduan negosiasi gaji kerja remote buat pekerja Indonesia. Dari riset pasar sampe teknik ngomong yang bikin HRD iya.",
-    "tag": "Karir & Gaji",
-    "img": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=600&q=80",
-    "date": "26 Mei 2026"
-  },
-  {
-    "slug": "deep-work-remote",
-    "title": "Deep Work: Cara Kerja Lebih Pintar di Era Remote yang Penuh Distraksi",
-    "desc": "Pelajari teknik deep work ala Cal Newport yang cocok buat remote worker Indonesia. Kerja lebih sedikit, hasil lebih banyak.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
-    "date": "28 Mei 2026"
-  },
-  {
-    "slug": "time-blocking-remote",
-    "title": "Time Blocking: Teknik Manajemen Waktu Paling Efektif buat Remote Worker",
-    "desc": "Time blocking adalah senjata rahasia pekerja remote produktif. Panduan lengkap cara terapinnya biar kerjaan beres tanpa lembur.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=600&q=80",
-    "date": "28 Mei 2026"
-  },
-  {
-    "slug": "wfh-setup-ideal",
-    "title": "WFH Setup Ideal: Panduan Lengkap Home Office biar Produktivitas Maksimal",
-    "desc": "Setup WFH yang ergonomis bikin badan sehat dan produktivitas naik. Panduan lengkap dari kursi, meja, pencahayaan sampai aksesoris.",
-    "tag": "Tools & Setup",
-    "img": "https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=600&q=80",
-    "date": "28 Mei 2026"
-  },
-  {
-    "slug": "work-life-balance-remote",
-    "title": "Work-Life Balance Saat Kerja Remote: Mitos, Fakta, dan Strategi Nyata",
-    "desc": "Mitos work-life balance di remote work bikin banyak orang salah langkah. Ini fakta dan strategi nyata yang beneran works.",
-    "tag": "Work-Life Balance",
-    "img": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=600&q=80",
-    "date": "28 Mei 2026"
-  },
-  {
-    "slug": "rutinitas-pagi-remote-produktif",
-    "title": "Rutinitas Pagi Remote Worker Produktif: Mulai Hari dengan Energi Maksimal",
-    "desc": "Rutinitas pagi yang tepat bikin produktivitas remote kerja lo naik drastis. Dari bangun tidur sampai jam kerja pertama.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
-    "date": "28 Mei 2026"
-  },
-  {
-    "slug": "atasi-prokrastinasi-wfh",
-    "title": "Atasi Prokrastinasi Saat WFH: 7 Cara Berhenti Nunda-nunda Pekerjaan",
-    "desc": "Prokrastinasi musuh terbesar pekerja remote. Ini 7 cara jitu berhenti nunda-nunda kerjaan dan mulai produktif.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&q=80",
-    "date": "28 Mei 2026"
-  },
-  {
-    "slug": "kolaborasi-tim-remote-efektif",
-    "title": "Cara Efektif Kolaborasi Tim Remote Tanpa Ribet dan Meeting Berlebihan",
-    "desc": "Kolaborasi tim remote gak harus berarti meeting terus. Ini cara efektif kerja sama tim jarak jauh dengan tools dan komunikasi async.",
-    "tag": "Kolaborasi",
-    "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
-    "date": "28 Mei 2026"
-  },
-  {
-    "slug": "skill-wajib-remote-worker-2026",
-    "title": "7 Skill Wajib Remote Worker di 2026 Biar Karir Makin Moncer",
-    "desc": "Skill apa aja yang harus dikuasai remote worker biar tetap relevan dan kompetitif di tahun 2026? Ini daftar lengkapnya.",
-    "tag": "Karir",
-    "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-    "date": "28 Mei 2026"
-  },
-  {
-    "slug": "digital-detox-remote-worker",
-    "title": "Digital Detox untuk Remote Worker: Cara Reset Otak Biar Produktivitas Balik Lagi",
-    "desc": "Digital detox adalah kebutuhan buat remote worker yang kecanduan layar. Panduan lengkap reset otak biar produktivitas dan fokus balik.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "kerja-remote-coffee-shop",
-    "title": "Kerja Remote dari Coffee Shop: Panduan Lengkap Biar Tetap Produktif",
-    "desc": "Kerja dari coffee shop emang asik, tapi gampang lost fokus. Ini panduan lengkap biar produktif meskipun kerja dari kafe favorit.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "meeting-15-menit-efisien",
-    "title": "Meeting 15 Menit yang Efisien: Cara Rapat Cepat Tanpa Mengorbankan Kualitas",
-    "desc": "Rapat 15 menit aja cukup kalau caranya tepat. Panduan bikin meeting efisien buat tim remote yang pengen produktif tanpa buang waktu.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "networking-virtual-remote",
-    "title": "Networking Virtual: Cara Membangun Koneksi Profesional sebagai Remote Worker",
-    "desc": "Networking virtual adalah skill penting remote worker. Pelajari cara membangun koneksi profesional online yang bener-bener menghasilkan.",
-    "tag": "Karir",
-    "img": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "resiliensi-mental-remote-worker",
-    "title": "Resiliensi Mental Remote Worker: Cara Tetap Kuat di Tengah Tekanan",
-    "desc": "Resiliensi mental kunci sukses remote worker jangka panjang. Pelajari cara membangun ketahanan mental biar tetap produktif dan sehat.",
-    "tag": "Work-Life Balance",
-    "img": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "self-accountability-remote",
-    "title": "Self-Accountability: Cara Disiplin Kerja Remote Tanpa Diawasi Bos",
-    "desc": "Self-accountability adalah kunci sukses kerja remote. Pelajari cara disiplin dan bertanggung jawab tanpa harus diawasi.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "side-hustle-remote-worker",
-    "title": "Side Hustle untuk Remote Worker: 7 Ide Sampingan yang Cocok",
-    "desc": "Punya waktu fleksibel sebagai remote worker? Manfaatin buat side hustle. 7 ide bisnis sampingan yang cocok buat pekerja remote.",
-    "tag": "Karir",
-    "img": "https://images.unsplash.com/photo-1553729459-afe8f2e2c2a0?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "single-tasking-vs-multitasking-remote",
-    "title": "Single Tasking vs Multitasking: Mitos Produktivitas Remote yang Wajib Kamu Tahu",
-    "desc": "Multitasking itu mitos? Single tasking beneran lebih produktif? Simak perbandingan lengkapnya buat remote worker Indonesia.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "teknik-pomodoro-remote-worker",
-    "title": "Teknik Pomodoro untuk Remote Worker: Fokus 25 Menit yang Bikin Produktivitas Naik Drastis",
-    "desc": "Teknik Pomodoro adalah senjata rahasia remote worker produktif. Pelajari cara terapin Pomodoro biar fokus maksimal tanpa burnout.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "time-boxing-vs-time-blocking",
-    "title": "Time Boxing vs Time Blocking: Pilih Mana buat Jadwal Remote yang Efektif?",
-    "desc": "Time boxing dan time blocking adalah dua teknik manajemen waktu. Mana yang lebih cocok buat remote worker? Simak perbandingan lengkapnya.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "wfh-setup-budget-friendly",
-    "title": "WFH Setup Budget-Friendly: Tetap Produktif Tanpa Harus Keluar Banyak Uang",
-    "desc": "Setup WFH nggak harus mahal. Panduan lengkap home office budget-friendly buat remote worker Indonesia yang tetap bikin produktivitas maksimal.",
-    "tag": "Tools & Setup",
-    "img": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "tanda-burnout-remote-worker",
-    "title": "7 Tanda Burnout Remote Worker yang Sering Terlewat (dan Cara Mencegahnya)",
-    "desc": "Burnout kerja remote sering datang tanpa disadari. Kenali 7 tanda awal burnout yang sering terlewat dan cara mencegahnya sebelum parah.",
-    "tag": "Work-Life Balance",
-    "img": "https://images.unsplash.com/photo-1520333789090-1afc82db536a?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "ritual-deep-work-remote",
-    "title": "Membangun Ritual Deep Work: Persiapan Sebelum Masuk Zona Fokus Maksimal",
-    "desc": "Ritual sebelum deep work adalah kunci masuk zona fokus. Pelajari cara membangun ritual yang bikin kerja remote kamu lebih produktif.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "standup-async-remote",
-    "title": "Standup Async: Alternatif Daily Meeting yang Lebih Efisien buat Tim Remote",
-    "desc": "Standup async adalah alternatif daily meeting sinkron. Pelajari cara terapin async standup biar tim remote lebih efisien tanpa meeting berlebihan.",
-    "tag": "Komunikasi",
-    "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "boundaries-sehat-kerja-remote",
-    "title": "Menciptakan Batasan (Boundaries) yang Sehat Saat Kerja Remote",
-    "desc": "Boundaries saat kerja remote adalah kunci work-life balance. Pelajari cara menetapkan batasan sehat dengan atasan, tim, dan keluarga.",
-    "tag": "Work-Life Balance",
-    "img": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "personal-brand-remote-worker",
-    "title": "Cara Membangun Personal Brand sebagai Remote Worker Biar Dilirik Rekruter",
-    "desc": "Personal brand penting banget buat remote worker. Pelajari cara membangun personal branding biar makin dilirik rekruter dan klien global.",
-    "tag": "Karir",
-    "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "portofolio-remote-worker",
-    "title": "Cara Bikin Portofolio Remote Worker yang Dilirik HRD",
-    "desc": "Gini cara bikin portofolio remote worker yang bikin HRD auto kepo. Dari struktur, platform, sampai tips bikin portofolio yang standout.",
-    "tag": "Karir & Gaji",
-    "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "mengelola-tim-remote-manager",
-    "title": "Mengelola Tim Remote: Panduan untuk Manager Pemula",
-    "desc": "Panduan lengkap mengelola tim remote buat manager pemula. Dari komunikasi async, trust building, sampai tools kolaborasi dan meeting efisien.",
-    "tag": "Manajemen Tim",
-    "img": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
-    "date": "29 Mei 2026"
-  },
-  {
-    "slug": "atur-notifikasi-produktif-remote",
-    "title": "Atur Notifikasi Biar Produktif, Bukan Stres — Panduan Remote Worker",
-    "desc": "Notifikasi adalah musuh produktivitas remote worker. Pelajari cara atur notifikasi biar kerja lo makin fokus tanpa stres ketinggalan info.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "budaya-dokumentasi-async",
-    "title": "Dokumentasi Async: Rahasia Tim Remote Punya Knowledge Base yang Solid",
-    "desc": "Dokumentasi async adalah fondasi komunikasi tim remote yang solid. Pelajari cara membangun knowledge base tanpa meeting yang gak perlu.",
-    "tag": "Komunikasi",
-    "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "ergonomi-wfh-kesehatan-fisik",
-    "title": "Ergonomi WFH: Panduan Lengkap Kesehatan Fisik buat Remote Worker Indonesia",
-    "desc": "Panduan ergonomi WFH lengkap buat remote worker Indonesia. Dari posisi duduk, setup meja, sampai gerakan stretching biar badan tetap sehat.",
-    "tag": "Tools & Setup",
-    "img": "https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "freelance-vs-fulltime-remote",
-    "title": "Freelance vs Full-Time Remote: Mana yang Cocok Buat Karir Kamu?",
-    "desc": "Bingung milih freelance atau full-time remote? Simak perbandingan lengkap dari segi penghasilan, stabilitas, fleksibilitas, dan jenjang karir.",
-    "tag": "Karir",
-    "img": "https://images.unsplash.com/photo-1553729459-afe8f2e2c2a0?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "karir-remote-tanpa-gelar",
-    "title": "Karir Remote Tanpa Gelar Sarjana: Buktikan Skill, Bukan Ijazah",
-    "desc": "Mau karir remote tapi nggak punya gelar? Tenang, banyak kok yang berhasil. Ini panduan lengkap membangun karir remote tanpa ijazah sarjana.",
-    "tag": "Karir",
-    "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "mengatasi-kesepian-remote",
-    "title": "Mengatasi Rasa Kesepian saat Kerja Remote: Panduan Mental Health",
-    "desc": "Kesepian adalah tantangan nyata remote worker. Ini panduan lengkap mengatasi rasa kesepian dan menjaga kesehatan mental saat kerja dari rumah.",
-    "tag": "Work-Life Balance",
-    "img": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "micro-break-strategi-fokus-remote",
-    "title": "Micro-Break Strategy: Rahasia Jaga Fokus Kerja Remote Sepanjang Hari",
-    "desc": "Strategi micro-break terbukti secara ilmiah bikin fokus kerja remote lo terjaga sepanjang hari. Kurangi kelelahan mental, tingkatkan produktivitas.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "mindful-working-remote",
-    "title": "Mindful Working: Cara Bikin Kerja Remote Lebih Tenang dan Fokus",
-    "desc": "Mindful working bikin kerja remote lo lebih tenang, fokus, dan nggak gampang stres. Panduan mindfulness buat remote worker Indonesia.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "no-meeting-day-deep-work",
-    "title": "No-Meeting Day: Cara Ciptakan Zona Deep Work Mingguan buat Remote Worker",
-    "desc": "No-meeting day adalah strategi jitu buat deep work mingguan. Pelajari cara terapin hari bebas rapat biar produktivitas remote naik drastis.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "pemulihan-burnout-remote",
-    "title": "Burnout Recovery: Panduan Bangkit Kembali Setelah Kelelahan Kerja Remote",
-    "desc": "Panduan pemulihan burnout setelah kelelahan kerja remote. Langkah konkret bangkit kembali, dari reset rutinitas sampai healing time.",
-    "tag": "Work-Life Balance",
-    "img": "https://images.unsplash.com/photo-1520333789090-1afc82db536a?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "rutinitas-sore-remote-produktif",
-    "title": "Rutinitas Sore Remote Worker: Cara Tutup Hari Kerja dengan Produktif",
-    "desc": "Rutinitas sore penting banget buat remote worker. Pelajari cara tutup hari kerja dengan rapi biar besok siap produktif lagi.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "strategi-energi-meeting-remote",
-    "title": "Strategi Jaga Energi Pas Meeting Remote Biar Gak Lelah Seharian",
-    "desc": "Meeting remote menguras energi? Ini strategi jitu biar lo gak lelah seharian setelah rapat online. Tips buat virtual meeting yang efisien.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "workation-panduan-lengkap",
-    "title": "Workation: Panduan Lengkap Bekerja Sambil Traveling buat Remote Worker",
-    "desc": "Workation adalah cara kerja sambil traveling yang lagi naik daun. Panduan lengkap biar workation lo sukses tanpa ganggu produktivitas.",
-    "tag": "Work-Life Balance",
-    "img": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "mindset-produktif-remote",
-    "title": "Mindset Produktif untuk Remote Worker: Ubah Cara Pikir, Ubah Hasil Kerja",
-    "desc": "Mindset adalah fondasi produktivitas remote worker. Pelajari cara mengubah pola pikir biar kerja remote makin efektif dan hasilnya maksimal.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "sinkronisasi-jadwal-tim-remote",
-    "title": "Cara Sinkronisasi Jadwal Tim Remote Biar Kolaborasi Makin Efektif",
-    "desc": "Sinkronisasi jadwal tim remote adalah tantangan nyata. Pelajari cara praktis menyelaraskan waktu kerja lintas zona biar kolaborasi tetap lancar.",
-    "tag": "Manajemen Tim",
-    "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "investasi-peralatan-wfh",
-    "title": "Investasi Peralatan WFH yang Worth It: Mana yang Harus Dibeli Duluan?",
-    "desc": "Bingung mau beli perlengkapan WFH apa duluan? Panduan investasi peralatan kerja remote yang worth it — dari kursi, monitor, sampai meja ergonomis.",
-    "tag": "Tools & Setup",
-    "img": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "komunikasi-sinkron-vs-asinkron",
-    "title": "Komunikasi Sinkron vs Asinkron: Kapan Pakai yang Mana di Kerja Remote?",
-    "desc": "Panduan lengkap kapan pakai komunikasi sinkron dan asinkron di kerja remote. Simak contoh, kelebihan, kekurangan, dan strategi hybrid-nya.",
-    "tag": "Komunikasi",
-    "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "mengelola-energi-siang",
-    "title": "Cara Mengelola Energi Siang Hari: Biar Produktivitas Gak Anjlok setelah Makan Siang",
-    "desc": "Produktivitas siang hari sering anjlok karena food coma dan energi turun. Pelajari cara mengelola energi siang biar tetap produktif sampai sore.",
-    "tag": "Produktivitas",
-    "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "work-life-balance-digital-nomad",
-    "title": "Work-Life Balance untuk Digital Nomad: Mitos, Fakta, dan Tips Nyata",
-    "desc": "Digital nomad lifestyle keliatan glamor, tapi work-life balance-nya susah. Simak mitos vs fakta dan tips nyata menjaga keseimbangan.",
-    "tag": "Work-Life Balance",
-    "img": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "growth-karir-remote",
-    "title": "Growth Karir sebagai Remote Worker: Cara Naik Jabatan dan Gaji Tanpa Kantor",
-    "desc": "Naik jabatan tanpa kantor itu mungkin kok. Simak strategi growth karir untuk remote worker: dari visibility, skill building, sampai negosiasi promosi.",
-    "tag": "Karir",
-    "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "deep-work-vs-shallow-work",
-    "title": "Deep Work vs Shallow Work: Cara Bedain dan Atur Waktu Kerja Harian",
-    "desc": "Bedain deep work dan shallow work biar lo bisa atur waktu kerja harian lebih efektif. Panduan lengkap identifikasi dan alokasi waktu buat remote worker.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?w=600&q=80",
-    "date": "1 Juni 2026"
-  },
-  {
-    "slug": "flow-state-ritual-remote",
-    "title": "Flow State Ritual: Cara Masuk Zona Fokus Maksimal dalam 5 Menit",
-    "desc": "Panduan lengkap ritual memasuki flow state buat remote worker. Teknik terbukti masuk zona fokus maksimal dalam hitungan menit tanpa nunggu mood.",
-    "tag": "Fokus & Produktivitas",
-    "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=80",
-    "date": "4 Juni 2026"
-  },
-  {
-    "slug": "budaya-async-first-remote",
-    "title": "Budaya Async-First: Cara Membangun Tim Remote Tanpa Meeting Real-Time",
-    "desc": "Panduan membangun budaya async-first di tim remote. Kurangi meeting, tingkatkan produktivitas, dan bebaskan tim dari notifikasi real-time.",
-    "tag": "Komunikasi & Kolaborasi",
-    "img": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&q=80",
-    "date": "4 Juni 2026"
-  },
-  {
-    "slug": "remote-performance-review",
-    "title": "Remote Performance Review: Menilai Kinerja Tim Jarak Jauh Tanpa Bias",
-    "desc": "Panduan lengkap performance review untuk tim remote. Cara menilai kinerja secara objektif, tanpa bias, dan memotivasi anggota tim jarak jauh.",
-    "tag": "Manajemen & Karir",
-    "img": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
-    "date": "4 Juni 2026"
-  },
-  {
-    "slug": "keuangan-remote-worker",
-    "title": "Keuangan Remote Worker: Atur Uang dengan Pendapatan yang Tidak Tetap",
-    "desc": "Panduan lengkap mengatur keuangan untuk remote worker dan freelancer dengan pendapatan tidak tetap. Dari budgeting, dana darurat, sampai investasi.",
-    "tag": "Keuangan & Karir",
-    "img": "https://images.unsplash.com/photo-1579621970563-449ec573e012?w=600&q=80",
-    "date": "4 Juni 2026"
-  },
-  {
-    "slug": "belajar-skill-baru-remote",
-    "title": "Belajar Skill Baru Saat Remote: Panduan Learning & Development untuk Pekerja Jarak Jauh",
-    "desc": "Panduan lengkap belajar skill baru untuk remote worker. Strategi L&D efektif dari kursus online, proyek sampingan, sampai network learning.",
-    "tag": "Karir & Pengembangan",
-    "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-    "date": "4 Juni 2026"
-  },
-  {
-    "slug": "perbedaan-zona-waktu-remote",
-    "title": "Mengelola Perbedaan Zona Waktu dalam Tim Remote Global",
-    "desc": "Strategi dan tools mengelola perbedaan zona waktu di tim remote global. Dari sinkronisasi jadwal, async-first, sampai kebijakan timezone-inclusive.",
-    "tag": "Kolaborasi Tim",
-    "img": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=600&q=80",
-    "date": "4 Juni 2026"
-  },
-  {
-    "slug": "mental-health-workout-remote",
-    "title": "Mental Health Workout: Latihan Kesehatan Mental Khusus Remote Worker",
-    "desc": "Panduan latihan kesehatan mental untuk remote worker. Dari morning mindset, digital boundaries, sampai weekly mental check-in yang praktis.",
-    "tag": "Kesehatan Mental",
-    "img": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
-    "date": "4 Juni 2026"
-  },
-  {
-    "slug": "komunikasi-tertulis-efektif",
-    "title": "Seni Komunikasi Tertulis Efektif buat Remote Worker: Tulis Lebih Sedikit, Dampak Lebih Besar",
-    "desc": "Panduan komunikasi tertulis efektif untuk remote worker. Teknik menulis pesan, email, dan dokumen yang jelas, ringkas, dan impactful.",
-    "tag": "Komunikasi",
-    "img": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=80",
-    "date": "4 Juni 2026"
-  },
-  {
-    "slug": "ai-tools-produktif-remote",
-    "title": "10 AI Tools untuk Remote Worker — Produktivitas Maksimal di 2026",
-    "desc": "Rekomendasi AI tools terbaik buat remote worker Indonesia 2026. Dari ChatGPT, Claude, Notion AI, sampai Otter.ai — biar kerja makin cepet dan efisien.",
-    "tag": "Tools & AI",
-    "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "bangun-kepercayaan-tim-remote",
-    "title": "Membangun Kepercayaan di Tim Remote — Fondasi Kolaborasi Jarak Jauh",
-    "desc": "Cara membangun dan menjaga kepercayaan di tim remote. Dari komunikasi transparan, accountability, sampai ritual team bonding — tanpa harus kantor fisik.",
-    "tag": "Team & Kolaborasi",
-    "img": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "pajak-keuangan-remote-indonesia",
-    "title": "Pajak dan Keuangan untuk Pekerja Remote Indonesia — Panduan 2026",
-    "desc": "Panduan lengkap pajak dan keuangan buat pekerja remote Indonesia 2026. NPWP, lapor SPT, BPJS, dan strategi ngatur duit buat freelancer & remote worker.",
-    "tag": "Keuangan & Legal",
-    "img": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "impostor-syndrome-remote-worker",
-    "title": "Impostor Syndrome di Kerja Remote — Kenali, Pahami, Atasi",
-    "desc": "Impostor syndrome makin sering dialami remote worker. Kenali gejalanya, pahami penyebabnya, dan atasi dengan cara yang terbukti efektif.",
-    "tag": "Mental Health",
-    "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "one-on-one-efektif-remote",
-    "title": "1-on-1 Efektif di Tim Remote — Bukan Sekadar Status Report",
-    "desc": "Panduan one-on-one meeting efektif buat tim remote. Cara manager dan anggota tim bikin 1:1 yang bermakna, bukan cuma status report membosankan.",
-    "tag": "Team & Manajemen",
-    "img": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "sop-tim-remote-efektif",
-    "title": "Cara Bikin SOP Efektif buat Tim Remote — Panduan Praktis",
-    "desc": "Panduan lengkap membuat SOP untuk tim remote. Dari dokumentasi proses, workflow, sampai cara memastikan semua anggota tim ngikut — tanpa micro-manage.",
-    "tag": "Operasional & Sistem",
-    "img": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "kelola-konflik-tim-remote",
-    "title": "Mengelola Konflik di Tim Remote — Strategi Resolusi Tanpa Drama",
-    "desc": "Cara mengelola dan menyelesaikan konflik di tim remote. Dari miskomunikasi async, perbedaan zona waktu, sampai tensi antar anggota tim — solusi praktis.",
-    "tag": "Team & Kolaborasi",
-    "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
-    "date": "5 Juni 2026"
-  },
-  {
-    "slug": "atasi-kejenuhan-remote-boredom",
-    "title": "Boredom Bukan Burnout — Atasi Kejenuhan Kerja Remote yang Bikin Males",
-    "desc": "Boredom vs burnout kerja remote: beda tipis tapi perlu penanganan beda. Kenali boredom, penyebabnya, dan cara mengatasi kejenuhan di kerja jarak jauh.",
-    "tag": "Produktivitas & Mental",
-    "img": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=600&q=80",
-    "date": "5 Juni 2026"
-  }
+    {
+        "slug": "self-review-evaluasi-kinerja-remote",
+        "title": "Self-Review dan Evaluasi Kinerja buat Remote Worker — Cara Ngukur Performa Sendiri",
+        "desc": "Gak ada bos yang ngawasin? Lakuin self-review secara rutin. Panduan lengkap evaluasi kinerja buat remote worker biar karir tetap naik.",
+        "tag": "Karir & Pengembangan",
+        "img": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "notion-vs-confluence-remote",
+        "title": "Notion vs Confluence — Mana Tools Dokumentasi Remote Terbaik buat Tim Lo?",
+        "desc": "Bandingin Notion vs Confluence buat kerja remote. Fitur, harga, kemudahan pake, dan rekomendasi tim — biar lo gak salah pilih tools dokumentasi tim.",
+        "tag": "Tools & Review",
+        "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "kolaborasi-tim-remote-zona-waktu-berbeda",
+        "title": "Cara Kolaborasi Efektif buat Tim Remote di Zona Waktu Berbeda",
+        "desc": "7 strategi kolaborasi tim remote lintas zona waktu. Cara atur overlap, pake tools async, dan bikin budaya tim biar kerja jarak jauh makin lancar.",
+        "tag": "Kolaborasi Tim",
+        "img": "https://images.unsplash.com/photo-1559526324-593bc073d938?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "microlearning-efektif-remote-worker",
+        "title": "Microlearning Efektif untuk Remote Worker yang Sibuk — Belajar 15 Menit Sehari, Hasilnya Gak Main-Main",
+        "desc": "Gak punya waktu buat belajar skill baru? Coba microlearning — belajar 10-15 menit per hari yang hasilnya gak kalah dari kursus panjang.",
+        "tag": "Karir & Pengembangan",
+        "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "sertifikasi-online-remote-2026",
+        "title": "7 Sertifikasi Online yang Paling Dicari Perusahaan Remote 2026",
+        "desc": "Pengen dilirik perusahaan remote global? Ini 7 sertifikasi online yang paling dicari HRD di 2026 — dari project management sampe technical writing.",
+        "tag": "Karir & Pengembangan",
+        "img": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "cara-mengatasi-kelelahan-zoom-meeting-remote",
+        "title": "Cara Mengatasi Zoom Fatigue — 7 Strategi biar Meeting Gak Bikin Lelah Mental",
+        "desc": "Rasanya abis meeting online langsung lemes? Itu Zoom Fatigue. Ini 7 strategi nyata buat ngatasin kelelahan meeting di kerja remote.",
+        "tag": "Komunikasi & Kolaborasi",
+        "img": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "membangun-rutinitas-olahraga-remote",
+        "title": "Membangun Rutinitas Olahraga saat Kerja Remote — 7 Tips Biar Tubuh Tetap Bugar",
+        "desc": "Duduk 8+ jam sehari bikin badan sakit? Ini 7 cara membangun rutinitas olahraga buat remote worker. Simpel, gak perlu gym, langsung bisa dipraktekin.",
+        "tag": "Kesehatan Mental",
+        "img": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "budaya-perusahaan-remote",
+        "title": "Membangun Budaya Perusahaan Remote yang Kuat — Panduan untuk Manajer dan Tim",
+        "desc": "Panduan membangun budaya perusahaan remote yang solid. Dari values, rituals, komunikasi, sampe team bonding — biar tim lo kompak meski jarak pisah.",
+        "tag": "Manajemen Tim",
+        "img": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "keamanan-digital-remote-worker",
+        "title": "Keamanan Digital buat Pekerja Remote — Panduan Lengkap dari A sampai Z",
+        "desc": "Panduan keamanan digital buat pekerja remote Indonesia. Dari VPN, password manager, sampe tips aman WiFi publik — biar data lo gak gampang dibobol.",
+        "tag": "Tools & Setup",
+        "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "wawancara-kerja-remote-lolos-interview-online",
+        "title": "Wawancara Kerja Remote: Cara Lolos Interview Online dari HRD Perusahaan Global",
+        "desc": "Panduan lengkap lolos interview kerja remote dari HRD global. Dari persiapan teknis, teknik STAR, sampai follow-up yang bikin HRD inget terus.",
+        "tag": "Karir",
+        "img": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+        "date": "3 Juni 2026"
+    },
+    {
+        "slug": "cara-fokus-kerja-remote-tanpa-gangguan",
+        "title": "Cara Fokus Kerja Remote Tanpa Gangguan — 7 Strategi yang Works",
+        "desc": "7 strategi jitu biar fokus kerja remote maksimal. Dari bikin zona fokus sampai teknik deep work.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+        "date": "26 Mei 2026"
+    },
+    {
+        "slug": "cara-mengatasi-burnout-kerja-remote",
+        "title": "Cara Mengatasi Burnout Kerja Remote — 6 Tips Langsung Praktek",
+        "desc": "Burnout kerja remote itu nyata. Ini 6 cara mengatasinya: batasan jam kerja, ritual after work, sampai detoks digital.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1520333789090-1afc82db536a?w=600&q=80",
+        "date": "26 Mei 2026"
+    },
+    {
+        "slug": "cara-kurangi-rapat-gak-jelas",
+        "title": "Meeting Fatigue? 7 Cara Kurangi Rapat Gak Jelas di Kerja Remote",
+        "desc": "Bosan meeting mulu tapi gak produktif? Ini 7 cara kurangi rapat gak jelas di kerja remote. Dijamin waktu lo balik lagi.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=80",
+        "date": "26 Mei 2026"
+    },
+    {
+        "slug": "tools-wfh-wajib",
+        "title": "Tools WFH Wajib: 9 Rekomendasi Biar Kerja Remote Mak Lancar",
+        "desc": "Bingung tools WFH apa aja yang wajib dipake? Ini 9 rekomendasi aplikasi remote worker dari项目管理, komunikasi, sampai fokus.",
+        "tag": "Tools & Review",
+        "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+        "date": "26 Mei 2026"
+    },
+    {
+        "slug": "komunikasi-async-remote",
+        "title": "Komunikasi Async: Biar Gak Perlu Meeting Terus di Kerja Remote",
+        "desc": "Komunikasi asinkron bikin lo bebas dari meeting gak jelas. Panduan lengkap cara nerapin async communication di tim remote.",
+        "tag": "Komunikasi",
+        "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
+        "date": "26 Mei 2026"
+    },
+    {
+        "slug": "manajemen-energi-kerja-remote",
+        "title": "Manajemen Energi Bukan Manajemen Waktu: Rahasia Produktif Tanpa Lelah",
+        "desc": "Berhenti manajemen waktu — mulai manajemen energi. Panduan kerja remote berdasarkan level energi, bukan jam kerja.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+        "date": "26 Mei 2026"
+    },
+    {
+        "slug": "negosiasi-gaji-remote",
+        "title": "Negosiasi Gaji Remote: Cara Biar Dapet Bayaran Setimpal Tanpa ke Kantor",
+        "desc": "Panduan negosiasi gaji kerja remote buat pekerja Indonesia. Dari riset pasar sampe teknik ngomong yang bikin HRD iya.",
+        "tag": "Karir & Gaji",
+        "img": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=600&q=80",
+        "date": "26 Mei 2026"
+    },
+    {
+        "slug": "deep-work-remote",
+        "title": "Deep Work: Cara Kerja Lebih Pintar di Era Remote yang Penuh Distraksi",
+        "desc": "Pelajari teknik deep work ala Cal Newport yang cocok buat remote worker Indonesia. Kerja lebih sedikit, hasil lebih banyak.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+        "date": "28 Mei 2026"
+    },
+    {
+        "slug": "time-blocking-remote",
+        "title": "Time Blocking: Teknik Manajemen Waktu Paling Efektif buat Remote Worker",
+        "desc": "Time blocking adalah senjata rahasia pekerja remote produktif. Panduan lengkap cara terapinnya biar kerjaan beres tanpa lembur.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=600&q=80",
+        "date": "28 Mei 2026"
+    },
+    {
+        "slug": "wfh-setup-ideal",
+        "title": "WFH Setup Ideal: Panduan Lengkap Home Office biar Produktivitas Maksimal",
+        "desc": "Setup WFH yang ergonomis bikin badan sehat dan produktivitas naik. Panduan lengkap dari kursi, meja, pencahayaan sampai aksesoris.",
+        "tag": "Tools & Setup",
+        "img": "https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=600&q=80",
+        "date": "28 Mei 2026"
+    },
+    {
+        "slug": "work-life-balance-remote",
+        "title": "Work-Life Balance Saat Kerja Remote: Mitos, Fakta, dan Strategi Nyata",
+        "desc": "Mitos work-life balance di remote work bikin banyak orang salah langkah. Ini fakta dan strategi nyata yang beneran works.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=600&q=80",
+        "date": "28 Mei 2026"
+    },
+    {
+        "slug": "rutinitas-pagi-remote-produktif",
+        "title": "Rutinitas Pagi Remote Worker Produktif: Mulai Hari dengan Energi Maksimal",
+        "desc": "Rutinitas pagi yang tepat bikin produktivitas remote kerja lo naik drastis. Dari bangun tidur sampai jam kerja pertama.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+        "date": "28 Mei 2026"
+    },
+    {
+        "slug": "atasi-prokrastinasi-wfh",
+        "title": "Atasi Prokrastinasi Saat WFH: 7 Cara Berhenti Nunda-nunda Pekerjaan",
+        "desc": "Prokrastinasi musuh terbesar pekerja remote. Ini 7 cara jitu berhenti nunda-nunda kerjaan dan mulai produktif.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=600&q=80",
+        "date": "28 Mei 2026"
+    },
+    {
+        "slug": "kolaborasi-tim-remote-efektif",
+        "title": "Cara Efektif Kolaborasi Tim Remote Tanpa Ribet dan Meeting Berlebihan",
+        "desc": "Kolaborasi tim remote gak harus berarti meeting terus. Ini cara efektif kerja sama tim jarak jauh dengan tools dan komunikasi async.",
+        "tag": "Kolaborasi",
+        "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+        "date": "28 Mei 2026"
+    },
+    {
+        "slug": "skill-wajib-remote-worker-2026",
+        "title": "7 Skill Wajib Remote Worker di 2026 Biar Karir Makin Moncer",
+        "desc": "Skill apa aja yang harus dikuasai remote worker biar tetap relevan dan kompetitif di tahun 2026? Ini daftar lengkapnya.",
+        "tag": "Karir",
+        "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+        "date": "28 Mei 2026"
+    },
+    {
+        "slug": "digital-detox-remote-worker",
+        "title": "Digital Detox untuk Remote Worker: Cara Reset Otak Biar Produktivitas Balik Lagi",
+        "desc": "Digital detox adalah kebutuhan buat remote worker yang kecanduan layar. Panduan lengkap reset otak biar produktivitas dan fokus balik.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "kerja-remote-coffee-shop",
+        "title": "Kerja Remote dari Coffee Shop: Panduan Lengkap Biar Tetap Produktif",
+        "desc": "Kerja dari coffee shop emang asik, tapi gampang lost fokus. Ini panduan lengkap biar produktif meskipun kerja dari kafe favorit.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "meeting-15-menit-efisien",
+        "title": "Meeting 15 Menit yang Efisien: Cara Rapat Cepat Tanpa Mengorbankan Kualitas",
+        "desc": "Rapat 15 menit aja cukup kalau caranya tepat. Panduan bikin meeting efisien buat tim remote yang pengen produktif tanpa buang waktu.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "networking-virtual-remote",
+        "title": "Networking Virtual: Cara Membangun Koneksi Profesional sebagai Remote Worker",
+        "desc": "Networking virtual adalah skill penting remote worker. Pelajari cara membangun koneksi profesional online yang bener-bener menghasilkan.",
+        "tag": "Karir",
+        "img": "https://images.unsplash.com/photo-1559223607-a43c990c692c?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "resiliensi-mental-remote-worker",
+        "title": "Resiliensi Mental Remote Worker: Cara Tetap Kuat di Tengah Tekanan",
+        "desc": "Resiliensi mental kunci sukses remote worker jangka panjang. Pelajari cara membangun ketahanan mental biar tetap produktif dan sehat.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "self-accountability-remote",
+        "title": "Self-Accountability: Cara Disiplin Kerja Remote Tanpa Diawasi Bos",
+        "desc": "Self-accountability adalah kunci sukses kerja remote. Pelajari cara disiplin dan bertanggung jawab tanpa harus diawasi.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "side-hustle-remote-worker",
+        "title": "Side Hustle untuk Remote Worker: 7 Ide Sampingan yang Cocok",
+        "desc": "Punya waktu fleksibel sebagai remote worker? Manfaatin buat side hustle. 7 ide bisnis sampingan yang cocok buat pekerja remote.",
+        "tag": "Karir",
+        "img": "https://images.unsplash.com/photo-1553729459-afe8f2e2c2a0?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "single-tasking-vs-multitasking-remote",
+        "title": "Single Tasking vs Multitasking: Mitos Produktivitas Remote yang Wajib Kamu Tahu",
+        "desc": "Multitasking itu mitos? Single tasking beneran lebih produktif? Simak perbandingan lengkapnya buat remote worker Indonesia.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "teknik-pomodoro-remote-worker",
+        "title": "Teknik Pomodoro untuk Remote Worker: Fokus 25 Menit yang Bikin Produktivitas Naik Drastis",
+        "desc": "Teknik Pomodoro adalah senjata rahasia remote worker produktif. Pelajari cara terapin Pomodoro biar fokus maksimal tanpa burnout.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "time-boxing-vs-time-blocking",
+        "title": "Time Boxing vs Time Blocking: Pilih Mana buat Jadwal Remote yang Efektif?",
+        "desc": "Time boxing dan time blocking adalah dua teknik manajemen waktu. Mana yang lebih cocok buat remote worker? Simak perbandingan lengkapnya.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "wfh-setup-budget-friendly",
+        "title": "WFH Setup Budget-Friendly: Tetap Produktif Tanpa Harus Keluar Banyak Uang",
+        "desc": "Setup WFH nggak harus mahal. Panduan lengkap home office budget-friendly buat remote worker Indonesia yang tetap bikin produktivitas maksimal.",
+        "tag": "Tools & Setup",
+        "img": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "tanda-burnout-remote-worker",
+        "title": "7 Tanda Burnout Remote Worker yang Sering Terlewat (dan Cara Mencegahnya)",
+        "desc": "Burnout kerja remote sering datang tanpa disadari. Kenali 7 tanda awal burnout yang sering terlewat dan cara mencegahnya sebelum parah.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1520333789090-1afc82db536a?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "ritual-deep-work-remote",
+        "title": "Membangun Ritual Deep Work: Persiapan Sebelum Masuk Zona Fokus Maksimal",
+        "desc": "Ritual sebelum deep work adalah kunci masuk zona fokus. Pelajari cara membangun ritual yang bikin kerja remote kamu lebih produktif.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "standup-async-remote",
+        "title": "Standup Async: Alternatif Daily Meeting yang Lebih Efisien buat Tim Remote",
+        "desc": "Standup async adalah alternatif daily meeting sinkron. Pelajari cara terapin async standup biar tim remote lebih efisien tanpa meeting berlebihan.",
+        "tag": "Komunikasi",
+        "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "boundaries-sehat-kerja-remote",
+        "title": "Menciptakan Batasan (Boundaries) yang Sehat Saat Kerja Remote",
+        "desc": "Boundaries saat kerja remote adalah kunci work-life balance. Pelajari cara menetapkan batasan sehat dengan atasan, tim, dan keluarga.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "personal-brand-remote-worker",
+        "title": "Cara Membangun Personal Brand sebagai Remote Worker Biar Dilirik Rekruter",
+        "desc": "Personal brand penting banget buat remote worker. Pelajari cara membangun personal branding biar makin dilirik rekruter dan klien global.",
+        "tag": "Karir",
+        "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "portofolio-remote-worker",
+        "title": "Cara Bikin Portofolio Remote Worker yang Dilirik HRD",
+        "desc": "Gini cara bikin portofolio remote worker yang bikin HRD auto kepo. Dari struktur, platform, sampai tips bikin portofolio yang standout.",
+        "tag": "Karir & Gaji",
+        "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "mengelola-tim-remote-manager",
+        "title": "Mengelola Tim Remote: Panduan untuk Manager Pemula",
+        "desc": "Panduan lengkap mengelola tim remote buat manager pemula. Dari komunikasi async, trust building, sampai tools kolaborasi dan meeting efisien.",
+        "tag": "Manajemen Tim",
+        "img": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+        "date": "29 Mei 2026"
+    },
+    {
+        "slug": "atur-notifikasi-produktif-remote",
+        "title": "Atur Notifikasi Biar Produktif, Bukan Stres — Panduan Remote Worker",
+        "desc": "Notifikasi adalah musuh produktivitas remote worker. Pelajari cara atur notifikasi biar kerja lo makin fokus tanpa stres ketinggalan info.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "budaya-dokumentasi-async",
+        "title": "Dokumentasi Async: Rahasia Tim Remote Punya Knowledge Base yang Solid",
+        "desc": "Dokumentasi async adalah fondasi komunikasi tim remote yang solid. Pelajari cara membangun knowledge base tanpa meeting yang gak perlu.",
+        "tag": "Komunikasi",
+        "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "ergonomi-wfh-kesehatan-fisik",
+        "title": "Ergonomi WFH: Panduan Lengkap Kesehatan Fisik buat Remote Worker Indonesia",
+        "desc": "Panduan ergonomi WFH lengkap buat remote worker Indonesia. Dari posisi duduk, setup meja, sampai gerakan stretching biar badan tetap sehat.",
+        "tag": "Tools & Setup",
+        "img": "https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "freelance-vs-fulltime-remote",
+        "title": "Freelance vs Full-Time Remote: Mana yang Cocok Buat Karir Kamu?",
+        "desc": "Bingung milih freelance atau full-time remote? Simak perbandingan lengkap dari segi penghasilan, stabilitas, fleksibilitas, dan jenjang karir.",
+        "tag": "Karir",
+        "img": "https://images.unsplash.com/photo-1553729459-afe8f2e2c2a0?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "karir-remote-tanpa-gelar",
+        "title": "Karir Remote Tanpa Gelar Sarjana: Buktikan Skill, Bukan Ijazah",
+        "desc": "Mau karir remote tapi nggak punya gelar? Tenang, banyak kok yang berhasil. Ini panduan lengkap membangun karir remote tanpa ijazah sarjana.",
+        "tag": "Karir",
+        "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "mengatasi-kesepian-remote",
+        "title": "Mengatasi Rasa Kesepian saat Kerja Remote: Panduan Mental Health",
+        "desc": "Kesepian adalah tantangan nyata remote worker. Ini panduan lengkap mengatasi rasa kesepian dan menjaga kesehatan mental saat kerja dari rumah.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "micro-break-strategi-fokus-remote",
+        "title": "Micro-Break Strategy: Rahasia Jaga Fokus Kerja Remote Sepanjang Hari",
+        "desc": "Strategi micro-break terbukti secara ilmiah bikin fokus kerja remote lo terjaga sepanjang hari. Kurangi kelelahan mental, tingkatkan produktivitas.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "mindful-working-remote",
+        "title": "Mindful Working: Cara Bikin Kerja Remote Lebih Tenang dan Fokus",
+        "desc": "Mindful working bikin kerja remote lo lebih tenang, fokus, dan nggak gampang stres. Panduan mindfulness buat remote worker Indonesia.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "no-meeting-day-deep-work",
+        "title": "No-Meeting Day: Cara Ciptakan Zona Deep Work Mingguan buat Remote Worker",
+        "desc": "No-meeting day adalah strategi jitu buat deep work mingguan. Pelajari cara terapin hari bebas rapat biar produktivitas remote naik drastis.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "pemulihan-burnout-remote",
+        "title": "Burnout Recovery: Panduan Bangkit Kembali Setelah Kelelahan Kerja Remote",
+        "desc": "Panduan pemulihan burnout setelah kelelahan kerja remote. Langkah konkret bangkit kembali, dari reset rutinitas sampai healing time.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1520333789090-1afc82db536a?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "rutinitas-sore-remote-produktif",
+        "title": "Rutinitas Sore Remote Worker: Cara Tutup Hari Kerja dengan Produktif",
+        "desc": "Rutinitas sore penting banget buat remote worker. Pelajari cara tutup hari kerja dengan rapi biar besok siap produktif lagi.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "strategi-energi-meeting-remote",
+        "title": "Strategi Jaga Energi Pas Meeting Remote Biar Gak Lelah Seharian",
+        "desc": "Meeting remote menguras energi? Ini strategi jitu biar lo gak lelah seharian setelah rapat online. Tips buat virtual meeting yang efisien.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "workation-panduan-lengkap",
+        "title": "Workation: Panduan Lengkap Bekerja Sambil Traveling buat Remote Worker",
+        "desc": "Workation adalah cara kerja sambil traveling yang lagi naik daun. Panduan lengkap biar workation lo sukses tanpa ganggu produktivitas.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "mindset-produktif-remote",
+        "title": "Mindset Produktif untuk Remote Worker: Ubah Cara Pikir, Ubah Hasil Kerja",
+        "desc": "Mindset adalah fondasi produktivitas remote worker. Pelajari cara mengubah pola pikir biar kerja remote makin efektif dan hasilnya maksimal.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "sinkronisasi-jadwal-tim-remote",
+        "title": "Cara Sinkronisasi Jadwal Tim Remote Biar Kolaborasi Makin Efektif",
+        "desc": "Sinkronisasi jadwal tim remote adalah tantangan nyata. Pelajari cara praktis menyelaraskan waktu kerja lintas zona biar kolaborasi tetap lancar.",
+        "tag": "Manajemen Tim",
+        "img": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "investasi-peralatan-wfh",
+        "title": "Investasi Peralatan WFH yang Worth It: Mana yang Harus Dibeli Duluan?",
+        "desc": "Bingung mau beli perlengkapan WFH apa duluan? Panduan investasi peralatan kerja remote yang worth it — dari kursi, monitor, sampai meja ergonomis.",
+        "tag": "Tools & Setup",
+        "img": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "komunikasi-sinkron-vs-asinkron",
+        "title": "Komunikasi Sinkron vs Asinkron: Kapan Pakai yang Mana di Kerja Remote?",
+        "desc": "Panduan lengkap kapan pakai komunikasi sinkron dan asinkron di kerja remote. Simak contoh, kelebihan, kekurangan, dan strategi hybrid-nya.",
+        "tag": "Komunikasi",
+        "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "mengelola-energi-siang",
+        "title": "Cara Mengelola Energi Siang Hari: Biar Produktivitas Gak Anjlok setelah Makan Siang",
+        "desc": "Produktivitas siang hari sering anjlok karena food coma dan energi turun. Pelajari cara mengelola energi siang biar tetap produktif sampai sore.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "work-life-balance-digital-nomad",
+        "title": "Work-Life Balance untuk Digital Nomad: Mitos, Fakta, dan Tips Nyata",
+        "desc": "Digital nomad lifestyle keliatan glamor, tapi work-life balance-nya susah. Simak mitos vs fakta dan tips nyata menjaga keseimbangan.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "growth-karir-remote",
+        "title": "Growth Karir sebagai Remote Worker: Cara Naik Jabatan dan Gaji Tanpa Kantor",
+        "desc": "Naik jabatan tanpa kantor itu mungkin kok. Simak strategi growth karir untuk remote worker: dari visibility, skill building, sampai negosiasi promosi.",
+        "tag": "Karir",
+        "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "deep-work-vs-shallow-work",
+        "title": "Deep Work vs Shallow Work: Cara Bedain dan Atur Waktu Kerja Harian",
+        "desc": "Bedain deep work dan shallow work biar lo bisa atur waktu kerja harian lebih efektif. Panduan lengkap identifikasi dan alokasi waktu buat remote worker.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1496171367470-9ed9a91ea931?w=600&q=80",
+        "date": "1 Juni 2026"
+    },
+    {
+        "slug": "flow-state-ritual-remote",
+        "title": "Flow State Ritual: Cara Masuk Zona Fokus Maksimal dalam 5 Menit",
+        "desc": "Panduan lengkap ritual memasuki flow state buat remote worker. Teknik terbukti masuk zona fokus maksimal dalam hitungan menit tanpa nunggu mood.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&q=80",
+        "date": "4 Juni 2026"
+    },
+    {
+        "slug": "budaya-async-first-remote",
+        "title": "Budaya Async-First: Cara Membangun Tim Remote Tanpa Meeting Real-Time",
+        "desc": "Panduan membangun budaya async-first di tim remote. Kurangi meeting, tingkatkan produktivitas, dan bebaskan tim dari notifikasi real-time.",
+        "tag": "Komunikasi & Kolaborasi",
+        "img": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&q=80",
+        "date": "4 Juni 2026"
+    },
+    {
+        "slug": "remote-performance-review",
+        "title": "Remote Performance Review: Menilai Kinerja Tim Jarak Jauh Tanpa Bias",
+        "desc": "Panduan lengkap performance review untuk tim remote. Cara menilai kinerja secara objektif, tanpa bias, dan memotivasi anggota tim jarak jauh.",
+        "tag": "Manajemen & Karir",
+        "img": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80",
+        "date": "4 Juni 2026"
+    },
+    {
+        "slug": "keuangan-remote-worker",
+        "title": "Keuangan Remote Worker: Atur Uang dengan Pendapatan yang Tidak Tetap",
+        "desc": "Panduan lengkap mengatur keuangan untuk remote worker dan freelancer dengan pendapatan tidak tetap. Dari budgeting, dana darurat, sampai investasi.",
+        "tag": "Keuangan & Karir",
+        "img": "https://images.unsplash.com/photo-1579621970563-449ec573e012?w=600&q=80",
+        "date": "4 Juni 2026"
+    },
+    {
+        "slug": "belajar-skill-baru-remote",
+        "title": "Belajar Skill Baru Saat Remote: Panduan Learning & Development untuk Pekerja Jarak Jauh",
+        "desc": "Panduan lengkap belajar skill baru untuk remote worker. Strategi L&D efektif dari kursus online, proyek sampingan, sampai network learning.",
+        "tag": "Karir & Pengembangan",
+        "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
+        "date": "4 Juni 2026"
+    },
+    {
+        "slug": "perbedaan-zona-waktu-remote",
+        "title": "Mengelola Perbedaan Zona Waktu dalam Tim Remote Global",
+        "desc": "Strategi dan tools mengelola perbedaan zona waktu di tim remote global. Dari sinkronisasi jadwal, async-first, sampai kebijakan timezone-inclusive.",
+        "tag": "Kolaborasi Tim",
+        "img": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=600&q=80",
+        "date": "4 Juni 2026"
+    },
+    {
+        "slug": "mental-health-workout-remote",
+        "title": "Mental Health Workout: Latihan Kesehatan Mental Khusus Remote Worker",
+        "desc": "Panduan latihan kesehatan mental untuk remote worker. Dari morning mindset, digital boundaries, sampai weekly mental check-in yang praktis.",
+        "tag": "Kesehatan Mental",
+        "img": "https://images.unsplash.com/photo-1499209974431-9dddcece7f88?w=600&q=80",
+        "date": "4 Juni 2026"
+    },
+    {
+        "slug": "komunikasi-tertulis-efektif",
+        "title": "Seni Komunikasi Tertulis Efektif buat Remote Worker: Tulis Lebih Sedikit, Dampak Lebih Besar",
+        "desc": "Panduan komunikasi tertulis efektif untuk remote worker. Teknik menulis pesan, email, dan dokumen yang jelas, ringkas, dan impactful.",
+        "tag": "Komunikasi",
+        "img": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=80",
+        "date": "4 Juni 2026"
+    },
+    {
+        "slug": "ai-tools-produktif-remote",
+        "title": "10 AI Tools untuk Remote Worker — Produktivitas Maksimal di 2026",
+        "desc": "Rekomendasi AI tools terbaik buat remote worker Indonesia 2026. Dari ChatGPT, Claude, Notion AI, sampai Otter.ai — biar kerja makin cepet dan efisien.",
+        "tag": "Tools & AI",
+        "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "bangun-kepercayaan-tim-remote",
+        "title": "Membangun Kepercayaan di Tim Remote — Fondasi Kolaborasi Jarak Jauh",
+        "desc": "Cara membangun dan menjaga kepercayaan di tim remote. Dari komunikasi transparan, accountability, sampai ritual team bonding — tanpa harus kantor fisik.",
+        "tag": "Team & Kolaborasi",
+        "img": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "pajak-keuangan-remote-indonesia",
+        "title": "Pajak dan Keuangan untuk Pekerja Remote Indonesia — Panduan 2026",
+        "desc": "Panduan lengkap pajak dan keuangan buat pekerja remote Indonesia 2026. NPWP, lapor SPT, BPJS, dan strategi ngatur duit buat freelancer & remote worker.",
+        "tag": "Keuangan & Legal",
+        "img": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "impostor-syndrome-remote-worker",
+        "title": "Impostor Syndrome di Kerja Remote — Kenali, Pahami, Atasi",
+        "desc": "Impostor syndrome makin sering dialami remote worker. Kenali gejalanya, pahami penyebabnya, dan atasi dengan cara yang terbukti efektif.",
+        "tag": "Mental Health",
+        "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "one-on-one-efektif-remote",
+        "title": "1-on-1 Efektif di Tim Remote — Bukan Sekadar Status Report",
+        "desc": "Panduan one-on-one meeting efektif buat tim remote. Cara manager dan anggota tim bikin 1:1 yang bermakna, bukan cuma status report membosankan.",
+        "tag": "Team & Manajemen",
+        "img": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "sop-tim-remote-efektif",
+        "title": "Cara Bikin SOP Efektif buat Tim Remote — Panduan Praktis",
+        "desc": "Panduan lengkap membuat SOP untuk tim remote. Dari dokumentasi proses, workflow, sampai cara memastikan semua anggota tim ngikut — tanpa micro-manage.",
+        "tag": "Operasional & Sistem",
+        "img": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "kelola-konflik-tim-remote",
+        "title": "Mengelola Konflik di Tim Remote — Strategi Resolusi Tanpa Drama",
+        "desc": "Cara mengelola dan menyelesaikan konflik di tim remote. Dari miskomunikasi async, perbedaan zona waktu, sampai tensi antar anggota tim — solusi praktis.",
+        "tag": "Team & Kolaborasi",
+        "img": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "atasi-kejenuhan-remote-boredom",
+        "title": "Boredom Bukan Burnout — Atasi Kejenuhan Kerja Remote yang Bikin Males",
+        "desc": "Boredom vs burnout kerja remote: beda tipis tapi perlu penanganan beda. Kenali boredom, penyebabnya, dan cara mengatasi kejenuhan di kerja jarak jauh.",
+        "tag": "Produktivitas & Mental",
+        "img": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=600&q=80",
+        "date": "5 Juni 2026"
+    },
+    {
+        "slug": "meeting-fatigue-remote",
+        "title": "Meeting Fatigue: Cara Mengatasi Kelelahan Rapat Online Tanpa Korbankan Produktivitas",
+        "desc": "Meeting fatigue bikin lo lelah mental? Simak strategi jitu mengurangi beban rapat online biar energi tetap terjaga sepanjang hari.",
+        "tag": "Meeting & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=600&q=80",
+        "date": "6 Juni 2026"
+    },
+    {
+        "slug": "kebiasaan-remote-produktif",
+        "title": "7 Kebiasaan Remote Worker Super Produktif yang Wajib Kamu Tiru",
+        "desc": "Penasaran apa bedanya remote worker biasa dengan yang super produktif? Ini 7 kebiasaan yang bikin mereka selalu on-point setiap hari.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600&q=80",
+        "date": "6 Juni 2026"
+    },
+    {
+        "slug": "digital-minimalism-remote",
+        "title": "Digital Minimalism buat Remote Worker: Fokus Maksimal Tanpa Overload Gadget",
+        "desc": "Digital minimalism bukan anti-teknologi. Ini tentang pake teknologi dengan sengaja biar kerja remote lo makin fokus & bermakna.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80",
+        "date": "6 Juni 2026"
+    },
+    {
+        "slug": "adaptive-schedule-remote",
+        "title": "Adaptive Work Schedule: Fleksibilitas Jadwal Remote Tanpa Rugiin Produktivitas",
+        "desc": "Mau jadwal kerja fleksibel tapi tetap produktif? Adaptive work schedule jawabannya — begini cara terapinnya.",
+        "tag": "Manajemen Waktu",
+        "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80",
+        "date": "6 Juni 2026"
+    },
+    {
+        "slug": "self-promotion-remote",
+        "title": "Self-Promotion di Tempat Kerja Remote: Cara Menonjol Tanpa Terkesan Sombong",
+        "desc": "Kerja remote bukan alasan buat gak keliatan. Ini cara pinter nge-promote diri lo tanpa dicap sombong — biar karir lo naik.",
+        "tag": "Karir Remote",
+        "img": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=600&q=80",
+        "date": "6 Juni 2026"
+    },
+    {
+        "slug": "resign-remote-profesional",
+        "title": "Exit Strategy Remote: Cara Resign dari Remote Job dengan Profesional",
+        "desc": "Resign dari kerja remote butuh strategi beda — mulai dari momen yang tepat, surat resign, sampe handoff yang mulus. Panduan lengkap di sini.",
+        "tag": "Karir Remote",
+        "img": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+        "date": "6 Juni 2026"
+    },
+    {
+        "slug": "feedback-culture-remote",
+        "title": "Budaya Feedback Efektif di Tim Remote: Panduan Memberi & Menerima Kritik",
+        "desc": "Feedback di tim remote itu rapuh — salah ngomong bisa salah arti. Pelajari cara memberi dan menerima feedback yang efektif dan membangun.",
+        "tag": "Komunikasi Tim",
+        "img": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
+        "date": "6 Juni 2026"
+    },
+    {
+        "slug": "produktivitas-berkelanjutan-remote",
+        "title": "Produktivitas Berkelanjutan buat Remote Worker: Konsisten Tanpa Burnout",
+        "desc": "Cara kerja produktif terus tanpa burnout. Produktivitas berkelanjutan adalah kunci lo bertahan dan berkembang sebagai remote worker.",
+        "tag": "Burnout & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=600&q=80",
+        "date": "6 Juni 2026"
+    }
 ]
