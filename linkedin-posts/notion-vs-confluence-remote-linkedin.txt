@@ -1,0 +1,9 @@
+Tim lo pake Notion atau Confluence? Atau malah pake Google Docs berantakan kayak gue dulu?
+
+Dari pengalaman ngobrol sama banyak remote worker, perdebatan Notion vs Confluence ini gak ada abisnya. Padahal pilihan tools dokumentasi bisa ngefek gede ke produktivitas tim.
+
+Gue udah breakdown perbandingannya. Spoiler: **gak ada yang menang mutlak** — semuanya tergantung kebutuhan.
+
+Yang penting: tim lo punya satu source of truth buat dokumentasi, apapun tools-nya.
+
+Selengkapnya di artikel gue — link di komentar 🔥

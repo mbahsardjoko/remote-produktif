@@ -59,3 +59,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1496181133206-80ce9b88a853 | self-review-evaluasi-kinerja-remote | 5 Juni 2026 |
 | 1460925895917-afdab827c52f | asana-vs-trello-vs-monday | 6 Juni 2026 |
 | 1497366216548-37526070297c | time-tracking-tools-remote-worker | 6 Juni 2026 |
+| 1522771739844-6a9f6d5f14af | kualitas-tidur-remote-worker | 6 Juni 2026 |
