@@ -61,3 +61,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1497366216548-37526070297c | time-tracking-tools-remote-worker | 6 Juni 2026 |
 | 1522771739844-6a9f6d5f14af | kualitas-tidur-remote-worker | 6 Juni 2026 |
 | 1545239351-ef35f43d514b | cara-bikin-cv-remote | 6 Juni 2026 |
+| 1543286386-713bdd548da4 | goal-setting-remote-worker | 6 Juni 2026 |

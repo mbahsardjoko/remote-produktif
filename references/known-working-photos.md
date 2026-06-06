@@ -20,3 +20,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1497366216548-37526070297c | Modern office interior — cocok buat artikel tools & produktivitas | 6 Juni 2026 |
 | 1522771739844-6a9f6d5f14af | Bedroom with pillows and lamp — tidur/istirahat | 6 Juni 2026 |
 | 1545239351-ef35f43d514b | Laptop dengan kopi — kerja remote dari rumah/santai | 6 Juni 2026 |
+| 1543286386-713bdd548da4 | goal-setting-remote-worker | 6 Juni 2026 |
