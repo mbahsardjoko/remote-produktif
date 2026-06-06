@@ -23,3 +23,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1543286386-713bdd548da4 | goal-setting-remote-worker | 6 Juni 2026 |
 | 1554224155-6726b3ff858f | Tax/documents — cocok buat artikel finansial & tarif | 6 Juni 2026 |
 | 1552581234-26160f608093 | Modern office with bookshelf and collaboration — cocok buat artikel learning/pengembangan | 6 Juni 2026 |
+| 1518770660439-4636190af475 | Circuit board / tech infrastructure — automation metaphor | 6 Juni 2026 |

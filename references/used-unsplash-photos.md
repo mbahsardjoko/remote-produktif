@@ -64,3 +64,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1543286386-713bdd548da4 | goal-setting-remote-worker | 6 Juni 2026 |
 | 1554224155-6726b3ff858f | menentukan-tarif-freelance-remote | 6 Juni 2026 |
 | 1552581234-26160f608093 | membaca-buku-remote-worker | 6 Juni 2026 |
+| 1518770660439-4636190af475 | zapier-vs-make-automation-remote | 6 Juni 2026 |
