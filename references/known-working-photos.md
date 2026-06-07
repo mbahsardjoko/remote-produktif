@@ -27,3 +27,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1559136555-9303baea8ebd | Modern office interior with team collaborating at computers — cocok buat artikel tools & kolaborasi | 7 Juni 2026 |
 | 1507525428034-b723cf961d3e | Tropical beach sunset — cocok buat artikel FOMO & mental health | 2026-06-07 |
 | 1484480974693-6ca0a78fb36b | Tangan memegang pulpen di atas daftar checklist — metafora beban keputusan sehari-hari | 7 Juni 2026 |
+| 1516321318423-f06f85e504b3 | Dua orang berkolaborasi di depan laptop — metafora kolaborasi tim | 7 Juni 2026 |
