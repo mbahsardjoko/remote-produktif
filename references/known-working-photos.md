@@ -25,3 +25,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1552581234-26160f608093 | Modern office with bookshelf and collaboration — cocok buat artikel learning/pengembangan | 6 Juni 2026 |
 | 1518770660439-4636190af475 | Circuit board / tech infrastructure — automation metaphor | 6 Juni 2026 |
 | 1559136555-9303baea8ebd | Modern office interior with team collaborating at computers — cocok buat artikel tools & kolaborasi | 7 Juni 2026 |
+| 1507525428034-b723cf961d3e | Tropical beach sunset — cocok buat artikel FOMO & mental health | 2026-06-07 |

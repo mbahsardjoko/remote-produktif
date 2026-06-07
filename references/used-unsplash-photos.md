@@ -66,3 +66,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1552581234-26160f608093 | membaca-buku-remote-worker | 6 Juni 2026 |
 | 1518770660439-4636190af475 | zapier-vs-make-automation-remote | 6 Juni 2026 |
 | 1559136555-9303baea8ebd | google-workspace-tips-remote | 7 Juni 2026 |
+| 1507525428034-b723cf961d3e | fomo-remote-worker | 7 Juni 2026 |
