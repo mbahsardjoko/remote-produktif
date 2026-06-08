@@ -75,3 +75,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1573164713714-d95e436ab8d6 | context-switching-remote | 7 Juni 2026 |
 | 1526374965328-7f61d4dc18c5 | mengelola-distraksi-sosial-media-saat-kerja-remote | 8 Juni 2026 |
 | 1598791318878-10e4fe925d0f | tips-menghadapi-kelelahan-virtual-meeting | 2026-06-08 |
+| 1470252649378-9c29740c9fa8 | tools-remote-collaboration | 08 Jun 2026 |
