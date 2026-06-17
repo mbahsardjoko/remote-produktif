@@ -1,5 +1,69 @@
 [
     {
+        "slug": "morning-pages-remote-worker",
+        "title": "Morning Pages untuk Remote Worker — Curhat Pagi 10 Menit yang Bikin Hari Lebih Fokus",
+        "desc": "Morning pages itu journaling 10 menit tiap pagi. Ini rahasia remote worker produtif yang jarang dibahas — curhat ke kertas bisa bikin fokus sepanjang hari.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=800&q=80",
+        "date": "18 Juni 2026"
+    },
+    {
+        "slug": "manfaat-power-nap-remote",
+        "title": "Manfaat Power Nap Siang Buat Remote Worker — 20 Menit Tidur yang Bikin Sisa Hari Produktif Lagi",
+        "desc": "Power nap 20 menit bisa naikin performa kerja remote drastis. Ini sains di baliknya plus cara praktekin tanpa bangun kesiangan.",
+        "tag": "Kesehatan & Energi",
+        "img": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+        "date": "18 Juni 2026"
+    },
+    {
+        "slug": "weekly-review-ritual-remote",
+        "title": "Weekly Review: Ritual 30 Menit di Hari Jumat yang Bikin Senin Lo Gak Panik Lagi",
+        "desc": "Weekly review cuma butuh 30 menit tiap Jumat. Ini template lengkap + 7 pertanyaan yang bikin minggu depan lo jalan auto-pilot.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=800&q=80",
+        "date": "18 Juni 2026"
+    },
+    {
+        "slug": "mengelola-ekspektasi-stakeholder-remote",
+        "title": "Cara Mengelola Ekspektasi Stakeholder saat Kerja Remote — Biar Gak Diomelin Klien atau Bos",
+        "desc": "Beda sama kerja di kantor, remote worker gak bisa minta maaf cuma modal senyum. Ini 8 cara ngatur ekspektasi stakeholder biar gak kena masalah.",
+        "tag": "Komunikasi & Kolaborasi",
+        "img": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800&q=80",
+        "date": "18 Juni 2026"
+    },
+    {
+        "slug": "manajemen-energi-bukan-waktu-remote",
+        "title": "Manajemen Energi, Bukan Waktu — Kunci Remote Worker yang Kerja 4 Jam Tapi Hasilnya 2x Lipat",
+        "desc": "Banyak remote worker sibuk 8 jam tapi hasilnya minim. Konsep energy management bisa ganti cara lo kerja — dan hasilnya signifikan.",
+        "tag": "Produktivitas",
+        "img": "https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&q=80",
+        "date": "18 Juni 2026"
+    },
+    {
+        "slug": "menulis-bikin-lebih-cerdas-remote",
+        "title": "Menulis Bikin Lo Makin Cerdas — 5 Kebiasaan Writing Habit Remote Worker yang Wajib Ditiru",
+        "desc": "Riset Stanford nunjukin: nulis bikin lo mikir jernih. Ini 5 kebiasaan writing habit yang biasa dilakuin remote worker top-tier — dan cara mulai dari 0.",
+        "tag": "Karir & Pengembangan",
+        "img": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80",
+        "date": "18 Juni 2026"
+    },
+    {
+        "slug": "kebiasaan-pagi-remote-worker-sukses",
+        "title": "5 Kebiasaan Pagi Remote Worker Sukses — Bukan Cuma Bangun Pagi, Tapi Apa yang Dilakuin 30 Menit Pertama",
+        "desc": "30 menit pertama hari lo nentuin produktivitas 8 jam ke depan. Ini 5 rutinitas pagi remote worker sukses yang bisa lo contek mulai besok.",
+        "tag": "Work-Life Balance",
+        "img": "https://images.unsplash.com/photo-1495364141860-b0d03eccd065?w=800&q=80",
+        "date": "18 Juni 2026"
+    },
+    {
+        "slug": "second-brain-pribadi-remote",
+        "title": "Second Brain: Cara Bikin Otak Kedua Pribadi buat Remote Worker — Biar Gak Lupa Apa-Apa & Makin Produktif",
+        "desc": "Second brain = sistem pencatat digital yang jadi memori eksternal lo. Ini cara build-nya pake Notion / Obsidian, plus workflow yang works buat remote worker.",
+        "tag": "Tools & Setup",
+        "img": "https://images.unsplash.com/photo-1488998427799-e3362cec87c3?w=800&q=80",
+        "date": "18 Juni 2026"
+    },
+    {
         "slug": "tools-efisiensi-kerja-remote-dengan-ai",
         "title": "Tools Efisiensi Kerja Remote dengan AI",
         "desc": "Tingkatkan produktivitas kerja remote dengan tools AI yang recommended. Baca selengkapnya!",
