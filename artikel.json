@@ -934,5 +934,69 @@
         "tag": "Karir & Pengembangan",
         "img": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600&q=80",
         "date": "8 Juni 2026"
+    },
+    {
+        "slug": "fokus-pomodoro-setup",
+        "title": "Fokus Pomodoro Setup: Cara Bikin Teknik Pomodoro Beneran Bekerja Buat Remote Worker",
+        "desc": "Teknik Pomodoro terdengar simpel: 25 menit kerja, 5 menit istirahat. Tapi kalau asal jalanin, hasilnya nol besar. Ini setup Pomodoro yang beneran bekerja buat kerja remote.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&q=80",
+        "date": "17 Juni 2026"
+    },
+    {
+        "slug": "wfh-lighting-mood",
+        "title": "WFH Lighting & Mood: Pencahayaan dan Suasana Kerja yang Bikin Produktivitas Naik Signifikan",
+        "desc": "Pencahayaan kerja yang tepat bisa ningkatin produktivitas 15% dan ngurangin kelelahan mata 30%. Ini panduan setup pencahayaan WFH yang optimal untuk mood dan fokus.",
+        "tag": "Tools & Setup",
+        "img": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=600&q=80",
+        "date": "17 Juni 2026"
+    },
+    {
+        "slug": "ritual-mulai-kerja-remote",
+        "title": "Ritual Mulai Kerja Remote: Cara Bikin Pagi Kamu Konsisten dan Produktif Setiap Hari",
+        "desc": "Tanpa ritual pembuka kerja, hari remote kamu jadi satu blob yang susah dikontrol. Ini cara bikin ritual pagi yang bikin hari terasa on-track dari menit pertama.",
+        "tag": "Fokus & Produktivitas",
+        "img": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=600&q=80",
+        "date": "17 Juni 2026"
+    },
+    {
+        "slug": "signal-vs-noise-email",
+        "title": "Signal vs Noise Email: Cara Menyaring Email yang Penting dan Bikin Inbox Kamu Tenang Lagi",
+        "desc": "Email bisa jadi silent killer produktivitas remote worker. Ini sistem yang bikin kamu bisa fokus ke email penting, filter yang noise, dan tetap profesional tanpa jadi email-slave.",
+        "tag": "Komunikasi & Meeting",
+        "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
+        "date": "17 Juni 2026"
+    },
+    {
+        "slug": "career-switching-remote",
+        "title": "Career Switching ke Remote: 5 Fase Transisi dari Kerja Kantoran ke Kerja Remote",
+        "desc": "Pengen pindah dari kerja kantoran ke remote? Ini 5 fase transisi yang realistis — plus jebakan yang harus kamu hindari biar career switch kamu sukses.",
+        "tag": "Karir & Pengembangan",
+        "img": "https://images.unsplash.com/photo-1552581234-26160f608093?w=600&q=80",
+        "date": "17 Juni 2026"
+    },
+    {
+        "slug": "portfolio-pitch-remote",
+        "title": "Portfolio Pitch untuk Klien Remote: Cara Bikin Portofolio yang Beneran Meng-Closing Klien",
+        "desc": "Portofolio bukan cuma galeri project — ini sales tool. Cara ubah portofolio biasa jadi mesin yang nge-loyal klien remote, plus template pitch email yang works.",
+        "tag": "Karir & Pengembangan",
+        "img": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80",
+        "date": "17 Juni 2026"
+    },
+    {
+        "slug": "writing-thinking-remote",
+        "title": "Writing = Thinking: Skill Menulis yang Bikin Remote Worker Tampak Senior dan Efektif",
+        "desc": "Di remote, kemampuan nulis bukan cuma komunikasi — ini cara berpikir. Ini skill menulis yang ngebedain remote worker yang efektif dan yang struggling, plus cara develop-nya.",
+        "tag": "Komunikasi & Meeting",
+        "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80",
+        "date": "17 Juni 2026"
+    },
+    {
+        "slug": "manager-mode-remote",
+        "title": "Manager Mode Remote: 8 Skill Wajib yang Harus Dikembangkan Setelah Naik ke Level Manajer",
+        "desc": "Baru naik jadi remote manager? Ini 8 skill yang harus kamu develop — dari 1-on-1 yang bermakna, async-first management, sampai cara kasih feedback yang konstruktif.",
+        "tag": "Karir & Pengembangan",
+        "img": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&q=80",
+        "date": "17 Juni 2026"
     }
 ]
