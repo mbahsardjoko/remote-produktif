@@ -76,3 +76,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1526374965328-7f61d4dc18c5 | mengelola-distraksi-sosial-media-saat-kerja-remote | 8 Juni 2026 |
 | 1598791318878-10e4fe925d0f | tips-menghadapi-kelelahan-virtual-meeting | 2026-06-08 |
 | 1470252649378-9c29740c9fa8 | tools-remote-collaboration | 08 Jun 2026 |
+| 1483058712412-4245e9b90334 | imposter-syndrome-remote-worker | 20 Juni 2026 |
