@@ -78,3 +78,5 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1470252649378-9c29740c9fa8 | tools-remote-collaboration | 08 Jun 2026 |
 | 1483058712412-4245e9b90334 | imposter-syndrome-remote-worker | 20 Juni 2026 |
 | 1556761175-b413da4baf72 | managing-up-remote-worker | 21 Juni 2026 |
+| 1473163928189-364b2c4e1135 | inbox-zero-remote-worker | 21 Juni 2026 |
+| 1508672019048-805c876b67e2 | self-compassion-remote-worker | 21 Juni 2026 |
