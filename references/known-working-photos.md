@@ -57,3 +57,17 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1515378791036-0648a3ef77b2 | Tangan mengetik di laptop dengan sweter hangat mustard — metafora kenyamanan dan semangat kerja remote | 7 Juni 2026 |
 | 1526374965328-7f61d4dc18c5 | Technology and social media concept | 8 Juni 2026 |
 | 1483058712412-4245e9b90334 | Reflection/journaling workspace - orang yang lagi mikir atau nulis | 20 Juni 2026 |
+| 1556761175-b413da4baf72 | Professional communication / workplace meeting — metafora managing up | 21 Juni 2026 |
+| 1573164574572-cb89e39749b4 | Workplace communication / professional meeting | 21 Juni 2026 |
+| 1542744173-8e7e53415bb0 | Workplace communication / professional meeting | 21 Juni 2026 |
+| 1517048676732-d65bc937f952 | Office professional setting | 21 Juni 2026 |
+| 1497215728101-856f4ea42174 | Office / professional workspace | 21 Juni 2026 |
+| 1573164713988-8665fc963095 | Professional / workplace setting | 21 Juni 2026 |
+| 1542744095-fcf48d80b0fd | Professional / business meeting | 21 Juni 2026 |
+| 1499951360447-b19be8fe80f5 | Workplace / business context | 21 Juni 2026 |
+| 1521791055366-0d553872125f | Professional communication | 21 Juni 2026 |
+| 1572025442646-866d16c84a54 | Workplace / professional context | 21 Juni 2026 |
+| 1577962917302-cd874c4e31d2 | Professional / business meeting | 21 Juni 2026 |
+| 1604881991720-f91add269bed | Professional / business context | 21 Juni 2026 |
+| 1557804506-669a67965ba0 | Workplace team / business | 21 Juni 2026 |
+| 1497032628192-86f99bcd76bc | Office / professional setting | 21 Juni 2026 |
