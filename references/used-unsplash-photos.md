@@ -80,3 +80,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1556761175-b413da4baf72 | managing-up-remote-worker | 21 Juni 2026 |
 | 1473163928189-364b2c4e1135 | inbox-zero-remote-worker | 21 Juni 2026 |
 | 1508672019048-805c876b67e2 | self-compassion-remote-worker | 21 Juni 2026 |
+| 1488190211105-8b0e65b80b4e | quarterly-planning-ritual-remote-worker | 22 Juni 2026 |
