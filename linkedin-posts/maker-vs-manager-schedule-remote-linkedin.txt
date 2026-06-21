@@ -1,0 +1,22 @@
+🚀 Remote worker: lo pernah ngerasa hari lo PENUH meeting tapi gak ada deliverable yang kelar?
+
+Itu bukan karena lo gak produktif. Lo kena konflik klasik yang disebut Paul Graham (pendiri Y Combinator) sebagai **Maker's Schedule vs Manager's Schedule**.
+
+💡 **Intinya:**
+- **Maker schedule** butuh blok panjang (3-5 jam) tanpa interupsi buat deep work
+- **Manager schedule** penuh slot 30-60 menit buat koordinasi & meeting
+- Di remote, konflik ini LEBIH tajem karena sinyal visual ilang
+
+📌 **5 Solusi praktis di artikel baru:**
+1. Pisahkan Maker Day vs Manager Day
+2. Defend blok fokus di calendar
+3. Ubah meeting yang gak perlu jadi async
+4. Communicate boundary dengan tegas ke tim
+5. Audit calendar sebulan sekali
+
+Kuncinya: lo gak akan bisa kerja 100% deep work tiap hari. Tapi lo bisa dapet 30-50% maker time yang protected. Dan itu udah cukup buat naikin kualitas kerja lo drastis.
+
+📖 Baca panduannya lengkap (gratis, no email required):
+https://remoteproduktif.online/maker-vs-manager-schedule-remote
+
+#RemoteWork #Productivity #TimeManagement #DeepWork #AsyncWork #WorkFromHome
