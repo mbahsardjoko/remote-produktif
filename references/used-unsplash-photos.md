@@ -82,3 +82,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1508672019048-805c876b67e2 | self-compassion-remote-worker | 21 Juni 2026 |
 | 1488190211105-8b0e65b80b4e | quarterly-planning-ritual-remote-worker | 22 Juni 2026 |
 | 1488998427799-e3362cec87c3 | skill-stacking-remote-worker | 22 Juni 2026 |
+| 1521791136064-7986c2920216 | maker-vs-manager-schedule-remote | 22 Juni 2026 |
