@@ -87,3 +87,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1543253687-c931c8e01820 | slow-productivity-remote | 23 Juni 2026 |
 | 1606857521015-7f9fcf423740 | psychological-safety-remote-team | 23 Juni 2026 |
 | 1557804506-669a67965ba0 | comparison-trap-remote-worker | 23 Juni 2026 |
+| 1528715471579-d1bcf0ba5e83 | post-meeting-shutdown-ritual | 23 Juni 2026 |
