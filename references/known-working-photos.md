@@ -39,7 +39,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1522071901873-411886a10004 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1523240795612-9a054b0db644 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1524178232363-1fb2b075b655 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
-| 1524250502761-1ac6f2e30d43 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
+| 1524250502761-1ac6f2e30d43 | Workspace remote worker dengan laptop dan catatan — metafora end-of-day shutdown | 23 Juni 2026 |
 | 1528715471579-d1bcf0ba5e83 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1537511446984-935f663eb1f4 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1543253687-c931c8e01820 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
