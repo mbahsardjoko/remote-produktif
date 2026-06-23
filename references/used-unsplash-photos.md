@@ -86,3 +86,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1518531933037-91b2f5f229cc | attention-residue-remote-worker | 22 Juni 2026 |
 | 1543253687-c931c8e01820 | slow-productivity-remote | 23 Juni 2026 |
 | 1606857521015-7f9fcf423740 | psychological-safety-remote-team | 23 Juni 2026 |
+| 1557804506-669a67965ba0 | comparison-trap-remote-worker | 23 Juni 2026 |
