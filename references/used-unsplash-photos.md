@@ -85,3 +85,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1521791136064-7986c2920216 | maker-vs-manager-schedule-remote | 22 Juni 2026 |
 | 1518531933037-91b2f5f229cc | attention-residue-remote-worker | 22 Juni 2026 |
 | 1543253687-c931c8e01820 | slow-productivity-remote | 23 Juni 2026 |
+| 1606857521015-7f9fcf423740 | psychological-safety-remote-team | 23 Juni 2026 |

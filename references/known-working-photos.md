@@ -90,3 +90,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1551836022-d5d88e9218df | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1556761175-5973dc0f32e7 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1581291518633-83b4ebd1d83e | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
+| 1606857521015-7f9fcf423740 | Tim remote bekerja dengan rasa percaya (psychological safety) | 23 Juni 2026 |
