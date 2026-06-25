@@ -44,7 +44,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1537511446984-935f663eb1f4 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1543253687-c931c8e01820 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1543269865-cbf427effbad | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
-| 1550745165-9bc0b252726f | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
+| 1550745165-9bc0b252726f | Laptop dengan background zen minimalis — simbol fokus tanpa tekanan perfeksionis | 25 Juni 2026 | 7 Juni 2026 |
 | 1551434678-e076c223a692 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1554224155-8d04cb21cd6c | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1560520653-9e0e4c89eb11 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |

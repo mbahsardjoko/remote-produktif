@@ -89,3 +89,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1557804506-669a67965ba0 | comparison-trap-remote-worker | 23 Juni 2026 |
 | 1528715471579-d1bcf0ba5e83 | post-meeting-shutdown-ritual | 23 Juni 2026 |
 | 1524250502761-1ac6f2e30d43 | shutdown-ritual-remote-worker | 23 Juni 2026 |
+| 1550745165-9bc0b252726f | perfeksionisme-produktivitas-remote | 25 Juni 2026 |
