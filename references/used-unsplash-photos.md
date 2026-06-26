@@ -90,3 +90,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1528715471579-d1bcf0ba5e83 | post-meeting-shutdown-ritual | 23 Juni 2026 |
 | 1524250502761-1ac6f2e30d43 | shutdown-ritual-remote-worker | 23 Juni 2026 |
 | 1550745165-9bc0b252726f | perfeksionisme-produktivitas-remote | 25 Juni 2026 |
+| 1543269865-cbf427effbad | kecanduan-smartphone-remote-worker | 26 Juni 2026 |
