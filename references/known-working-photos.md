@@ -70,7 +70,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1577962917302-cd874c4e31d2 | Professional / business meeting | 21 Juni 2026 |
 | 1604881991720-f91add269bed | Professional / business context | 21 Juni 2026 |
 | 1557804506-669a67965ba0 | Workplace team / business | 21 Juni 2026 |
-| 1497032628192-86f99bcd76bc | Office / professional setting | 21 Juni 2026 |
+| 1497032628192-86f99bcd76bc | Office workspace minimalis dengan laptop dan tanaman — metafora lingkungan kerja tenang dan fokus | 26 Juni 2026 | 21 Juni 2026 |
 | 1473163928189-364b2c4e1135 | Laptop dengan kalender dunia dan jadwal meeting — metafora email/calendar management | 21 Juni 2026 |
 | 1508672019048-805c876b67e2 | Orang bekerja remote dengan tenang di alam terbuka — metafora self-compassion dan ketenangan | 21 Juni 2026 |
 | 1454165205744-3b78555e5572 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
