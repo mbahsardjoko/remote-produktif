@@ -75,7 +75,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1508672019048-805c876b67e2 | Orang bekerja remote dengan tenang di alam terbuka — metafora self-compassion dan ketenangan | 21 Juni 2026 |
 | 1454165205744-3b78555e5572 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1488998427799-e3362cec87c3 | Notion workspace dengan database untuk second brain — metafora skill stacking dan pengorganisasian skill | 22 Juni 2026 |
-| 1493932484895-752d1471eab5 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
+| 1493932484895-752d1471eab5 | Stres dan kelelahan akibat kerja remote — ilustrasi overthinking yang menguras energi mental | 26 Juni 2026 | 22 Juni 2026 |
 | 1495364141860-b0d03eccd065 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1508962914676-134849a727f0 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1512486130939-2c4f79935e4f | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |

@@ -94,3 +94,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1551434678-e076c223a692 | introvert-vs-extrovert-remote-work | 26 Juni 2026 |
 | 1512486130939-2c4f79935e4f | task-batching-metode-produktivitas-remote | 26 Juni 2026 |
 | 1497032628192-86f99bcd76bc | noise-cancelling-remote-worker | 26 Juni 2026 |
+| 1493932484895-752d1471eab5 | overthinking-remote-worker | 26 Juni 2026 |
