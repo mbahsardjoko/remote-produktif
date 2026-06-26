@@ -91,3 +91,5 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1524250502761-1ac6f2e30d43 | shutdown-ritual-remote-worker | 23 Juni 2026 |
 | 1550745165-9bc0b252726f | perfeksionisme-produktivitas-remote | 25 Juni 2026 |
 | 1543269865-cbf427effbad | kecanduan-smartphone-remote-worker | 26 Juni 2026 |
+| 1551434678-e076c223a692 | introvert-vs-extrovert-remote-work | 26 Juni 2026 |
+| 1512486130939-2c4f79935e4f | task-batching-metode-produktivitas-remote | 26 Juni 2026 |
