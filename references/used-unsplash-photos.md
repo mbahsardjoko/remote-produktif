@@ -95,3 +95,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1512486130939-2c4f79935e4f | task-batching-metode-produktivitas-remote | 26 Juni 2026 |
 | 1497032628192-86f99bcd76bc | noise-cancelling-remote-worker | 26 Juni 2026 |
 | 1493932484895-752d1471eab5 | overthinking-remote-worker | 26 Juni 2026 |
+| 1497215728101-856f4ea42174 | eisenhower-matrix-remote-worker | 27 Juni 2026 |
