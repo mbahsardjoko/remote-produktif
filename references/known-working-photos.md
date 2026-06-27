@@ -92,3 +92,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1581291518633-83b4ebd1d83e | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1606857521015-7f9fcf423740 | Tim remote bekerja dengan rasa percaya (psychological safety) | 23 Juni 2026 |
 | 1506905925346-21bda4d32df4 | Jalur di tengah hutan yang tenang — metafora beban kognitif yang terkelola dan pikiran yang jernih | 27 Juni 2026 |
+| 1486312338219-ce68d2c6f44d | Laptop workspace — produktivitas dan time management | 27 Juni 2026 |
