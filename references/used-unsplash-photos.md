@@ -99,3 +99,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1524178232363-1fb2b075b655 | writer-block-remote-worker | 27 Juni 2026 |
 | 1506905925346-21bda4d32df4 | cognitive-load-management-remote | 27 Juni 2026 |
 | 1486312338219-ce68d2c6f44d | parkinson-law-remote-worker | 27 Juni 2026 |
+| 1508962914676-134849a727f0 | planning-fallacy-remote-worker | 28 Juni 2026 |
