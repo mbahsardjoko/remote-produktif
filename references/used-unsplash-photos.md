@@ -101,3 +101,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1486312338219-ce68d2c6f44d | parkinson-law-remote-worker | 27 Juni 2026 |
 | 1508962914676-134849a727f0 | planning-fallacy-remote-worker | 28 Juni 2026 |
 | 1499951360447-b19be8fe80f5 | olahraga-peregangan-remote-worker | 29 June 2026 |
+| 1501339847302-ac426a4a7cbb | sunday-scaries-remote-worker | 29 Juni 2026 |
