@@ -84,7 +84,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1521791136064-7986c2920216 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1532968961962-8a0cb3a2d4f5 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1541701494587-cb58502866ab | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
-| 1541781774459-bb2af2f05b55 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
+| 1541781774459-bb2af2f05b55 | Orang tidur nyenyak di tempat tidur — metafora sleep hygiene dan kualitas tidur | 29 Juni 2026 | 22 Juni 2026 |
 | 1542435503-956c469947f6 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1545389336-cf090694435e | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1551836022-d5d88e9218df | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
