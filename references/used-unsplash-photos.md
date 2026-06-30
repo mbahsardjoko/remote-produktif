@@ -107,3 +107,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1517292987719-0369a1ecf164 | tool-fatigue-remote-worker | 30 Juni 2026 |
 | 1600880292089-90a7e086ee0c | proximity-bias-remote-worker | 30 Juni 2026 |
 | 1517841905240-472988babdf9 | microlearning-remote-worker | 30 Juni 2026 |
+| 1517048676732-d65bc937f952 | time-audit-remote | 30 Juni 2026 |

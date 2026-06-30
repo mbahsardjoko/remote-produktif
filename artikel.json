@@ -1,5 +1,13 @@
 [
   {
+    "slug": "time-audit-remote",
+    "title": "Time Audit buat Remote Worker: Cara Evaluasi Waktu Kerja Lo Biar Produktif",
+    "desc": "Time audit adalah cara evaluasi ngmana aja waktu kerja lo hilang. 7 langkah praktis buat remote worker yang pengen tahu jam-jamnya pergi ke mana.",
+    "tag": "Manajemen Waktu",
+    "img": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=600&q=80",
+    "date": "30 Juni 2026"
+  },
+  {
     "slug": "microlearning-remote-worker",
     "title": "Microlearning untuk Remote Worker: Cara Belajar Skill Baru Tanpa Harus Sekolah Lagi",
     "desc": "Microlearning: belajar skill baru dengan 5-10 menit per hari. 7 strategi praktis buat remote worker sibuk yang mau grow tanpa kursus formal.",
@@ -85,7 +93,7 @@
     "desc": "Writer's block gak cuma masalah penulis. Remote worker juga sering ngalamin pas nulis laporan, email, atau dokumentasi. Ini cara jitunya.",
     "tag": "Produktivitas",
     "img": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600&q=80",
-    "date": "27 Juni 2026"
+    "date": "30 Juni 2026"
   },
   {
     "slug": "eisenhower-matrix-remote-worker",
