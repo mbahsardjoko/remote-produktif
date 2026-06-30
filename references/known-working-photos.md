@@ -94,3 +94,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1506905925346-21bda4d32df4 | Jalur di tengah hutan yang tenang — metafora beban kognitif yang terkelola dan pikiran yang jernih | 27 Juni 2026 |
 | 1486312338219-ce68d2c6f44d | Laptop workspace — produktivitas dan time management | 27 Juni 2026 |
 | 1508962914676-134849a727f0 | Stopwatch di samping laptop dengan jurnal waktu — ilustrasi time tracking dan estimasi waktu | 28 Juni 2026 |
+| 1517292987719-0369a1ecf164 | Ilustrasi notifikasi ponsel yang mengganggu konsentrasi — metafora kelelahan akibat tools digital | 30 Juni 2026 |
