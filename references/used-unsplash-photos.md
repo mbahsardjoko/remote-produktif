@@ -103,3 +103,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1499951360447-b19be8fe80f5 | olahraga-peregangan-remote-worker | 29 June 2026 |
 | 1501339847302-ac426a4a7cbb | sunday-scaries-remote-worker | 29 Juni 2026 |
 | 1541781774459-bb2af2f05b55 | sleep-hygiene-remote-worker | 29 Juni 2026 |
+| 1556761175-5973dc0f32e7 | social-battery-remote-worker | 30 Juni 2026 |
