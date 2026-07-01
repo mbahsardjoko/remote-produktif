@@ -96,3 +96,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1508962914676-134849a727f0 | Stopwatch di samping laptop dengan jurnal waktu — ilustrasi time tracking dan estimasi waktu | 28 Juni 2026 |
 | 1517292987719-0369a1ecf164 | Ilustrasi notifikasi ponsel yang mengganggu konsentrasi — metafora kelelahan akibat tools digital | 30 Juni 2026 |
 | 1600880292089-90a7e086ee0c | Meeting online performance review via video call — metafora proximity bias dan visibilitas karir remote | 30 Juni 2026 |
+| 1522071901873-411886a10004 | Workspace desk organization - clean, minimalist desk setup | 1 Juli 2026 |
