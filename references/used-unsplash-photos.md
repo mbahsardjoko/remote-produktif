@@ -113,3 +113,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1545389336-cf090694435e | email-fatigue-remote-work | 1 Juli 2026 |
 | 1454165205744-3b78555e5572 | slack-culture-alternatives | 1 Juli 2026 |
 | 1522071901873-411886a10004 | declutter-workspace-remote-worker | 1 Juli 2026 |
+| 1518611012118-696072aa579a | async-communication-remote-team | 1 Juli 2026 |
