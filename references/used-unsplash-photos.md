@@ -111,3 +111,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1542435503-956c469947f6 | remote-work-guilt-remote-worker | 30 Juni 2026 |
 | 1495364141860-b0d03eccd065 | energy-spike-management-remote | 30 Juni 2026 |
 | 1545389336-cf090694435e | email-fatigue-remote-work | 1 Juli 2026 |
+| 1454165205744-3b78555e5572 | slack-culture-alternatives | 1 Juli 2026 |
