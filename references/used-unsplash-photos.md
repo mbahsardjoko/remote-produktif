@@ -121,3 +121,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1523240795612-9a054b0db644 | focus-sprints-remote | 2 Juli 2026 |
 | 1611926653458-09294b3142bf | mentorship-remote | 2 Juli 2026 |
 | 1542744173-8e7e53415bb0 | calendar-blocking-remote-worker | 2 Juli 2026 |
+| 1541701494587-cb58502866ab | overwhelm-management-remote-worker | 2 Juli 2026 |
