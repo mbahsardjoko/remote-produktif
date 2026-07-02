@@ -98,3 +98,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1600880292089-90a7e086ee0c | Meeting online performance review via video call — metafora proximity bias dan visibilitas karir remote | 30 Juni 2026 |
 | 1522071901873-411886a10004 | Workspace desk organization - clean, minimalist desk setup | 1 Juli 2026 |
 | 1521791055366-0d553872125f | Smartphone notifications - notification management context | 1 Juli 2026 |
+| 1551836022-d5d88e9218df | Seseorang melakukan peregangan — metafora recharge energi dan menghindari prokrastinasi | 2 Juli 2026 |
