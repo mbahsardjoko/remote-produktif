@@ -120,3 +120,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1542744095-fcf48d80b0fd | information-diet-remote-worker | 2 Juli 2026 |
 | 1523240795612-9a054b0db644 | focus-sprints-remote | 2 Juli 2026 |
 | 1611926653458-09294b3142bf | mentorship-remote | 2 Juli 2026 |
+| 1542744173-8e7e53415bb0 | calendar-blocking-remote-worker | 2 Juli 2026 |
