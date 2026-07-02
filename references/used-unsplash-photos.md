@@ -117,3 +117,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1521791055366-0d553872125f | notification-management-remote | 1 Juli 2026 |
 | 1551836022-d5d88e9218df | procrastination-types-remote-worker | 2 Juli 2026 |
 | 1573496359142-b8d87734a5a2 | toxic-productivity-remote-worker | 2 Juli 2026 |
+| 1542744095-fcf48d80b0fd | information-diet-remote-worker | 2 Juli 2026 |

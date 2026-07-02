@@ -63,7 +63,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1517048676732-d65bc937f952 | Office professional setting | 21 Juni 2026 |
 | 1497215728101-856f4ea42174 | Office / professional workspace | 21 Juni 2026 |
 | 1573164713988-8665fc963095 | Professional / workplace setting | 21 Juni 2026 |
-| 1542744095-fcf48d80b0fd | Professional / business meeting | 21 Juni 2026 |
+| 1542744095-fcf48d80b0fd | Smartphone with many notifications — simbol informasi overload 21 Juni 2026 |
 | 1499951360447-b19be8fe80f5 | Workplace / business context | 21 Juni 2026 |
 | 1521791055366-0d553872125f | Professional communication | 21 Juni 2026 |
 | 1572025442646-866d16c84a54 | Workplace / professional context | 21 Juni 2026 |
