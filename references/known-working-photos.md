@@ -52,7 +52,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1573496359142-b8d87734a5a2 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1600880292089-90a7e086ee0c | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1606857521015-7f9fcf423740 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
-| 1611926653458-09294b3142bf | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
+| 1611926653458-09294b3142bf | Laptop dengan profil LinkedIn — ilustrasi personal branding dan mentoring karir | 2 Juli 2026 |
 | 1677442136019-21780ecad995 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1515378791036-0648a3ef77b2 | Tangan mengetik di laptop dengan sweter hangat mustard — metafora kenyamanan dan semangat kerja remote | 7 Juni 2026 |
 | 1526374965328-7f61d4dc18c5 | Technology and social media concept | 8 Juni 2026 |
