@@ -99,3 +99,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1522071901873-411886a10004 | Workspace desk organization - clean, minimalist desk setup | 1 Juli 2026 |
 | 1521791055366-0d553872125f | Smartphone notifications - notification management context | 1 Juli 2026 |
 | 1551836022-d5d88e9218df | Seseorang melakukan peregangan — metafora recharge energi dan menghindari prokrastinasi | 2 Juli 2026 |
+| 1501785888041-af3ef285b470 | Jalan setapak di tengah hutan hijau yang tenang — metafora rehat dari layar dan pemulihan energi remote worker | 3 Juli 2026 |

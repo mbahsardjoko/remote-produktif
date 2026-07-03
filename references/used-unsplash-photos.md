@@ -124,3 +124,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1541701494587-cb58502866ab | overwhelm-management-remote-worker | 2 Juli 2026 |
 | 1572025442646-866d16c84a54 | career-plateau-remote-worker | 3 Juli 2026 |
 | 1677442136019-21780ecad995 | content-creation-remote | 3 Juli 2026 |
+| 1501785888041-af3ef285b470 | screen-time-management-remote-worker | 3 Juli 2026 |
