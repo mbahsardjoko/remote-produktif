@@ -122,3 +122,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1611926653458-09294b3142bf | mentorship-remote | 2 Juli 2026 |
 | 1542744173-8e7e53415bb0 | calendar-blocking-remote-worker | 2 Juli 2026 |
 | 1541701494587-cb58502866ab | overwhelm-management-remote-worker | 2 Juli 2026 |
+| 1572025442646-866d16c84a54 | career-plateau-remote-worker | 3 Juli 2026 |
