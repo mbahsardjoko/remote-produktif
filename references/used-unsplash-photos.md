@@ -127,3 +127,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1501785888041-af3ef285b470 | screen-time-management-remote-worker | 3 Juli 2026 |
 | 1573164713988-8665fc963095 | visual-task-management-remote-worker | 3 Juli 2026 |
 | 1581291518633-83b4ebd1d83e | body-doubling-remote-worker | 3 Juli 2026 |
+| 1573164574572-cb89e39749b4 | batasan-keluarga-saat-wfh-remote | 3 Juli 2026 |
