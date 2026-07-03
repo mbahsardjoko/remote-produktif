@@ -11,6 +11,11 @@ Strategy:
     - Ignores "lo" inside HTML tags/attributes and inside <a>...</a> anchor text.
     - Only acts on <p>, <li>, <div>, <h2>, <h3>, <span> text content.
 
+⚠️ LIMITATION: This script only handles lowercase "lo". Capitalized "Lo" at the
+   beginning of sentences is NOT handled. After running reduce-lo.py, verify
+   with the pre-commit verification script which checks BOTH "lo" and "Lo".
+   If capitalized "Lo" exceeds target, patch manually.
+
 The script prints the modified file to stdout. Pipe to a temp file and
 verify with grep -c, then overwrite the original if the count is acceptable.
 """

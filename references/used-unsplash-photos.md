@@ -130,3 +130,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1573164574572-cb89e39749b4 | batasan-keluarga-saat-wfh-remote | 3 Juli 2026 |
 | 1604881991720-f91add269bed | ultradian-rhythm-remote-worker | 3 Juli 2026 |
 | 1554224155-8d04cb21cd6c | freelance-rate-setting-remote-worker | 3 Juli 2026 |
+| 1577962917302-cd874c4e31d2 | bullet-journal-remote-worker | 3 Juli 2026 |
