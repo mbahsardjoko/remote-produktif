@@ -1,5 +1,21 @@
 [
   {
+    "slug": "async-video-messaging-remote-worker",
+    "title": "Rekaman Video Singkat: Cara Komunikasi Asinkron Biar Gak Perlu Meeting",
+    "desc": "Tips dan trik kirim rekaman video singkat buat remote worker. Ganti meeting pilih pengalaman visual, lebih efisien dan fleksibel.",
+    "tag": "Komunikasi",
+    "img": "https://images.unsplash.com/photo-1532968961962-8a0cb3a2d4f5?w=600&q=80",
+    "date": "4 Juli 2026"
+  },
+  {
+    "slug": "automation-workflow-remote-worker",
+    "title": "Otomatisasi Workflow — 7 Cara Hemat Waktu buat Remote Worker",
+    "desc": "Panduan praktis otomatisasi workflow buat remote worker. Hemat 5-10 jam per minggu dengan tools dan teknik automation yang efektif.",
+    "tag": "Produktivitas",
+    "img": "https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?w=600&q=80",
+    "date": "4 Juli 2026"
+  },
+  {
     "slug": "bullet-journal-remote-worker",
     "title": "Bullet Journal untuk Remote Worker: Cara Organisir Hidup & Kerja dalam Satu Notebook",
     "desc": "Overwhelm tugas & meeting? Bullet journal bikin lo punya satu sistem tangkap semua — gak perlu 5 apps berbeda.",

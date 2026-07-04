@@ -131,3 +131,5 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1604881991720-f91add269bed | ultradian-rhythm-remote-worker | 3 Juli 2026 |
 | 1554224155-8d04cb21cd6c | freelance-rate-setting-remote-worker | 3 Juli 2026 |
 | 1577962917302-cd874c4e31d2 | bullet-journal-remote-worker | 3 Juli 2026 |
+| 1560520653-9e0e4c89eb11 | automation-workflow-remote-worker | 4 Juli 2026 |
+| 1532968961962-8a0cb3a2d4f5 | async-video-messaging-remote-worker | 4 Juli 2026 |
