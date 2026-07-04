@@ -102,3 +102,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1501785888041-af3ef285b470 | Jalan setapak di tengah hutan hijau yang tenang — metafora rehat dari layar dan pemulihan energi remote worker | 3 Juli 2026 |
 | 1512499617640-c74ae3a79d37 | Smartphone dengan layar menyala — ilustrasi screen time dan sosial media | 4 Juli 2026 |
 | 1531545514256-b1400bc00f31 | Tim remote berdiskusi lewat video call — kontras visual untuk artikel meeting-free | 4 Juli 2026 |
+| 1499750310107-5fef28a66643 | Laptop di meja kerja dengan suasana tenang — metafora pemulihan setelah rapat panjang | 4 Juli 2026 |
