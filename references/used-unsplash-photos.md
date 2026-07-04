@@ -137,3 +137,5 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1531545514256-b1400bc00f31 | meeting-free-day-remote | 4 Juli 2026 |
 | 1499750310107-5fef28a66643 | meeting-recovery-syndrome-remote | 4 Juli 2026 |
 | 1513542789411-b6a5d4f31634 | task-initiation-remote-worker | 4 Juli 2026 |
+| 1490971588422-52f6262a237a | movement-breaks-remote | 4 Juli 2026 |
+| 1470071459604-3b5ec3a7fe05 | digital-sunset-remote-worker | 4 Juli 2026 |

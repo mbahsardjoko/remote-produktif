@@ -14,7 +14,14 @@ Strategy:
 ⚠️ LIMITATION: This script only handles lowercase "lo". Capitalized "Lo" at the
    beginning of sentences is NOT handled. After running reduce-lo.py, verify
    with the pre-commit verification script which checks BOTH "lo" and "Lo".
-   If capitalized "Lo" exceeds target, patch manually.
+   If capitalized "Lo" exceeds target, patch manually (replace "Lo" with
+   "Kamu", "kamu", or rephrase the sentence).
+
+   **Pengalaman nyata (Juli 2026):** Artikel bisa punya 8-14 "Lo" kapital
+   di awal kalimat yang lewat script. Setelah
+   `python3 scripts/reduce-lo.py --target=15`, cek case-insensitive:
+   `re.findall(r'\blo\b', text, re.IGNORECASE)`. Kalo masih >20, patch manual
+   lowercase "Lo" → "Kamu" / "kamu" / rephrase.
 
 The script prints the modified file to stdout. Pipe to a temp file and
 verify with grep -c, then overwrite the original if the count is acceptable.
