@@ -142,3 +142,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1497366754035-f200968a6e72 | ergonomic-desk-setup-remote-worker | 5 Juli 2026 |
 | 1505740420928-5e560c06d30e | kecemasan-remote-worker | 5 Juli 2026 |
 | 1516280440614-37939bbacd81 | time-off-remote-worker | 5 Juli 2026 |
+| 1583394838336-acd977736f90 | headphone-wfh-essentials | 5 Juli 2026 |

@@ -109,3 +109,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1497366754035-f200968a6e72 | Modern office workspace — setup meja dengan laptop dan tanaman hias | 5 Juli 2026 |
 | 1505740420928-5e560c06d30e | Nature/calm landscape — metafora ketenangan untuk artikel anxiety | 5 Juli 2026 |
 | 1516280440614-37939bbacd81 | Featured image for time-off-remote-worker article | 5 Juli 2026 |
+| 1583394838336-acd977736f90 | Headphone profesional di atas meja — audio setup buat remote worker | 5 Juli 2026 |
