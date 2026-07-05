@@ -139,3 +139,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1513542789411-b6a5d4f31634 | task-initiation-remote-worker | 4 Juli 2026 |
 | 1490971588422-52f6262a237a | movement-breaks-remote | 4 Juli 2026 |
 | 1470071459604-3b5ec3a7fe05 | digital-sunset-remote-worker | 4 Juli 2026 |
+| 1497366754035-f200968a6e72 | ergonomic-desk-setup-remote-worker | 5 Juli 2026 |
