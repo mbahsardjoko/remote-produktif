@@ -107,3 +107,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1490971588422-52f6262a237a | Orang peregangan di depan meja kerja - movement breaks | 4 Juli 2026 |
 | 1470071459604-3b5ec3a7fe05 | Seseorang membaca buku di sofa dengan lampu hangat - evening wind-down | 4 Juli 2026 |
 | 1497366754035-f200968a6e72 | Modern office workspace — setup meja dengan laptop dan tanaman hias | 5 Juli 2026 |
+| 1505740420928-5e560c06d30e | Nature/calm landscape — metafora ketenangan untuk artikel anxiety | 5 Juli 2026 |
