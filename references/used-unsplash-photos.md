@@ -145,4 +145,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1583394838336-acd977736f90 | headphone-wfh-essentials | 5 Juli 2026 |
 | 1497032628192-86f99bcd76bc | music-focus-productivity-remote-worker | 5 Juli 2026 |
 | 1556228578-0d85b1a4d571 | ai-productivity-tools-remote | 6 Juli 2026 |
-
+| 1520333789090-1afc82db536a | toxic-productivity-remote | 6 Juli 2026 |

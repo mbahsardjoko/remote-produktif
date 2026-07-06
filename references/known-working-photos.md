@@ -111,3 +111,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1516280440614-37939bbacd81 | Featured image for time-off-remote-worker article | 5 Juli 2026 |
 | 1583394838336-acd977736f90 | Headphone profesional di atas meja — audio setup buat remote worker | 5 Juli 2026 |
 | 1522071820081-009f0129c71c | Coffee shop atmosphere — reused for caffeine strategy article | 6 Juli 2026 |
+| 1520333789090-1afc82db536a | Pekerja remote kelelahan di depan laptop — metafora toxic productivity dan overwork | 6 Juli 2026 |
