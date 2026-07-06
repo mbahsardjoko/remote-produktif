@@ -67,7 +67,7 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1518770660439-4636190af475 | zapier-vs-make-automation-remote | 6 Juni 2026 |
 | 1559136555-9303baea8ebd | google-workspace-tips-remote | 7 Juni 2026 |
 | 1507525428034-b723cf961d3e | fomo-remote-worker | 7 Juni 2026 |
-| 1484480974693-6ca0a78fb36b | decision-fatigue-remote-worker | 7 Juni 2026 |
+|1484480974693-6ca0a78fb36b| decision-fatigue-remote-worker, critical-thinking-remote-worker |7 Juni 2026|
 | 1516321318423-f06f85e504b3 | virtual-whiteboarding-tools-remote | 7 Juni 2026 |
 | 1555421689-491a97ff2040 | mengelola-klien-freelance-remote | 7 Juni 2026 |
 | 1515378791036-0648a3ef77b2 | menjaga-motivasi-remote-worker | 7 Juni 2026 |
@@ -145,3 +145,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1583394838336-acd977736f90 | headphone-wfh-essentials | 5 Juli 2026 |
 | 1497032628192-86f99bcd76bc | music-focus-productivity-remote-worker | 5 Juli 2026 |
 | 1556228578-0d85b1a4d571 | ai-productivity-tools-remote | 6 Juli 2026 |
+
