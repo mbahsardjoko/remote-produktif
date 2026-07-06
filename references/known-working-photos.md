@@ -112,3 +112,35 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1583394838336-acd977736f90 | Headphone profesional di atas meja — audio setup buat remote worker | 5 Juli 2026 |
 | 1522071820081-009f0129c71c | Coffee shop atmosphere — reused for caffeine strategy article | 6 Juli 2026 |
 | 1520333789090-1afc82db536a | Pekerja remote kelelahan di depan laptop — metafora toxic productivity dan overwork | 6 Juli 2026 |
+| 1434030216411-0b793f4b4173 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1450101499163-c8848c66ca85 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1451187580459-43490279c0fa | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1454165804606-c3d57bc86b40 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1455390582262-044cdead277a | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1496171367470-9ed9a91ea931 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1498050108023-c5249f4df085 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1499209974431-9dddcece7f88 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1504384308090-c894fdcc538d | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1506126613408-eca07ce68773 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1506784983877-45594efa4cbe | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1507003211169-0a1dd7228f2d | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1517245386807-bb43f82c33c4 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1517842645767-c639042777db | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1518241353330-0f7941c2d9b5 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1519389950473-47ba0277781c | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1521295121783-8a321d551ad2 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1521737711867-e3b97375f902 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1522202176988-66273c2fd55f | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1529156069898-49953e39b3ac | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1544367567-0f2fcb009e0b | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1545205597-3d9d02c29597 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1552664730-d307ca884978 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1559223607-a43c990c692c | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1560472354-b33ff0c44a43 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1573497019940-1c28c88b4f3e | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1573497620053-ea5300f94f21 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1588196749597-9ff075ee6b5b | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1589829085413-56de8ae18c73 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1593062096033-9a26b09da705 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1593642632559-0c6d3fc62b89 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
+| 1600880292203-757bb62b4baf | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
