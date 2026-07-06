@@ -148,3 +148,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1520333789090-1afc82db536a | toxic-productivity-remote | 6 Juli 2026 |
 | 1517694712202-14dd9538aa97 | presentasi-online-remote-worker | 6 Juli 2026 |
 | 1486312338219-ce68d2c6f44d | async-communication-remote | 6 July 2026 |
+| 1486312338219-ce68d2c6f44d | async-communication-remote | 6 Juli 2026 |
