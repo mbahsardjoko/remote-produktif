@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Komunikasi Async untuk Remote Worker: Cara Ngomong Tanpa Meeting yang Bikin Produktif — RemoteProduktif</title>
+  <meta name="description" content="Meeting terlalu banyak? Coba komunikasi async — kirim pesan, rekam video, tulis dokumen. Tim tetap sync tapi gak perlu pegang jadwal.">
+  <link rel="canonical" href="https://remoteproduktif.online/async-communication-remote">
+  <meta name="google-site-verification" content="G-JEM1XWBLHE">
+  <meta property="og:title" content="Komunikasi Async untuk Remote Worker: Cara Ngomong Tanpa Meeting yang Bikin Produktif — RemoteProduktif">
+  <meta property="og:description" content="Meeting terlalu banyak? Coba komunikasi async — kirim pesan, rekam video, tulis dokumen. Tim tetap sync tapi gak perlu pegang jadwal.">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80">
+  <meta property="og:url" content="https://remoteproduktif.online/async-communication-remote">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="RemoteProduktif">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Komunikasi Async untuk Remote Worker: Cara Ngomong Tanpa Meeting yang Bikin Produktif — RemoteProduktif">
+  <meta name="twitter:description" content="Meeting terlalu banyak? Coba komunikasi async — kirim pesan, rekam video, tulis dokumen. Tim tetap sync tapi gak perlu pegang jadwal.">
+  <meta name="twitter:image" content="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JEM1XWBLHE"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-JEM1XWBLHE');
+  </script>
+  <style>
+    :root {
+      --bg: #fef9f4;
+      --text: #2d2d2d;
+      --muted: #6b6b6b;
+      --accent: #e86c00;
+      --accent-soft: #fff4ed;
+      --card: #ffffff;
+      --border: #e8ddd0;
+      --tip-bg: #e8f5e9;
+      --tip-border: #a5d6a7;
+      --cta-start: #e86c00;
+      --cta-end: #d45c00;
+      --nav-bg: rgba(254, 249, 244, 0.95);
+      --nav-border: #e8ddd0;
+      --code-bg: #f5f0eb;
+      --code-text: #c44d00;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      font-size: 16px;
+    }
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--nav-bg);
+      backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--nav-border);
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .nav-brand {
+      font-weight: 700;
+      font-size: 1.25rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .nav-links {
+      display: flex;
+      gap: 1.5rem;
+      list-style: none;
+    }
+    .nav-links a {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.95rem;
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--accent); }
+    article {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+    .article-header {
+      text-align: center;
+      margin-bottom: 2.5rem;
+      padding-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .badge {
+      display: inline-block;
+      background: var(--accent-soft);
+      color: var(--accent);
+      padding: 0.35rem 0.9rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    h1 {
+      font-size: 2.25rem;
+      font-weight: 800;
+      line-height: 1.25;
+      color: var(--text);
+      margin-bottom: 1rem;
+    }
+    .meta {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+    .meta span { display: flex; align-items: center; gap: 0.4rem; }
+    .featured-img {
+      width: 100%;
+      height: auto;
+      max-height: 450px;
+      object-fit: cover;
+      border-radius: 16px;
+      margin-bottom: 2.5rem;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    }
+    .container {
+      font-size: 1.05rem;
+    }
+    .container p {
+      margin-bottom: 1.25rem;
+      text-align: justify;
+    }
+    h2 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--text);
+      margin: 2.5rem 0 1rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 2px solid var(--accent-soft);
+    }
+    h3 {
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: var(--text);
+      margin: 1.5rem 0 0.75rem;
+    }
+    strong { color: var(--text); font-weight: 700; }
+    a {
+      color: var(--accent);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      transition: color 0.2s;
+    }
+    a:hover { color: #cc5500; }
+    ul, ol {
+      margin: 1rem 0 1.25rem 1.5rem;
+      padding-left: 0.5rem;
+    }
+    li { margin-bottom: 0.5rem; }
+    .tip-box {
+      background: var(--tip-bg);
+      border-left: 4px solid var(--tip-border);
+      border-radius: 0 12px 12px 0;
+      padding: 1.25rem 1.5rem;
+      margin: 1.5rem 0;
+    }
+    .tip-box p { margin: 0; font-size: 0.95rem; }
+    .tip-box strong { color: #2e7d32; }
+    .cta {
+      background: linear-gradient(135deg, var(--cta-start) 0%, var(--cta-end) 100%);
+      color: white;
+      border-radius: 16px;
+      padding: 2.5rem 2rem;
+      text-align: center;
+      margin: 3rem 0;
+    }
+    .cta h2 { color: white; border-color: rgba(255,255,255,0.3); margin-top: 0; font-size: 1.75rem; }
+    .cta p { color: rgba(255,255,255,0.9); font-size: 1.1rem; margin-bottom: 1.5rem; }
+    .cta a {
+      display: inline-block;
+      background: white;
+      color: var(--cta-start);
+      padding: 0.9rem 2rem;
+      border-radius: 999px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .cta a:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.2); color: var(--cta-start); text-decoration: none; }
+    .related {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-top: 3rem;
+    }
+    .related h2 { font-size: 1.25rem; border-color: var(--accent-soft); margin-top: 0; }
+    .related ul { list-style: none; margin: 0; padding: 0; }
+    .related li { margin-bottom: 0.75rem; padding-left: 0; }
+    .related a { font-weight: 500; }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--muted);
+      font-size: 0.85rem;
+      border-top: 1px solid var(--border);
+      margin-top: 3rem;
+    }
+    @media (max-width: 640px) {
+      nav { padding: 1rem; flex-direction: column; gap: 0.75rem; }
+      .nav-links { gap: 1rem; }
+      h1 { font-size: 1.75rem; }
+      .cta { padding: 2rem 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="/" class="nav-brand">RemoteProduktif</a>
+    <ul class="nav-links">
+      <li><a href="/">Beranda</a></li>
+      <li><a href="/contact">Kontak</a></li>
+      <li><a href="/privacy-policy">Kebijakan Privasi</a></li>
+      <li><a href="/copyright">Hak Cipta</a></li>
+    </ul>
+  </nav>
+
+  <article>
+    <header class="article-header">
+      <span class="badge">Komunikasi</span>
+      <h1>Komunikasi Async untuk Remote Worker: Cara Ngomong Tanpa Meeting yang Bikin Produktif</h1>
+      <div class="meta">
+        <span>✍️ CR7</span>
+        <span>📅 6 Juli 2026</span>
+        <span>⏱️ 8 menit baca</span>
+      </div>
+    </header>
+
+    <img src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=800&q=80" alt="Laptop workspace dengan dokumentasi dan knowledge management — metafora komunikasi async yang terstruktur" class="featured-img">
+
+    <div class="container">
+      <p>Lo pernah gak, jadwal lo penuh meeting dari pagi sampe sore, dan akhir hari lo cuma ngerasa <strong>lelah tapi gak ada output nyata?</strong> Lo duduk di depan layar 8 jam, tapi yang lo lakuin cuma dengerin orang bicara, ngganti jam, dan mikir "kapan aku bisa kerjain task asli aku?" 😅</p>
+
+      <p>Ini masalah klasik remote work: <strong>meeting jadi default buat segala hal.</strong> Butuh keputusan? Meeting. Butuh update? Meeting. Butuh brainstorm? Meeting. Padahal separuh dari meeting itu bisa diganti dengan <strong>pesan tertulis, rekaman video, atau dokumen bersama</strong> yang bisa dibuka kapan aja. Ini namanya <strong>komunikasi async (asynchronous)</strong> — dan ini game changer buat produktivitas tim remote. 🚀</p>
+
+      <p>Gue bukan bilang meeting itu jahat. Meeting punya fungsinya: <strong>build rapport, klarifikasi cepat, keputusan kompleks</strong>. Tapi kalo meeting jadi cara utama komunikasi, lo bakal terjebak di <strong>"meeting hell"</strong> — di mana waktu kerja asli cuma bisa dilakukan di malam hari atau weekend. Artikel ini bakal jabarin <strong>cara pindah ke komunikasi async</strong> tanpa bikin tim lo kacau. Yuk mulai! 💡</p>
+
+      <h2>1. Kenapa Async Itu Beda Sama "Cuma Chat Aja"</h2>
+      <p>Banyak orang mikir komunikasi async = <strong>Slack/WhatsApp doang.</strong> Salah besar. Async itu soal <strong>struktur dan niat</strong>, bukan cuma tool. Bedanya: chat real-time (sync) minta balasan cepat, async minta <strong>konteks lengkap supaya penerima bisa proses kapan siap.</strong> 📝</p>
+
+      <p>Contoh: lo kirim "Hai, ada update project X" di Slack → ini sync, karena lo expect balasan cepet. Tapi kalo lo kirim: <em>"Update project X (link doc): milestone 1 selesai, milestone 2 mulai Senin, blocker: butuh akses server (sudah request ke IT). Pertanyaan? Reply di thread atau tag aku."</em> → ini async. Penerima baca kapan dia focus, punya full context, dan balas dengan pemikiran yang matang. <strong>Kualitas komunikasi naik, interupsi turun.</strong> 🎯</p>
+
+      <div class="tip-box">
+        <p><strong>💡 Pro Tip:</strong> Aturan emas async: <strong>satu pesan = satu topik + konteks lengkap + call-to-action jelas.</strong> Kalo lo butuh 3 paragraf buat jelasin konteks, bikin dokumen (Notion/Google Doc) dan share link-nya. Ini lebih efisien dari chat panjang yang gak ke-thread. Pelajari cara bikin dokumen yang jelas di <a href="https://remoteproduktif.online/komunikasi-async-remote"><strong>panduan komunikasi async untuk tim remote</strong></a>. 🧠</p>
+      </div>
+
+      <h2>2. Tiga Pilar Komunikasi Async yang Harus Lo Kuasai</h2>
+      <p>Komunikasi async yang efektif berdiri di tiga pilar: <strong>tulis (writing), rekam (recording), dan dokumen bersumber (living docs).</strong> Lo gak perlu master semua sekaligus — mulai dari yang paling gampang buat tim lo. ✍️</p>
+
+      <p><strong>Pilar 1: Menulis yang Jelas (Structured Writing)</strong><br>
+      Remote worker harus bisa nulis pesan yang <strong>bisa dimengerti tanpa tanya balik.</strong> Gunakan struktur: Konteks → Apa yang dibutuhkan → Deadline/Next step. Contoh: <em>"Konteks: Q3 planning minggu depan. Butuh: lo review draft roadmap (link) sampai Rabu 10 pagi. Next step: aku finalisasi Kamis."</em> Gak perlu panjang — <strong>yang penting lengkap.</strong> 📋</p>
+
+      <p><strong>Pilar 2: Rekaman Video Async (Loom/Vidcast)</strong><br>
+      Kadang nulis butuh waktu lama buat jelasin hal kompleks. <strong>Rekam layar + suara 3-5 menit</strong> sering lebih cepat dan lebih jelas. Tools: Loom, Vidcast, atau Record di Slack. Cocok buat: walkthrough code review, demo fitur baru, jelasin proses yang rumit. <strong>Bonus: rekaman jadi dokumentasi otomatis</strong> yang bisa ditonton ulang. 🎥</p>
+
+      <p><strong>Pilar 3: Living Documents (Notion, Confluence, Google Docs)</strong><br>
+      Jangan simpen keputusan di chat yang tenggelam. <strong>Semua keputusan, proses, dan knowledge harus di dokumen yang update-able.</strong> Bikin template: Meeting notes → Action items → Decisions log. Tim baru join? Baca dokumen, gak perlu tanya orang lama. <strong>Ini investasi jangka panjang yang bayar mahal.</strong> 📚</p>
+
+      <h2>3. Kapan Harus Meeting, Kapan Cukup Async</h2>
+      <p>Ini pertanyaan paling sering ditanyain: <strong>"Kapan kita meeting, kapan kita async?"</strong> Gunakan framework sederhana ini: 🤔</p>
+
+      <ul>
+        <li><strong>Meeting (Sync):</strong> Build trust/rapport, klarifikasi ambigu (ping-pong cepet), keputusan berat butuh konsensus real-time, crisis/urgent, 1-on-1, retrospective.</li>
+        <li><strong>Async:</strong> Status update, share info/knowledge, review doc/code, brainstorming awal (kumpulin ide di doc dulu), pertanyaan rutinan, onboarding docs.</li>
+      </ul>
+
+      <p><strong>Aturan praktis:</strong> Kalo agenda meeting bisa ditulis dalam 3 bullet point dan gak butuh debat → <strong>jadikan async.</strong> Kalo butuh whiteboard, debat panjang, atau emotional weight → <strong>meeting.</strong> Lo bakal terkejut berapa meeting yang bisa dihilangin cuma pake aturan ini. 📉</p>
+
+      <div class="tip-box">
+        <p><strong>💡 Pro Tip:</strong> Coba terapin <strong>"Meeting-Free Day"</strong> seminggu sekali. Di hari itu, <strong>semua komunikasi wajib async.</strong> Tim belajar mandiri, dokumen jadi lebih lengkap, dan hari kerja jadi lebih dalam (deep work). Baca pengalaman tim lain di <a href="https://remoteproduktif.online/meeting-free-day-remote"><strong>Meeting-Free Day: Cara Terapin Hari Bebas Rapat</strong></a>. 🛑</p>
+      </div>
+
+      <h2>4. Bangun Budaya "Write First, Talk Later"</h2>
+      <p>Budaya async gak tumbuh sendiri — <strong>harus ditanam dari atas dan dibiasakan dari bawah.</strong> Mulai dari hal kecil: sebelum bikin meeting, tanya "Bisa async gak ini?" Kalau bisa, bikin doc/Loom. Kalau gak, baru jadwal meeting. <strong>Ini mindshift dari "meeting default" ke "async default".</strong> 🌱</p>
+
+      <p>Langkah konkrit: (1) <strong>Bikin template async</strong> untuk update harian, code review, design review. (2) <strong>Set expectation balasan</strong> — misal: "Balas dalam 4 jam jam kerja" bukan "balas sekarang." (3) <strong>Hargai waktu focus</strong> — jangan tag @channel untuk hal non-urgent. (4) <strong>Document everything</strong> — keputusan di meeting harus dicatat di doc, bukan cuma di ingatan. 📝</p>
+
+      <p><strong>Tantangan paling besar:</strong> orang lama (tenure) yang terbiasa meeting. Solusi: <strong>tunjukkan bukti.</strong> Hitung jam meeting sebelum/sesudah async. Tunjukkan output naik. Data bicara lebih keras dari opinion. 📊</p>
+
+      <h2>5. Tools Stack untuk Komunikasi Async yang Aman</h2>
+      <p>Tools gak bikin budaya, tapi tools yang salah <strong>bisa bunuh budaya async.</strong> Hindari tools yang: real-time only, gak punya thread, gak bisa search, gak bisa organize. Stack yang recommended: 🛠️</p>
+
+      <ul>
+        <li><strong>Chat async:</strong> Slack (pakai thread wajib), Twist (desain untuk async), Discord (forum channel).</li>
+        <li><strong>Video async:</strong> Loom (gratis cukup), Vidcast, Tella.</li>
+        <li><strong>Dokumen:</strong> Notion (knowledge base), Confluence (enterprise), Google Docs (kolaborasi cepat).</li>
+        <li><strong>Project/Task:</strong> Linear, Asana, Trello — yang penting punya comment thread per task.</li>
+      </ul>
+
+      <p><strong>Hal yang WAJIB di-setup:</strong> Thread culture (balas di thread, bukan channel utama), notification rules (mute default, custom keyword alert), search conventions (prefix: [DECISION], [UPDATE], [QUESTION]). <strong>Tools yang di-setup benar = async yang lancar.</strong> ⚙️</p>
+
+      <h2>6. Overcoming Hambatan Umum Async</h2>
+      <p>Pindah ke async pasti nemu rintangan. Yang paling umum: <strong>"Lama banget balasnya," "Gak ada vibe tim," "Salah paham soal tone."</strong> Solusinya: ⚡</p>
+
+      <p><strong>Hambatan 1: Lambat balas</strong> → Set SLA internal: "Balas pertanyaan async maks 4 jam jam kerja." Bukan real-time, tapi gak sampe besok. <strong>Urgent? Panggil/telepon (escape hatch).</strong></p>
+
+      <p><strong>Hambatan 2: Gak ada vibe/hangout</strong> → Sisipin <strong>async social</strong>: channel #random untuk share foto lunch, #pet-pics, #weekend-plans. Atau virtual coffee async: kirim video 30 detik "ini kopi aku hari ini." Gak perlu sinkron. ☕</p>
+
+      <p><strong>Hambatan 3: Tone salah paham (teks datar terasa kasar)</strong> → Pakai emoji 😊, gunakan "kami/kita" bukan "kamu", tambah konteks emosional: <em>"Pertanyaan jujur, bukan kritik: kenapa pilih approach A?"</em> <strong>Explicit kindness > implicit assumption.</strong> 💛</p>
+
+      <h2>7. Async untuk Berbagai Tipe Tim</h2>
+      <p>Gak semua tim sama. <strong>Tim dev butuh code review async, tim design butuh feedback visual, tim sales butuh update deal cepet.</strong> Sesuaikan: 🎨</p>
+
+      <ul>
+        <li><strong>Dev/Engineering:</strong> PR review async (GitHub/GitLab), RFC doc untuk arsitektur, standup async di Slack/Linear.</li>
+        <li><strong>Design:</strong> Figma comment async, Loom walkthrough design system, async critique session.</li>
+        <li><strong>Product/Marketing:</strong> Spec doc async, campaign brief di Notion, async A/B test review.</li>
+        <li><strong>Sales/Support:</strong> Deal update async di CRM, customer feedback summary mingguan, async handoff notes.</li>
+      </ul>
+
+      <p><strong>Kunci: jangan paksa satu cara untuk semua.</strong> Prinsip async sama (konteks lengkap, balasan tidak instan, dokumentasi), tapi implementasi beda per fungsi. Fleksibilitas = adoptasi lebih cepat. 🔄</p>
+
+      <div class="tip-box">
+        <p><strong>💡 Pro Tip:</strong> Mulai dari <strong>satu tim pilot</strong> (misal tim engineering). Terapin async 2 minggu, ukur: jam meeting turun berapa %, deep work jam naik berapa %, kepuasan tim. Pakai data buat convince tim lain. <strong>Success story internal > best practice eksternal.</strong> 📈 Baca juga soal <a href="https://remoteproduktif.online/budaya-async-first-remote"><strong>budaya async-first yang bikin tim remote makin mandiri</strong></a>. 🏆</p>
+      </div>
+
+      <h2>8. Mulai Kecil: 3 Langkah Minggu Ini</h2>
+      <p>Gak perlu overhaul total. Mulai minggu ini: 👇</p>
+
+      <ol>
+        <li><strong>Audit meeting:</strong> Catet semua meeting lo 1 minggu. Tandai yang bisa async. Target: kurangi 20% jam meeting.</li>
+        <li><strong>Bikin 1 template async:</strong> Status update harian / code review / design feedback. Pakai 1 minggu.</li>
+        <li><strong>Coba 1 video async:</strong> Rekam Loom 3 menit buat jelasin sesuatu yang biasanya lo jelasin di meeting.</li>
+      </ol>
+
+      <p><strong>Evaluasi akhir minggu:</strong> Apa yang work? Apa yang gak? Iterasi. <strong>Async itu muscle — semakin sering dipake, semakin kuat.</strong> Dalam 1-2 bulan, lo bakal ngerasain bedanya: kalender lebih kosong, output lebih banyak, dan lo gak capek lelah gara-gara meeting. 💪</p>
+
+      <div class="cta">
+        <h2>Siap Kurangi Meeting dan Ningkatkan Fokus?</h2>
+        <p><strong>Gak perlu hapus semua meeting besok.</strong> Mulai dengan satu: ganti status update meeting jadi async update di Slack/Notion. Rasain bedanya: kamu dapet 30 menit focus tambahan, tim kamu dapet konteks lebih lengkap, dan semua orang lebih happy. <strong>Komunikasi async bukan soal tools — soal hormat ke waktu orang lain.</strong> Mulai hari ini! 🚀</p>
+        <a href="https://remoteproduktif.online/komunikasi-sinkron-vs-asinkron">Baca panduan lengkap Sync vs Async →</a>
+      </div>
+
+      <div class="related">
+        <h2>Artikel Terkait</h2>
+        <ul>
+          <li><a href="https://remoteproduktif.online/komunikasi-sinkron-vs-asinkron">Komunikasi Sinkron vs Asinkron: Kapan Pakai yang Mana di Kerja Remote?</a></li>
+          <li><a href="https://remoteproduktif.online/meeting-free-day-remote">Meeting-Free Day: Cara Terapin Hari Bebas Rapat biar Fokus Kerja Maksimal</a></li>
+        </ul>
+      </div>
+
+      <p><strong>Komunikasi async adalah skill yang membedakan remote worker yang cuma "survive" vs yang "thrive".</strong> Lo yang bisa ngomong jelas lewat tulisan, rekam video yang berguna, dan bikin dokumen yang beneran dibaca — kamu jadi <strong>aset tim yang irreplaceable.</strong> Karena di era remote, <strong>yang bisa komunikasi async dengan baik = yang bisa kerja mandiri dengan baik.</strong> Mulai dari hari ini: sebelum jadwal meeting, tanya diri kamu "Ini bisa async gak?" Jawabannya mungkin ngejutin kamu. Semangat, kawan remote! 🚀</p>
+    </div>
+  </article>
+
+  <footer>
+    <p>&copy; 2026 RemoteProduktif. Semua hak dilindungi.</p>
+    <p><a href="/privacy-policy">Kebijakan Privasi</a> • <a href="/contact">Kontak</a> • <a href="/copyright">Hak Cipta</a></p>
+  </footer>
+</body>
+</html>

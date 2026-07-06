@@ -145,3 +145,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1593642632559-0c6d3fc62b89 | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
 | 1600880292203-757bb62b4baf | (untracked from HTML extraction — verify with vision_analyze) | 6 Juli 2026 |
 | 1517694712202-14dd9538aa97 | Laptop dengan layar presentasi dan meja kerja modern — cocok buat artikel tips presentasi online | 6 Juli 2026 |
+| 1486312338219-ce68d2c6f44d | Laptop workspace — documentation/knowledge management (reused for async communication) | 6 July 2026 |
