@@ -24,7 +24,7 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1520333789090-1afc82db536a | cara-mengatasi-burnout-kerja-remote, tanda-burnout-remote-worker, pemulihan-burnout-remote | 26 Mei 2026 |
 | 1521295121783-8a321d551ad2 | perbedaan-zona-waktu-remote | 4 Juni 2026 |
 | 1521737711867-e3b97375f902 | cara-kurangi-rapat-gak-jelas, strategi-energi-meeting-remote | 26 Mei 2026 |
-| 1522071820081-009f0129c71c | kolaborasi-tim-remote-efektif, kerja-remote-coffee-shop, sinkronisasi-jadwal-tim-remote | 28 Mei 2026 |
+| 1522071820081-009f0129c71c | kolaborasi-tim-remote-efektif, kerja-remote-coffee-shop, sinkronisasi-jadwal-tim-remote, strategi-kopi-remote-worker | 28 Mei 2026 |
 | 1522202176988-66273c2fd55f | skill-wajib-remote-worker-2026, personal-brand-remote-worker, growth-karir-remote, karir-remote-tanpa-gelar, belajar-skill-baru-remote | 28 Mei 2026 |
 | 1526374965328-7f61d4dc18c5 | digital-detox-remote-worker | 29 Mei 2026 |
 | 1545205597-3d9d02c29597 | resiliensi-mental-remote-worker, mengatasi-kesepian-remote | 29 Mei 2026 |
@@ -144,3 +144,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1516280440614-37939bbacd81 | time-off-remote-worker | 5 Juli 2026 |
 | 1583394838336-acd977736f90 | headphone-wfh-essentials | 5 Juli 2026 |
 | 1497032628192-86f99bcd76bc | music-focus-productivity-remote-worker | 5 Juli 2026 |
+| 1556228578-0d85b1a4d571 | ai-productivity-tools-remote | 6 Juli 2026 |

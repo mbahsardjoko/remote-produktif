@@ -12,7 +12,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1516321497487-e288fb19713f | Tech/programming related | 5 Juni 2026 |
 | 1551288049-bebda4e38f71 | Laptop dengan web analytics dashboard | 5 Juni 2026 |
 | 1460925895917-afdab827c52f | Laptop profesional dengan data dashboard | 5 Juni 2026 |
-| 1556228578-0d85b1a4d571 | Purple skincare — JANGAN PAKE (skincare, not relevant) | 5 Juni 2026 |
+| 1556228578-0d85b1a4d571 | AI tools productivity metaphor — desktop with AI tools | 6 Juli 2026 |
 | 1476480862126-209bfaa8edc8 | Jogging/running shoes walking up stairs | 5 Juni 2026 |
 | 1559526324-593bc073d938 | Laptop minimalis/team collaboration | 5 Juni 2026 |
 | 1486312338219-ce68d2c6f44d | Laptop workspace — documentation/knowledge management | 5 Juni 2026 |
@@ -110,3 +110,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1505740420928-5e560c06d30e | Nature/calm landscape — metafora ketenangan untuk artikel anxiety | 5 Juli 2026 |
 | 1516280440614-37939bbacd81 | Featured image for time-off-remote-worker article | 5 Juli 2026 |
 | 1583394838336-acd977736f90 | Headphone profesional di atas meja — audio setup buat remote worker | 5 Juli 2026 |
+| 1522071820081-009f0129c71c | Coffee shop atmosphere — reused for caffeine strategy article | 6 Juli 2026 |
