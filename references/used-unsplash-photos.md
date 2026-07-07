@@ -154,3 +154,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1484480974693-6ca0a78fb36b | task-batching-remote-worker | 7 Juli 2026 |
 | 1556761175-b413da4baf72 | emotional-intelligence-remote | 7 Juli 2026 |
 | 1606857521015-7f9fcf423740 | delegasi-remote-tim-workflow | 7 Juli 2026 |
+| 1506905925346-21bda4d32df4 | context-switching-cost-remote | 7 Juli 2026 |
