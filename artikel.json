@@ -1,5 +1,13 @@
 [
   {
+    "slug": "task-batching-remote-worker",
+    "title": "Task Batching buat Remote Worker: Cara Kelompokin Tugas Biar Kerja Lebih Cepat dan Gak Gampang Capek",
+    "desc": "Task batching bikin remote worker lebih efisien. Cara kelompokin tugas serupa biar fokus terjaga dan deadline tercapai tanpa lembur.",
+    "tag": "Produktivitas",
+    "img": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=600&q=80",
+    "date": "7 Juli 2026"
+  },
+  {
     "slug": "accountability-partner-remote-worker",
     "title": "Accountability Partner buat Remote Worker: Cara Cari Temen Saling Dorong Biar Produktif",
     "desc": "Accountability partner membantu remote worker tetap produktif. Cara cari dan jaga hubungan akuntabilitas biar target kerja tercapai tanpa stres.",
@@ -30,14 +38,6 @@
     "tag": "Komunikasi",
     "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
     "date": "6 Juli 2026"
-  },
-  {
-    "slug": "async-communication-remote",
-    "title": "Komunikasi Async untuk Remote Worker: Cara Ngomong Tanpa Meeting yang Bikin Produktif",
-    "desc": "Meeting terlalu banyak? Coba komunikasi async — kirim pesan, rekam video, tulis dokumen. Tim tetap sync tapi gak perlu pegang jadwal.",
-    "tag": "Komunikasi",
-    "img": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&q=80",
-    "date": "6 July 2026"
   },
   {
     "slug": "presentasi-online-remote-worker",

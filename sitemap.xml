@@ -6,6 +6,11 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://remoteproduktif.online/task-batching-remote-worker</loc>
+    <lastmod>2026-07-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://remoteproduktif.online/accountability-partner-remote-worker</loc>
     <lastmod>2026-07-07</lastmod>
     <priority>0.8</priority>
@@ -17,11 +22,6 @@
   </url>
   <url>
     <loc>https://remoteproduktif.online/password-security-remote-worker</loc>
-    <lastmod>2026-07-07</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://remoteproduktif.online/async-communication-remote</loc>
     <lastmod>2026-07-07</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1142,11 +1142,6 @@
   </url>
   <url>
     <loc>https://remoteproduktif.online/copyright</loc>
-    <lastmod>2026-07-07</lastmod>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://remoteproduktif.online/index</loc>
     <lastmod>2026-07-07</lastmod>
     <priority>0.3</priority>
   </url>
