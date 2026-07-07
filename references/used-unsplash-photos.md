@@ -152,3 +152,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1518770660439-4636190af475 | password-security-remote-worker | 7 Juli 2026 |
 | 1484480974693-6ca0a78fb36b | cold-email-freelance-remote | 7 Juli 2026 |
 | 1484480974693-6ca0a78fb36b | task-batching-remote-worker | 7 Juli 2026 |
+| 1556761175-b413da4baf72 | emotional-intelligence-remote | 7 Juli 2026 |
