@@ -150,3 +150,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1486312338219-ce68d2c6f44d | async-communication-remote | 6 July 2026 |
 | 1486312338219-ce68d2c6f44d | async-communication-remote | 6 Juli 2026 |
 | 1518770660439-4636190af475 | password-security-remote-worker | 7 Juli 2026 |
+| 1484480974693-6ca0a78fb36b | cold-email-freelance-remote | 7 Juli 2026 |
