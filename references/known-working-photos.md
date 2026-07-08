@@ -148,3 +148,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1486312338219-ce68d2c6f44d | Laptop workspace — documentation/knowledge management (reused for async communication) | 6 July 2026 |
 | 1486312338219-ce68d2c6f44d | Laptop workspace dengan dokumentasi dan knowledge management — metafora komunikasi async yang terstruktur | 6 Juli 2026 |
 | 1438806159316-e14e7cc7d393 | Desk workspace — metafora komunikasi yang terstruktur di kerja remote | 8 Juli 2026 |
+| 1553028826-f4804a6dba3b | Teamwork/hands stacked — metafora kerja sama tim dan saling membantu di remote | 8 Juli 2026 |
