@@ -157,3 +157,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1506905925346-21bda4d32df4 | context-switching-cost-remote | 7 Juli 2026 |
 | 1438806159316-e14e7cc7d393 | komunikasi-non-violent-remote-worker | 8 Juli 2026 |
 | 1553028826-f4804a6dba3b | question-asking-remote | 8 Juli 2026 |
+| 1544025162-d76694265947 | dopamine-detox-remote-worker | 8 Juli 2026 |
