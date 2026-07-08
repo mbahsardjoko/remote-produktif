@@ -152,3 +152,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1544025162-d76694265947 | Calm nature/pathway — cocok buat artikel mental health, digital detox, dopamine reset | 8 Juli 2026 |
 | 1497366811353-6870744d04b2 | (unverified from batch test) | 8 Juli 2026 |
 | 1556761175-4b46a572b786 | (unverified from batch test) | 8 Juli 2026 |
+| 1532619675605-1ede6c2ed2b0 | Digital workspace interface (unverified from known-working list) | 8 Juli 2026 |
