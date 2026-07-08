@@ -159,3 +159,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1553028826-f4804a6dba3b | question-asking-remote | 8 Juli 2026 |
 | 1544025162-d76694265947 | dopamine-detox-remote-worker | 8 Juli 2026 |
 | 1556761175-4b46a572b786 | creative-thinking-remote-worker | 8 Juli 2026 |
+| 1497366811353-6870744d04b2 | negosiasi-budget-home-office-remote | 8 Juli 2026 |
