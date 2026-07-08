@@ -160,3 +160,5 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1544025162-d76694265947 | dopamine-detox-remote-worker | 8 Juli 2026 |
 | 1556761175-4b46a572b786 | creative-thinking-remote-worker | 8 Juli 2026 |
 | 1497366811353-6870744d04b2 | negosiasi-budget-home-office-remote | 8 Juli 2026 |
+| 1497366811353-6870744d04b2 | negosiasi-budget-home-office-remote | 08 July 2026 |
+| 1532619675605-1ede6c2ed2b0 | procrastination-types-remote | 8 Juli 2026 |
