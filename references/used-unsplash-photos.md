@@ -150,8 +150,8 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1486312338219-ce68d2c6f44d | async-communication-remote | 6 July 2026 |
 | 1486312338219-ce68d2c6f44d | async-communication-remote | 6 Juli 2026 |
 | 1518770660439-4636190af475 | password-security-remote-worker | 7 Juli 2026 |
-| 1484480974693-6ca0a78fb36b | cold-email-freelance-remote | 7 Juli 2026 |
-| 1484480974693-6ca0a78fb36b | task-batching-remote-worker | 7 Juli 2026 |
+| 1484480974693-6ca0a78fb36b | cold-email-freelance-remote, pareto-principle-remote-worker | 7 Juli 2026 |
+| 1484480974693-6ca0a78fb36b | task-batching-remote-worker, pareto-principle-remote-worker | 7 Juli 2026 |
 | 1556761175-b413da4baf72 | emotional-intelligence-remote | 7 Juli 2026 |
 | 1606857521015-7f9fcf423740 | delegasi-remote-tim-workflow | 7 Juli 2026 |
 | 1506905925346-21bda4d32df4 | context-switching-cost-remote | 7 Juli 2026 |
