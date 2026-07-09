@@ -166,3 +166,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1512621776951-a57141f2eefd | healthy-eating-remote-worker | 8 Juli 2026 |
 | 1527438433331-4675597e4b2e | manajemen-beban-kerja-remote | 9 Juli 2026 |
 | 1506744038136-46273834b3fb | distraction-audit-remote | 9 Juli 2026 |
+| 1441974231531-c6227db76b6e | energy-management-remote-work | 9 Juli 2026 |
