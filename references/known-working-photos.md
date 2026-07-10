@@ -158,3 +158,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1506744038136-46273834b3fb | Pemandangan alam yang tenang — contrast imagery untuk fokus & distraction management | 9 Juli 2026 |
 | 1441974231531-c6227db76b6e | Energy management chart/workspace metaphor | 9 Juli 2026 |
 | 1473830394358-91588751b241 | Peaceful workspace with minimal aesthetic - mindfulness and reflection theme | 10 Juli 2026 |
+| 1507925921958-8a62f3d1a50d | Cityscape/urban view for productivity system metaphor | 2026-07-10 |

@@ -169,3 +169,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1441974231531-c6227db76b6e | energy-management-remote-work | 9 Juli 2026 |
 | 1470252649378-9c29740c9fa8 | career-pivot-remote-worker | 10 Juli 2026 |
 | 1473830394358-91588751b241 | ikigai-remote-worker | 10 Juli 2026 |
+| 1507925921958-8a62f3d1a50d | productivity-system-remote | 2026-07-10 |
