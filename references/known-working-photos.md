@@ -157,3 +157,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1527438433331-4675597e4b2e | Keyboard laptop dengan sticky notes — simbol produktivitas dan workload management | 9 Juli 2026 |
 | 1506744038136-46273834b3fb | Pemandangan alam yang tenang — contrast imagery untuk fokus & distraction management | 9 Juli 2026 |
 | 1441974231531-c6227db76b6e | Energy management chart/workspace metaphor | 9 Juli 2026 |
+| 1473830394358-91588751b241 | Peaceful workspace with minimal aesthetic - mindfulness and reflection theme | 10 Juli 2026 |
