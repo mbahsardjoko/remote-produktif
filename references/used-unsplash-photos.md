@@ -172,3 +172,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1507925921958-8a62f3d1a50d | productivity-system-remote | 2026-07-10 |
 | 1531482615713-2afd69097998 | learning-in-public-remote | 10 Juli 2026 |
 | 1531403009284-440f080d1e12 | continuous-improvement-remote | 10 Juli 2026 |
+| 1500917293891-ef795e70e1f6 | meeting-prep-remote | 10 Juli 2026 |
