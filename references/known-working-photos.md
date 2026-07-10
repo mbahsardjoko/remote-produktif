@@ -71,7 +71,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1604881991720-f91add269bed | Professional / business context | 3 Juli 2026 |
 | 1557804506-669a67965ba0 | Workplace team / business | 21 Juni 2026 |
 | 1497032628192-86f99bcd76bc | Office workspace minimalis dengan headphone — fokus kerja | 5 Juli 2026 |
-| 1473163928189-364b2c4e1135 | Laptop dengan kalender dunia dan jadwal meeting — metafora email/calendar management | 21 Juni 2026 |
+| 1473163928189-364b2c4e1135 | Laptop dengan kalender dunia dan jadwal meeting — metafora informasi overload dan banjir digital | 10 Juli 2026 |
 | 1508672019048-805c876b67e2 | Orang bekerja remote dengan tenang di alam terbuka — metafora self-compassion dan ketenangan | 21 Juni 2026 |
 | 1454165205744-3b78555e5572 | (untracked from HTML extraction — verify with vision_analyze) | 22 Juni 2026 |
 | 1488998427799-e3362cec87c3 | Notion workspace dengan database untuk second brain — metafora skill stacking dan pengorganisasian skill | 22 Juni 2026 |
