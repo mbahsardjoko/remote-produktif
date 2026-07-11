@@ -174,3 +174,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1531403009284-440f080d1e12 | continuous-improvement-remote | 10 Juli 2026 |
 | 1500917293891-ef795e70e1f6 | meeting-prep-remote | 10 Juli 2026 |
 | 1497366754035-f200968a6e72 | async-decision-making-remote | 10 Juli 2026 |
+| 1473830394358-91588751b241 | gamifikasi-produktivitas-remote | 11 Juli 2026 |
