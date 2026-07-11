@@ -5,6 +5,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+| 1554224155-6726b3ff858f | Tax/documents — cocok buat artikel finansial & tarif | 11 July 2026 |
 | 1504639725590-34d0984388bd | Laptop dengan glasses + code + video editing | 5 Juni 2026 |
 | 1563013544-824ae1b704d3 | Tech/notebook related | 5 Juni 2026 |
 | 1555066931-4365d14bab8c | MacBook dengan layar penuh kode programming | 5 Juni 2026 |

@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+| 1554224155-6726b3ff858f | perencanaan-keuangan-remote-worker | 11 July 2026 |
 | 1434030216411-0b793f4b4173 | deep-work-remote, ritual-deep-work-remote, no-meeting-day-deep-work | 28 Mei 2026 |
 | 1450101499163-c8848c66ca85 | pajak-legalitas-remote-indonesia | 4 Juni 2026 |
 | 1454165804606-c3d57bc86b40 | time-boxing-vs-time-blocking | 29 Mei 2026 |
