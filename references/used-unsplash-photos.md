@@ -177,3 +177,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1473830394358-91588751b241 | gamifikasi-produktivitas-remote | 11 Juli 2026 |
 | 1497032628192-86f99bcd76bc | single-tasking-remote-worker | 11 Juli 2026 |
 | 1581291518633-83b4ebd1d83e | digital-garden-remote-worker | 11 Juli 2026 |
+| 1501785888041-af3ef285b470 | walking-pad-remote-worker | 11 Juli 2026 |
