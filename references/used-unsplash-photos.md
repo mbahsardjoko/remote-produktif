@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+| 1451187580459-43490279c0fa | weekly-review-remote-worker | 12 July 2026 |
 | 1554224155-6726b3ff858f | perencanaan-keuangan-remote-worker | 11 July 2026 |
 | 1434030216411-0b793f4b4173 | deep-work-remote, ritual-deep-work-remote, no-meeting-day-deep-work | 28 Mei 2026 |
 | 1450101499163-c8848c66ca85 | pajak-legalitas-remote-indonesia | 4 Juni 2026 |
@@ -181,3 +182,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1501785888041-af3ef285b470 | walking-pad-remote-worker | 11 Juli 2026 |
 | 1476480862126-209bfaa8edc8 | "Self-Care Routine untuk Remote Worker: Cara Jaga Diri Sendiri Biar Gak Burnout" | 12 Juli 2026 |
 | 1556761175-b413da4baf72 | negosiasi-kontrak-remote-worker | 12 Juli 2026 |
+

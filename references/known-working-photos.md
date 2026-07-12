@@ -5,6 +5,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+| 1451187580459-43490279c0fa | World clock/timezone map — cocok buat artikel manajemen waktu & review mingguan | 12 Juli 2026 |
 | 1554224155-6726b3ff858f | Tax/documents — cocok buat artikel finansial & tarif | 11 July 2026 |
 | 1504639725590-34d0984388bd | Laptop dengan glasses + code + video editing | 5 Juni 2026 |
 | 1563013544-824ae1b704d3 | Tech/notebook related | 5 Juni 2026 |
@@ -163,3 +164,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1531482615713-2afd69097998 | Laptop dan meja belajar modern — metafora learning in public | 10 Juli 2026 |
 | 1531403009284-440f080d1e12 | Workspace improvement growth concept | 10 Juli 2026 |
 | 1500917293891-ef795e70e1f6 | Notebook dan laptop dengan agenda meeting — ilustrasi persiapan rapat yang terstruktur | 10 Juli 2026 |
+
