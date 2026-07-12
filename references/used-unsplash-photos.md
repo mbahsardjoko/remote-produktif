@@ -180,3 +180,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1581291518633-83b4ebd1d83e | digital-garden-remote-worker | 11 Juli 2026 |
 | 1501785888041-af3ef285b470 | walking-pad-remote-worker | 11 Juli 2026 |
 | 1476480862126-209bfaa8edc8 | "Self-Care Routine untuk Remote Worker: Cara Jaga Diri Sendiri Biar Gak Burnout" | 12 Juli 2026 |
+| 1556761175-b413da4baf72 | negosiasi-kontrak-remote-worker | 12 Juli 2026 |
