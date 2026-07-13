@@ -189,4 +189,4 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1484480974693-6ca0a78fb36b | skill-audit-remote-worker | 13 Juli 2026 |
 | 1559136555-9303baea8ebd | membangun-support-system-remote-worker (reuse — konteks kolaborasi tim/komunitas) | 13 Juli 2026 |
 || 1552581234-26160f608093 | self-coaching-remote-worker (reuse — konteks pengembangan karir/refleksi, sebelumnya membaca-buku) | 13 Juli 2026 |
-
+|| 1500917293891-ef795e70e1f6 | prioritas-harian-remote | 13 Juli 2026 |
