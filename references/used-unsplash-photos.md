@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+| 1545239351-ef35f43d514b | weekend-ritual-remote-worker | 13 Juli 2026 |
 | 1451187580459-43490279c0fa | weekly-review-remote-worker | 12 July 2026 |
 | 1554224155-6726b3ff858f | perencanaan-keuangan-remote-worker | 11 July 2026 |
 | 1434030216411-0b793f4b4173 | deep-work-remote, ritual-deep-work-remote, no-meeting-day-deep-work | 28 Mei 2026 |
