@@ -186,3 +186,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1483058712412-4245e9b90334 | anti-goals-remote-worker | 12 Juli 2026 |
 
 || 1516321318423-f06f85e504b3 | peer-feedback-remote-worker | 13 Juli 2026 |
+|| 1484480974693-6ca0a78fb36b | skill-audit-remote-worker | 13 Juli 2026 |
