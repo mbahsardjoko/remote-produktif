@@ -165,3 +165,5 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1531403009284-440f080d1e12 | Workspace improvement growth concept | 10 Juli 2026 |
 | 1500917293891-ef795e70e1f6 | Notebook dan laptop dengan agenda meeting — ilustrasi persiapan rapat yang terstruktur | 10 Juli 2026 |
 
+
+|| 1516321318423-f06f85e504b3 | Dua orang berkolaborasi di depan laptop — metafora kolaborasi tim & peer feedback | 13 Juli 2026 |
