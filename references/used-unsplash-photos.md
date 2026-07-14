@@ -195,4 +195,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1470252649378-9c29740c9fa8 | chronotype-remote | 13 July 2026 |
 || 1545239351-ef35f43d514b | quiet-quitting-remote-worker | 14 Juli 2026 ||
 || 1556761175-b413da4baf72 | meeting-etiquette-remote (reuse — konteks meeting etiquette/norma rapat, sebelumnya managing-up & emotional-intelligence) | 14 Juli 2026 ||
-
+|| 1544025162-d76694265947 | gratitude-practice-remote-worker (reuse — konteks mental health/mindfulness, sebelumnya dopamine-detox) | 14 Juli 2026 |
