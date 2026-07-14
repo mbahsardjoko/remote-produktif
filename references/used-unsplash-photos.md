@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1500917293891-ef795e70e1f6 | micro-habits-remote-worker | 14 Juli 2026 |
 | 1501785888041-af3ef285b470 | adaptif-menghadapi-perubahan-remote | 14 Juli 2026 |
 | 1545239351-ef35f43d514b | weekend-ritual-remote-worker | 13 Juli 2026 |
 | 1451187580459-43490279c0fa | weekly-review-remote-worker | 12 July 2026 |
