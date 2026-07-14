@@ -5,6 +5,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+| 1503676260728-1c00da094a0b | digital-decluttering-remote-worker | desktop-bersih-declutter | 14 Jul 2026 |
 | 1451187580459-43490279c0fa | World clock/timezone map — cocok buat artikel manajemen waktu & review mingguan | 12 Juli 2026 |
 | 1554224155-6726b3ff858f | Tax/documents — cocok buat artikel finansial & tarif | 11 July 2026 |
 | 1504639725590-34d0984388bd | Laptop dengan glasses + code + video editing | 5 Juni 2026 |
@@ -167,3 +168,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 
 || 1516321318423-f06f85e504b3 | Dua orang berkolaborasi di depan laptop — metafora kolaborasi tim & peer feedback | 13 Juli 2026 |
+
