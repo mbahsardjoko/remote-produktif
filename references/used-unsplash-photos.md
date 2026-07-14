@@ -192,3 +192,4 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1500917293891-ef795e70e1f6 | prioritas-harian-remote | 13 Juli 2026 |
 | 1470252649378-9c29740c9fa8 | chronotype-remote | 13 July 2026 |
 | 1470252649378-9c29740c9fa8 | chronotype-remote | 13 July 2026 |
+|| 1545239351-ef35f43d514b | quiet-quitting-remote-worker | 14 Juli 2026 ||
