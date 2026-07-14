@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+| 1501785888041-af3ef285b470 | adaptif-menghadapi-perubahan-remote | 14 Juli 2026 |
 | 1545239351-ef35f43d514b | weekend-ritual-remote-worker | 13 Juli 2026 |
 | 1451187580459-43490279c0fa | weekly-review-remote-worker | 12 July 2026 |
 | 1554224155-6726b3ff858f | perencanaan-keuangan-remote-worker | 11 July 2026 |
@@ -194,3 +195,4 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1470252649378-9c29740c9fa8 | chronotype-remote | 13 July 2026 |
 || 1545239351-ef35f43d514b | quiet-quitting-remote-worker | 14 Juli 2026 ||
 || 1556761175-b413da4baf72 | meeting-etiquette-remote (reuse — konteks meeting etiquette/norma rapat, sebelumnya managing-up & emotional-intelligence) | 14 Juli 2026 ||
+
