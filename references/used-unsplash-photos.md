@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1486312338219-ce68d2c6f44d | kesehatan-mata-remote-worker (reuse — konteks kesehatan mata/ergonomi visual, sebelumnya scope-creep & sunk-cost-fallacy & merayakan-progres-kecil) | 15 Juli 2026 |
 || 1486312338219-ce68d2c6f44d | scope-creep-freelance-remote-worker (reuse — konteks dokumentasi/kontrak, sebelumnya digital-decluttering & sunk-cost-fallacy) | 15 Juli 2026 |
 || 1486312338219-ce68d2c6f44d | sunk-cost-fallacy-remote-worker (reuse — konteks keputusan/kognitif, sebelumnya merayakan-progres-kecil & parkinson-law) | 15 Juli 2026 |
 || 1500917293891-ef795e70e1f6 | micro-habits-remote-worker | 14 Juli 2026 |
