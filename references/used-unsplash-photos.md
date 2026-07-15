@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1611926653458-09294b3142bf | building-in-public-remote-worker | 15 Juli 2026 |
 || 1486312338219-ce68d2c6f44d | kesehatan-mata-remote-worker (reuse — konteks kesehatan mata/ergonomi visual, sebelumnya scope-creep & sunk-cost-fallacy & merayakan-progres-kecil) | 15 Juli 2026 |
 || 1486312338219-ce68d2c6f44d | scope-creep-freelance-remote-worker (reuse — konteks dokumentasi/kontrak, sebelumnya digital-decluttering & sunk-cost-fallacy) | 15 Juli 2026 |
 || 1486312338219-ce68d2c6f44d | sunk-cost-fallacy-remote-worker (reuse — konteks keputusan/kognitif, sebelumnya merayakan-progres-kecil & parkinson-law) | 15 Juli 2026 |
@@ -208,3 +209,4 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1556761175-b413da4baf72 | self-advocacy-remote-worker (reuse — konteks self-advocacy/komunikasi asertif, sebelumnya meeting-etiquette & managing-up) | 15 Juli 2026 |
 ||| 1556761175-b413da4baf72 | client-retention-freelance-remote (reuse — konteks hubungan klien/profesional, sebelumnya self-advocacy & meeting-etiquette) | 15 Juli 2026 |
+
