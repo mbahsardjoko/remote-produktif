@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1486312338219-ce68d2c6f44d | sunk-cost-fallacy-remote-worker (reuse — konteks keputusan/kognitif, sebelumnya merayakan-progres-kecil & parkinson-law) | 15 Juli 2026 |
 || 1500917293891-ef795e70e1f6 | micro-habits-remote-worker | 14 Juli 2026 |
 || 1473830394358-91588751b241 | desain-minggu-ideal-remote-worker | 14 Juli 2026 |
 | 1501785888041-af3ef285b470 | adaptif-menghadapi-perubahan-remote | 14 Juli 2026 |
@@ -201,3 +202,4 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1460925895917-afdab827c52f | freelance-marketplace-strategy-remote-worker | 14 Juli 2026 |
 
+|| 1486312338219-ce68d2c6f44d | merayakan-progres-kecil-remote-worker | 15 Juli 2026 ||
