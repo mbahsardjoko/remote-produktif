@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1522771739844-6a9f6d5f14af | workation-packing-checklist-remote-worker | 15 Juli 2026 |
 || 1508672019048-805c876b67e2 | parenting-saat-remote-work-balance-keluarga | 15 Juli 2026 |
 || 1611926653458-09294b3142bf | building-in-public-remote-worker | 15 Juli 2026 |
 || 1486312338219-ce68d2c6f44d | kesehatan-mata-remote-worker (reuse — konteks kesehatan mata/ergonomi visual, sebelumnya scope-creep & sunk-cost-fallacy & merayakan-progres-kecil) | 15 Juli 2026 |
@@ -210,4 +211,5 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1556761175-b413da4baf72 | self-advocacy-remote-worker (reuse — konteks self-advocacy/komunikasi asertif, sebelumnya meeting-etiquette & managing-up) | 15 Juli 2026 |
 ||| 1556761175-b413da4baf72 | client-retention-freelance-remote (reuse — konteks hubungan klien/profesional, sebelumnya self-advocacy & meeting-etiquette) | 15 Juli 2026 |
+
 
