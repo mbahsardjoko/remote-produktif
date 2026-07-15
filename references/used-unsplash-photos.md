@@ -203,3 +203,5 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1460925895917-afdab827c52f | freelance-marketplace-strategy-remote-worker | 14 Juli 2026 |
 
 || 1486312338219-ce68d2c6f44d | merayakan-progres-kecil-remote-worker | 15 Juli 2026 ||
+
+|| 1556761175-b413da4baf72 | self-advocacy-remote-worker (reuse — konteks self-advocacy/komunikasi asertif, sebelumnya meeting-etiquette & managing-up) | 15 Juli 2026 |
