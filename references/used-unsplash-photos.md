@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1504711434969-e33886168d8c | financial-independence-remote-worker | 16 Juli 2026 |
 || 1522771739844-6a9f6d5f14af | workation-packing-checklist-remote-worker | 15 Juli 2026 |
 || 1508672019048-805c876b67e2 | parenting-saat-remote-work-balance-keluarga | 15 Juli 2026 |
 || 1611926653458-09294b3142bf | building-in-public-remote-worker | 15 Juli 2026 |
