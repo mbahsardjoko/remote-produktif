@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1483058712412-4245e9b90334 | self-reflection-remote-worker (reuse — konteks refleksi/evaluasi diri, sebelumnya imposter-syndrome) | 16 Juli 2026 |
 || 1496181133206-80ce9b88a853 | 4-day-work-week-remote (reuse — konteks workspace minimalis, sebelumnya time-blocking) | 16 Juli 2026 |
 || 1522771739844-6a9f6d5f14af | sick-day-remote-worker (reuse — konteks istirahat/sakit, sebelumnya workation-packing-checklist & kualitas-tidur) | 16 Juli 2026 |
 || 1551836022-d5d88e9218df | microbreaks-remote-worker (reuse — konteks peregangan/microbreaks, sebelumnya procrastination/recharge) | 16 Juli 2026 |
@@ -216,5 +217,6 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1556761175-b413da4baf72 | self-advocacy-remote-worker (reuse — konteks self-advocacy/komunikasi asertif, sebelumnya meeting-etiquette & managing-up) | 15 Juli 2026 |
 ||| 1556761175-b413da4baf72 | client-retention-freelance-remote (reuse — konteks hubungan klien/profesional, sebelumnya self-advocacy & meeting-etiquette) | 15 Juli 2026 |
 ||| 1516321318423-f06f85e504b3 | menghadapi-bos-mikromanajer-remote (reuse — konteks hubungan atasan-karyawan, sebelumnya virtual-whiteboarding-tools & peer-feedback) | 16 Juli 2026 |
+
 
 
