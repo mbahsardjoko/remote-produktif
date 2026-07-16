@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1496181133206-80ce9b88a853 | 4-day-work-week-remote (reuse — konteks workspace minimalis, sebelumnya time-blocking) | 16 Juli 2026 |
 || 1522771739844-6a9f6d5f14af | sick-day-remote-worker (reuse — konteks istirahat/sakit, sebelumnya workation-packing-checklist & kualitas-tidur) | 16 Juli 2026 |
 || 1551836022-d5d88e9218df | microbreaks-remote-worker (reuse — konteks peregangan/microbreaks, sebelumnya procrastination/recharge) | 16 Juli 2026 |
 || 1504711434969-e33886168d8c | financial-independence-remote-worker | 16 Juli 2026 |
