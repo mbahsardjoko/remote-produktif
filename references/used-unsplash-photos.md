@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1556761175-b413da4baf72 | conflict-resolution-remote-worker | 17 Juli 2026 |
 || 1553028826-f4804a6dba3b | self-discipline-remote-worker (reuse — konteks disiplin diri/fokus, sebelumnya 90-hari-pertama-remote-job) | 17 Juli 2026 |
 
 || 1545239351-ef35f43d514b | self-sabotage-remote-worker (reuse — konteks introspeksi/self-awareness, sebelumnya goal-setting & weekend-ritual & quiet-quitting & self-reflection & time-blocking & morning-routine) | 17 Juli 2026 |
@@ -227,6 +228,7 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1556761175-b413da4baf72 | self-advocacy-remote-worker (reuse — konteks self-advocacy/komunikasi asertif, sebelumnya meeting-etiquette & managing-up) | 15 Juli 2026 |
 ||| 1556761175-b413da4baf72 | client-retention-freelance-remote (reuse — konteks hubungan klien/profesional, sebelumnya self-advocacy & meeting-etiquette) | 15 Juli 2026 |
 ||| 1516321318423-f06f85e504b3 | menghadapi-bos-mikromanajer-remote (reuse — konteks hubungan atasan-karyawan, sebelumnya virtual-whiteboarding-tools & peer-feedback) | 16 Juli 2026 |
+
 
 
 
