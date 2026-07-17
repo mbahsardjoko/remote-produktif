@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1545239351-ef35f43d514b | self-sabotage-remote-worker (reuse — konteks introspeksi/self-awareness, sebelumnya goal-setting & weekend-ritual & quiet-quitting & self-reflection & time-blocking & morning-routine) | 17 Juli 2026 |
 || 1553028826-f4804a6dba3b | 90-hari-pertama-remote-job — pertama kali di remote baru | 17 Juli 2026 |
 || 1545239351-ef35f43d514b | morning-routine-produktif-remote (reuse — konteks morning routine/energi pagi, sebelumnya goal-setting-remote-worker & weekend-ritual-remote-worker & quiet-quitting-remote-worker & self-reflection-remote-worker & time-blocking-techniques) | 17 Juli 2026 |
 || 1522771739844-6a9f6d5f14af | jungle-gym-computer-game-productivity | 17 Juli 2026 |
