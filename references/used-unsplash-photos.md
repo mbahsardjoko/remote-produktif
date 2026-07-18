@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1556761175-b413da4baf72 | office-politics-remote-worker (reuse — konteks office politics/dinamika organisasi, sebelumnya conflict-resolution & self-discipline & self-advocacy & meeting-etiquette & managing-up & negosiasi-kontrak & emotional-intelligence & remote-team-culture-rituals) | 18 Juli 2026 |
 || 1483058712412-4245e9b90334 | problem-solving-remote-worker (reuse — konteks problem solving/metode analisis, sebelumnya self-reflection & imposter-syndrome) | 18 Juli 2026 |
 || 1516321318423-f06f85e504b3 | virtual-team-bonding-remote (reuse — konteks bonding/team connection, sebelumnya virtual-whiteboarding-tools & peer-feedback & menghadapi-bos-mikromanajer) | 18 Juli 2026 |
 ||| 1496181133206-80ce9b88a853 | meeting-agenda-remote (reuse — konteks meeting planning/agenda, sebelumnya time-blocking & 4-day-work-week) | 18 Juli 2026 |
