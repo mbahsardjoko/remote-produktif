@@ -32,7 +32,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1507525428034-b723cf961d3e | Tropical beach sunset — cocok buat artikel FOMO & mental health | 2026-06-07 |
 | 1484480974693-6ca0a78fb36b | Hand holding pen over checklist — decision burden metaphor | 6 Juli 2026 |
 | 1516321318423-f06f85e504b3 | Dua orang berkolaborasi di depan laptop — metafora kolaborasi tim | 7 Juni 2026 |
-| 1555421689-491a97ff2040 | Tangan mengetik di keyboard Apple — metafora komunikasi digital remote | 7 Juni 2026 |
+| 1555421689-491a97ff2040 | Tangan mengetik di keyboard Apple — metafora komunikasi digital remote | 7 Juni 2026 | Reuse: komunikasi-asertif-remote (18 Juli 2026) |
 | 1470252649378-9c29740c9fa8 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1488190211105-8b0e65b80b4e | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1501339847302-ac426a4a7cbb | Suasana coffee shop santai dengan laptop — metafora ketenangan sebelum memulai minggu kerja | 29 Juni 2026 | 7 Juni 2026 |

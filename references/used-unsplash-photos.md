@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1555421689-491a97ff2040 | komunikasi-asertif-remote | 18 Juli 2026 |
 || 1473830394358-91588751b241 | uncertainty-management-remote (reuse — konteks ketenangan/kesehatan mental, sebelumnya desain-minggu-ideal-remote-worker) | 18 Juli 2026 |
 || 1556761175-b413da4baf72 | office-politics-remote-worker (reuse — konteks office politics/dinamika organisasi, sebelumnya conflict-resolution & self-discipline & self-advocacy & meeting-etiquette & managing-up & negosiasi-kontrak & emotional-intelligence & remote-team-culture-rituals) | 18 Juli 2026 |
 || 1483058712412-4245e9b90334 | problem-solving-remote-worker (reuse — konteks problem solving/metode analisis, sebelumnya self-reflection & imposter-syndrome) | 18 Juli 2026 |
