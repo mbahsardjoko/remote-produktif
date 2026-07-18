@@ -74,7 +74,7 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1593642632559-0c6d3fc62b89 | wfh-setup-budget-friendly, investasi-peralatan-wfh | 29 Mei 2026 |
 | 1560472354-b33ff0c44a43 | minta-kenaikan-gaji-remote-worker | 4 Juni 2026 |
 | 1600880292203-757bb62b4baf | mengelola-tim-remote-manager | 29 Mei 2026 |
-| 1529156069898-49953e39b3ac | team-building-remote | 4 Juni 2026 |
+|| 1529156069898-49953e39b3ac | team-building-remote | 18 Juli 2026 ||
 | 1503676260728-1c00da094a0b | platform-belajar-skill-baru-remote-worker | 4 Juni 2026 |
 | 1451187580459-43490279c0fa | tips-manajemen-zona-waktu-tim-remote | 4 Juni 2026 |
 | 1517245386807-bb43f82c33c4 | slack-vs-teams-vs-discord | 4 Juni 2026 |
