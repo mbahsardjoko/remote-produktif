@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1553028826-f4804a6dba3b | feedback-konstruktif-remote | 18 Juli 2026 |
 || 1545239351-ef35f43d514b | adhd-remote-worker | 17 Juli 2026 |
 || 1556761175-4b46a572b786 | remote-team-culture-rituals | 17 Juli 2026 |
 || 1545239351-ef35f43d514b | energy-calendar-remote | 17 Juli 2026 |
