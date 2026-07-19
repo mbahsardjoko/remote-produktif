@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1455390582262-044cdead277a | written-communication-remote (reuse — konteks komunikasi tulis/efektif, sebelumnya komunikasi-tertulis-efektif) | 19 Juli 2026 |
 ||| 1483058712412-4245e9b90334 | perfectionism-remote-worker (reuse — konteks perfeksionisme/introspeksi, sebelumnya self-reflection & imposter-syndrome & anti-goals & problem-solving) | 19 Juli 2026 |
 
 || 1519389950473-47ba0277781c | skill-development-remote (reuse — konteks skill development/pengembangan diri, sebelumnya tools-wfh-wajib, meeting-15-menit-efisien, atur-notifikasi-produktif-remote) | 19 Juli 2026 |
@@ -248,3 +249,4 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1486312338219-ce68d2c6f44d | focus-anchor-remote (reuse — konteks fokus anchor/trigger produktivitas, sebelumnya async communication & scope creep & kesehatan-mata & sunk-cost-fallacy & parkinson-law & merayakan-progres-kecil & notion-vs-confluence) | 19 Juli 2026 |
 
 || 1506744038136-46273834b3fb | shutdown-ritual-remote (reuse — konteks shutdown/shifting setelah jam kerja, sebelumnya neurodivergent/fokus & distraction-audit) | 19 Juli 2026 ||
+
