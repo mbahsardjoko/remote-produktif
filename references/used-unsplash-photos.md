@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+||| 1483058712412-4245e9b90334 | perfectionism-remote-worker (reuse — konteks perfeksionisme/introspeksi, sebelumnya self-reflection & imposter-syndrome & anti-goals & problem-solving) | 19 Juli 2026 |
+
 || 1519389950473-47ba0277781c | skill-development-remote (reuse — konteks skill development/pengembangan diri, sebelumnya tools-wfh-wajib, meeting-15-menit-efisien, atur-notifikasi-produktif-remote) | 19 Juli 2026 |
 || 1470071459604-3b5ec3a7fe05 | negative-self-talk-remote-worker (reuse — konteks introspeksi/refleksi, sebelumnya burnout recovery) | 19 Juli 2026 |
 || 1493932484895-752d1471eab5 | workaholic-remote-worker (reuse — konteks stress/overwork/workaholic, sebelumnya overthinking-remote-worker) | 19 Juli 2026 |
