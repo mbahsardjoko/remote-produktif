@@ -140,8 +140,8 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1486312338219-ce68d2c6f44d | parkinson-law-remote-worker | 27 Juni 2026 |
 | 1508962914676-134849a727f0 | planning-fallacy-remote-worker | 28 Juni 2026 |
 | 1499951360447-b19be8fe80f5 | olahraga-peregangan-remote-worker | 29 June 2026 |
-| 1501339847302-ac426a4a7cbb | sunday-scaries-remote-worker | 29 Juni 2026 |
-| 1541781774459-bb2af2f05b55 | sleep-hygiene-remote-worker | 29 Juni 2026 |
+| 1501339847302-ac426a4a7cbb | sunday-scaries-remote-worker | 19 Juli 2026 |
+| 1541781774459-bb2af2f05b55 | sleep-hygiene-remote-worker | 19 Juli 2026 |
 | 1556761175-5973dc0f32e7 | social-battery-remote-worker | 30 Juni 2026 |
 | 1517292987719-0369a1ecf164 | tool-fatigue-remote-worker | 30 Juni 2026 |
 | 1600880292089-90a7e086ee0c | proximity-bias-remote-worker | 30 Juni 2026 |
@@ -241,4 +241,4 @@ Jangan pake foto yang sama untuk artikel baru.
 ||| 1516321318423-f06f85e504b3 | menghadapi-bos-mikromanajer-remote (reuse — konteks hubungan atasan-karyawan, sebelumnya virtual-whiteboarding-tools & peer-feedback) | 16 Juli 2026 |
 || 1486312338219-ce68d2c6f44d | focus-anchor-remote (reuse — konteks fokus anchor/trigger produktivitas, sebelumnya async communication & scope creep & kesehatan-mata & sunk-cost-fallacy & parkinson-law & merayakan-progres-kecil & notion-vs-confluence) | 19 Juli 2026 |
 
-|| 1506744038136-46273834b3fb | shutdown-ritual-remote (reuse — konteks shutdown/shifting setelah jam kerja, sebelumnya neurodivergent/fokus & distraction-audit) | 29 Juni 2026 ||
+|| 1506744038136-46273834b3fb | shutdown-ritual-remote (reuse — konteks shutdown/shifting setelah jam kerja, sebelumnya neurodivergent/fokus & distraction-audit) | 19 Juli 2026 ||
