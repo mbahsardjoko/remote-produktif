@@ -239,19 +239,4 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1556761175-b413da4baf72 | self-advocacy-remote-worker (reuse — konteks self-advocacy/komunikasi asertif, sebelumnya meeting-etiquette & managing-up) | 15 Juli 2026 |
 ||| 1556761175-b413da4baf72 | client-retention-freelance-remote (reuse — konteks hubungan klien/profesional, sebelumnya self-advocacy & meeting-etiquette) | 15 Juli 2026 |
 ||| 1516321318423-f06f85e504b3 | menghadapi-bos-mikromanajer-remote (reuse — konteks hubungan atasan-karyawan, sebelumnya virtual-whiteboarding-tools & peer-feedback) | 16 Juli 2026 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|| 1486312338219-ce68d2c6f44d | focus-anchor-remote (reuse — konteks fokus anchor/trigger produktivitas, sebelumnya async communication & scope creep & kesehatan-mata & sunk-cost-fallacy & parkinson-law & merayakan-progres-kecil & notion-vs-confluence) | 19 Juli 2026 |
