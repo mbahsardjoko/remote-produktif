@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1493932484895-752d1471eab5 | workaholic-remote-worker (reuse — konteks stress/overwork/workaholic, sebelumnya overthinking-remote-worker) | 19 Juli 2026 |
 ||| 1505740420928-5e560c06d30e | mindfulness-remote-worker (reuse — konteks mindfulness/kesehatan mental, sebelumnya kecemasan-remote-worker) | 19 Juli 2026 |
 || 1555421689-491a97ff2040 | komunikasi-asertif-remote | 18 Juli 2026 |
 || 1473830394358-91588751b241 | uncertainty-management-remote (reuse — konteks ketenangan/kesehatan mental, sebelumnya desain-minggu-ideal-remote-worker) | 18 Juli 2026 |
