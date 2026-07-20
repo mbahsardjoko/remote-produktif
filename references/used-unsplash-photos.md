@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+||| 1496181133206-80ce9b88a853 | rejection-handling-remote-freelance (reuse — konteks rejection/freelance, sebelumnya time-blocking & 4-day-work-week & meeting-agenda & self-review) | 20 Juli 2026 |
 || 1543269865-cbf427effbad | work-from-home-blues | 20 Juli 2026 |
 || 1451187580459-43490279c0fa | calendar-audit-remote | 19 Juli 2026 |
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
@@ -255,4 +256,5 @@ Jangan pake foto yang sama untuk artikel baru.
 
 
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
+
 
