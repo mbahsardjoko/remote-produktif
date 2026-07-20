@@ -5,6 +5,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+|| 1573164574572-cb89e39749b4 | active-listening-remote-worker — Workplace communication / professional meeting | 20 Juli 2026 |
 | 1504711434969-e33886168d8c | financial-independence-remote-worker | Menulis dokumen di laptop | 16 Jul 2026 |
 | 1503676260728-1c00da094a0b | digital-decluttering-remote-worker | desktop-bersih-declutter | 14 Jul 2026 |
 | 1451187580459-43490279c0fa | World clock/timezone map — cocok buat artikel manajemen waktu & review mingguan | 12 Juli 2026 |
