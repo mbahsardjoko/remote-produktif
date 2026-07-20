@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1451187580459-43490279c0fa | calendar-audit-remote | 19 Juli 2026 |
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1455390582262-044cdead277a | written-communication-remote (reuse — konteks komunikasi tulis/efektif, sebelumnya komunikasi-tertulis-efektif) | 19 Juli 2026 |
 ||| 1483058712412-4245e9b90334 | perfectionism-remote-worker (reuse — konteks perfeksionisme/introspeksi, sebelumnya self-reflection & imposter-syndrome & anti-goals & problem-solving) | 19 Juli 2026 |
@@ -251,4 +252,6 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1506744038136-46273834b3fb | shutdown-ritual-remote (reuse — konteks shutdown/shifting setelah jam kerja, sebelumnya neurodivergent/fokus & distraction-audit) | 19 Juli 2026 ||
 
+
+|| 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 
