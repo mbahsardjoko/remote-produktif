@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1543269865-cbf427effbad | work-from-home-blues | 20 Juli 2026 |
 || 1451187580459-43490279c0fa | calendar-audit-remote | 19 Juli 2026 |
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1455390582262-044cdead277a | written-communication-remote (reuse — konteks komunikasi tulis/efektif, sebelumnya komunikasi-tertulis-efektif) | 19 Juli 2026 |
