@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1552581234-26160f608093 | junior-remote-worker (reuse — konteks karir & pengembangan junior, sebelumnya learning/pengembangan) | 20 Juli 2026 |
 || 1488190211105-8b0e65b80b4e | weekly-planning-remote-worker | 20 Juli 2026 |
 ||| 1496181133206-80ce9b88a853 | rejection-handling-remote-freelance (reuse — konteks rejection/freelance, sebelumnya time-blocking & 4-day-work-week & meeting-agenda & self-review) | 20 Juli 2026 |
 || 1543269865-cbf427effbad | work-from-home-blues | 20 Juli 2026 |
