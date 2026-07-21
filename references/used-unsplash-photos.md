@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1524178232363-1fb2b075b655 | boredom-remote-worker | 21 Juli 2026 |
 || 1520333789090-1afc82db536a | procrastination-remote-worker (reuse — konteks prokrastinasi/menunda, sebelumnya toxic productivity & burnout & overwork) | 21 Juli 2026 |
 
 || 1512621776951-a57141f2eefd | lunch-break-remote-worker (reuse — konteks lunch break/istirahat, sebelumnya healthy-eating) | 21 Juli 2026 |
