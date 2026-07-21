@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+
+|| 1512621776951-a57141f2eefd | lunch-break-remote-worker (reuse — konteks lunch break/istirahat, sebelumnya healthy-eating) | 21 Juli 2026 |
 || 1573164574572-cb89e39749b4 | active-listening-remote-worker | 20 Juli 2026 |
 || 1503676260728-1c00da094a0b | task-batching-remote (reuse — konteks task batching/produktivitas, sebelumnya digital-decluttering-remote-worker) | 20 Juli 2026 |
 || 1516321318423-f06f85e504b3 | work-friendships-remote-worker (reuse — konteks koneksi personal/work friendships, sebelumnya virtual-team-bonding & peer-feedback & menghadapi-bos-mikromanajer & virtual-whiteboarding-tools) | 20 Juli 2026 |
