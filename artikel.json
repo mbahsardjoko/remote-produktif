@@ -1,5 +1,13 @@
 [
   {
+    "slug": "feedback-loop-remote-worker",
+    "title": "Feedback Loop buat Remote Worker: 7 Cara Bangun Sistem Umpan Balik Biar Terus Berkembang Tanpa Stuck di Tempat",
+    "desc": "Gak dapet feedback langsung di remote? Lo butuh feedback loop. 7 cara bangun sistem umpan balik biar terus berkembang tanpa mikromanajemen.",
+    "tag": "Komunikasi & Kolaborasi",
+    "img": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?w=600&q=80",
+    "date": "21 Juli 2026"
+  },
+  {
     "slug": "handling-mistakes-remote-worker",
     "title": "Cara Handle Kesalahan di Tempat Kerja Remote: 7 Langkah Biar Profesional dan Gak Overthinking",
     "desc": "Kesalahan di tempat kerja remote bikin panik? 7 langkah sederhana biar tetap profesional, gak overthinking, dan belajar dari kesalahan.",

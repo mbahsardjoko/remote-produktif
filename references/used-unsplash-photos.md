@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1531545514256-b1400bc00f31 | feedback-loop-remote-worker | 21 Juli 2026 |
 || 1505740420928-5e560c06d30e | circle-of-control-remote-worker (reuse — konteks circle of control/fokus & penerimaan, sebelumnya kecemasan-remote-worker & mindfulness-remote-worker) | 21 Juli 2026 |
 || 1524178232363-1fb2b075b655 | boredom-remote-worker | 21 Juli 2026 |
 || 1520333789090-1afc82db536a | procrastination-remote-worker (reuse — konteks prokrastinasi/menunda, sebelumnya toxic productivity & burnout & overwork) | 21 Juli 2026 |
@@ -266,6 +267,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
+
 
 
 
