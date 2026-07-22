@@ -171,3 +171,5 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 || 1516321318423-f06f85e504b3 | Dua orang berkolaborasi di depan laptop — metafora kolaborasi tim & peer feedback | 13 Juli 2026 |
 
+
+|| 1556761175-5973dc0f32e7 | leadership-remote-team | 22 Juli 2026 |
