@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1517694712202-14dd9538aa97 | speak-up-remote-worker (reuse — komunikasi/sharing suara) | 22 Juli 2026 |
 || 1505740420928-5e560c06d30e | mengelola-frustrasi-remote-worker | 22 Juli 2026 |
 || 1544025162-d76694265947 | emotional-regulation-remote-worker (reuse — konteks emotional regulation/mental health, sebelumnya dopamine-detox-remote-worker & gratitude-practice-remote-worker) | 22 Juli 2026 |
 || 1531545514256-b1400bc00f31 | feedback-loop-remote-worker | 21 Juli 2026 |
