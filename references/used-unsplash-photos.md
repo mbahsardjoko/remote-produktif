@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+||| 1501785888041-af3ef285b470 | lari-pagi-remote-worker (reuse — konteks lari pagi/olahraga outdoor, sebelumnya adaptif-menghadapi-perubahan, screen-time-management, walking-pad) | 23 Juli 2026 |
 || 1517694712202-14dd9538aa97 | storytelling-remote-worker (reuse — konteks storytelling/komunikasi naratif, sebelumnya speak-up-remote-worker & presentasi-online-remote-worker) | 23 Juli 2026 |
 
 || 1506126613408-eca07ce68773 | jurnal-harian-remote-worker (reuse — konteks journaling/refleksi diri, sebelumnya mindful-working-remote, rutinitas-pagi, mindset-produktif) | 23 Juli 2026 |
