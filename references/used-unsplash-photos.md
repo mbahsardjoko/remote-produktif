@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1517694712202-14dd9538aa97 | storytelling-remote-worker (reuse — konteks storytelling/komunikasi naratif, sebelumnya speak-up-remote-worker & presentasi-online-remote-worker) | 23 Juli 2026 |
+
 || 1506126613408-eca07ce68773 | jurnal-harian-remote-worker (reuse — konteks journaling/refleksi diri, sebelumnya mindful-working-remote, rutinitas-pagi, mindset-produktif) | 23 Juli 2026 |
 ||| 1470071459604-3b5ec3a7fe05 | hewan-peliharaan-remote-worker (reuse — konteks hewan peliharaan/companionship, sebelumnya afirmasi-positif, negative-self-talk, evening-wind-down, me-time-hobi, digital-sunset) | 23 Juli 2026 |
 || 1470071459604-3b5ec3a7fe05 | afirmasi-positif-remote-worker (reuse — konteks afirmasi positif/mental health, sebelumnya negative-self-talk, evening-wind-down, me-time-hobi, digital-sunset) | 23 Juli 2026 |
