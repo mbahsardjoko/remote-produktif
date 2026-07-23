@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+||| 1556761175-b413da4baf72 | percaya-diri-remote-worker (reuse — konteks percaya diri/pengembangan karir, sebelumnya office-politics & conflict-resolution & self-discipline & self-advocacy & meeting-etiquette & managing-up & negosiasi-kontrak & emotional-intelligence & remote-team-culture-rituals) | 23 Juli 2026 |
 || 1517694712202-14dd9538aa97 | speak-up-remote-worker (reuse — komunikasi/sharing suara) | 22 Juli 2026 |
 || 1505740420928-5e560c06d30e | mengelola-frustrasi-remote-worker | 22 Juli 2026 |
 || 1544025162-d76694265947 | emotional-regulation-remote-worker (reuse — konteks emotional regulation/mental health, sebelumnya dopamine-detox-remote-worker & gratitude-practice-remote-worker) | 22 Juli 2026 |
