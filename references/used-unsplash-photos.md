@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1470071459604-3b5ec3a7fe05 | afirmasi-positif-remote-worker (reuse — konteks afirmasi positif/mental health, sebelumnya negative-self-talk, evening-wind-down, me-time-hobi, digital-sunset) | 23 Juli 2026 |
 ||| 1556761175-b413da4baf72 | percaya-diri-remote-worker (reuse — konteks percaya diri/pengembangan karir, sebelumnya office-politics & conflict-resolution & self-discipline & self-advocacy & meeting-etiquette & managing-up & negosiasi-kontrak & emotional-intelligence & remote-team-culture-rituals) | 23 Juli 2026 |
 || 1517694712202-14dd9538aa97 | speak-up-remote-worker (reuse — komunikasi/sharing suara) | 22 Juli 2026 |
 || 1505740420928-5e560c06d30e | mengelola-frustrasi-remote-worker | 22 Juli 2026 |
