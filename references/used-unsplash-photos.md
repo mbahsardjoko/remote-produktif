@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1517694712202-14dd9538aa97 | public-speaking-remote-worker (reuse — konteks public speaking skill, sebelumnya storytelling-remote-worker, speak-up-remote-worker & presentasi-online-remote-worker) | 23 Juli 2026 |
 || 1545239351-ef35f43d514b | posture-ergonomi-remote-worker | 23 Juli 2026 |
 ||| 1501785888041-af3ef285b470 | lari-pagi-remote-worker (reuse — konteks lari pagi/olahraga outdoor, sebelumnya adaptif-menghadapi-perubahan, screen-time-management, walking-pad) | 23 Juli 2026 |
 || 1517694712202-14dd9538aa97 | storytelling-remote-worker (reuse — konteks storytelling/komunikasi naratif, sebelumnya speak-up-remote-worker & presentasi-online-remote-worker) | 23 Juli 2026 |
@@ -278,6 +279,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
+
 
 
 
