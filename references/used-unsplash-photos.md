@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1476480862126-209bfaa8edc8 | strength-training-remote-worker (reuse — konteks strength training/kekuatan otot, sebelumnya membangun-rutinitas-olahraga/exercise routine) | 24 Juli 2026 |
 || 1505740420928-5e560c06d30e | meditasi-remote-worker (reuse — konteks meditasi/kesehatan mental, sebelumnya kecemasan-remote-worker & mindfulness-remote-worker & circle-of-control-remote-worker & mengelola-frustrasi-remote-worker) | 24 Juli 2026 |
 
 ||| 1483058712412-4245e9b90334 | kreativitas-remote-worker (reuse — konteks kreativitas/energi kreatif, sebelumnya problem-solving-remote-worker, perfectionism-remote-worker, imposter-syndrome-remote-worker) | 24 Juli 2026 |
@@ -284,6 +285,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
+
 
 
 
