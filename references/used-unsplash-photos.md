@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1505740420928-5e560c06d30e | meditasi-remote-worker (reuse — konteks meditasi/kesehatan mental, sebelumnya kecemasan-remote-worker & mindfulness-remote-worker & circle-of-control-remote-worker & mengelola-frustrasi-remote-worker) | 24 Juli 2026 |
+
 ||| 1483058712412-4245e9b90334 | kreativitas-remote-worker (reuse — konteks kreativitas/energi kreatif, sebelumnya problem-solving-remote-worker, perfectionism-remote-worker, imposter-syndrome-remote-worker) | 24 Juli 2026 |
 || 1583394838336-acd977736f90 | podcast-rekomendasi-remote-worker (reuse — konteks podcast/audio content, sebelumnya headphone-wfh-essentials/hardware) | 24 Juli 2026 |
 
