@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1583394838336-acd977736f90 | podcast-rekomendasi-remote-worker (reuse — konteks podcast/audio content, sebelumnya headphone-wfh-essentials/hardware) | 24 Juli 2026 |
+
 || 1517694712202-14dd9538aa97 | public-speaking-remote-worker (reuse — konteks public speaking skill, sebelumnya storytelling-remote-worker, speak-up-remote-worker & presentasi-online-remote-worker) | 23 Juli 2026 |
 || 1545239351-ef35f43d514b | posture-ergonomi-remote-worker | 23 Juli 2026 |
 ||| 1501785888041-af3ef285b470 | lari-pagi-remote-worker (reuse — konteks lari pagi/olahraga outdoor, sebelumnya adaptif-menghadapi-perubahan, screen-time-management, walking-pad) | 23 Juli 2026 |
