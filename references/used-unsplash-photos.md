@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+||| 1483058712412-4245e9b90334 | kreativitas-remote-worker (reuse — konteks kreativitas/energi kreatif, sebelumnya problem-solving-remote-worker, perfectionism-remote-worker, imposter-syndrome-remote-worker) | 24 Juli 2026 |
 || 1583394838336-acd977736f90 | podcast-rekomendasi-remote-worker (reuse — konteks podcast/audio content, sebelumnya headphone-wfh-essentials/hardware) | 24 Juli 2026 |
 
 || 1517694712202-14dd9538aa97 | public-speaking-remote-worker (reuse — konteks public speaking skill, sebelumnya storytelling-remote-worker, speak-up-remote-worker & presentasi-online-remote-worker) | 23 Juli 2026 |
