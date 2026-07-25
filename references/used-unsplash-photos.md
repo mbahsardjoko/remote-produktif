@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1512621776951-a57141f2eefd | sarapan-sehat-remote-worker (reuse — konteks sarapan sehat/food, sebelumnya camilan-sehat-remote-worker) | 25 Juli 2026 |
 || 1476480862126-209bfaa8edc8 | kesehatan-jantung-remote-worker (reuse — konteks olahraga/aktivitas fisik, sebelumnya strength-training-remote-worker/kekuatan otot) | 25 Juli 2026 |
 || 1556228578-0d85b1a4d571 | prompt-engineering-remote-worker | 24 Juli 2026 |
 || 1556228578-0d85b1a4d571 | prompt-engineering-remote-worker | 24 Juli 2026 |
@@ -289,6 +290,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1512621776951-a57141f2eefd | camilan-sehat-remote-worker (reuse — konteks camilan sehat/snack, sebelumnya lunch-break & healthy-eating) | 25 Juli 2026 |
+
 
 
 
