@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1490971588422-52f6262a237a | productivity-trap-remote-worker (reuse — konteks jebakan produktivitas palsu/psikologi kerja, sebelumnya movement-breaks-remote/peregangan fisik) | 25 Juli 2026 |
+
 || 1484480974693-6ca0a78fb36b | hambatan-komunikasi-remote-worker (reuse — konteks hambatan komunikasi/barrier, sebelumnya decision-fatigue-remote-worker, critical-thinking-remote-worker, cold-email-freelance-remote, task-batching-remote-worker, skill-audit-remote-worker) | 25 Juli 2026 |
 || 1497366754035-f200968a6e72 | tanaman-hias-ruang-kerja-remote-worker | 25 Juli 2026 |
 ||| 1505740420928-5e560c06d30e | hidrasi-remote-worker (reuse — konteks hidrasi/kesehatan tubuh, sebelumnya meditasi-remote-worker & mengelola-frustrasi-remote-worker & circle-of-control-remote-worker & mindfulness-remote-worker & kecemasan-remote-worker) | 25 Juli 2026 |
