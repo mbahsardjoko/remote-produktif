@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1593642632559-0c6d3fc62b89 | keyboard-mekanis-remote-worker | 26 Juli 2026 |
+|| 1593642632559-0c6d3fc62b89 | keyboard-mekanis-remote-worker (reuse — konteks keyboard mekanis/peralatan, sebelumnya wfh-setup-budget-friendly & investasi-peralatan-wfh) | 25 Juli 2026 |
 || 1490971588422-52f6262a237a | productivity-trap-remote-worker (reuse — konteks jebakan produktivitas palsu/psikologi kerja, sebelumnya movement-breaks-remote/peregangan fisik) | 25 Juli 2026 |
 
 || 1484480974693-6ca0a78fb36b | hambatan-komunikasi-remote-worker (reuse — konteks hambatan komunikasi/barrier, sebelumnya decision-fatigue-remote-worker, critical-thinking-remote-worker, cold-email-freelance-remote, task-batching-remote-worker, skill-audit-remote-worker) | 25 Juli 2026 |
@@ -295,6 +297,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1512621776951-a57141f2eefd | camilan-sehat-remote-worker (reuse — konteks camilan sehat/snack, sebelumnya lunch-break & healthy-eating) | 25 Juli 2026 |
+
+
 
 
 
