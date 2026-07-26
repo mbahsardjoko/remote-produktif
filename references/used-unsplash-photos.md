@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1545239351-ef35f43d514b | istirahat-strategis-remote-workers (reuse — konteks istirahat strategis/recovery, sebelumnya goal-setting-remote-worker, weekend-ritual-remote-worker, self-reflection-remote-worker, time-blocking-remote, morning-routine-produktif-remote, quiet-quitting-remote-worker, self-sabotage-remote-worker, posture-ergonomi-remote-worker, manajemen-energi-bukan-waktu-remote, kualitas-tidur-remote-worker, energy-management-remote-work) | 26 Juli 2026 |
 || 1593642632559-0c6d3fc62b89 | keyboard-mekanis-remote-worker | 26 Juli 2026 |
 || 1593642632559-0c6d3fc62b89 | keyboard-mekanis-remote-worker (reuse — konteks keyboard mekanis/peralatan, sebelumnya wfh-setup-budget-friendly & investasi-peralatan-wfh) | 25 Juli 2026 |
 || 1490971588422-52f6262a237a | productivity-trap-remote-worker (reuse — konteks jebakan produktivitas palsu/psikologi kerja, sebelumnya movement-breaks-remote/peregangan fisik) | 25 Juli 2026 |
