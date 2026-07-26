@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1496181133206-80ce9b88a853 | meja-berdiri-remote-worker | 26 Juli 2026 |
 || 1473830394358-91588751b241 | adaptability-skill-remote-worker (reuse — konteks adaptability/growth & perubahan, sebelumnya uncertainty-management-remote & desain-minggu-ideal-remote-worker) | 26 Juli 2026 |
 ||| 1483058712412-4245e9b90334 | self-love-remote-worker (reuse — konteks self-love/introspeksi kasih sayang, sebelumnya imposter-syndrome-remote-worker, anti-goals-remote-worker, self-reflection-remote-worker, problem-solving-remote-worker, perfectionism-remote-worker, kreativitas-remote-worker) | 26 Juli 2026 |
 || 1553028826-f4804a6dba3b | komunitas-remote-worker (reuse — konteks komunitas/teamwork untuk remote worker, sebelumnya question-asking-remote, 90-hari-pertama-remote-job, self-discipline-remote-worker, feedback-konstruktif-remote) | 26 Juli 2026 |
@@ -303,6 +304,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1512621776951-a57141f2eefd | camilan-sehat-remote-worker (reuse — konteks camilan sehat/snack, sebelumnya lunch-break & healthy-eating) | 25 Juli 2026 |
+
 
 
 
