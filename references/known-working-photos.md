@@ -5,7 +5,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
-|| 1490971588422-52f6262a237a | Orang peregangan di depan meja kerja — desk yoga/stretching at desk | 27 Juli 2026 | Reuse: desk-yoga-remote-worker (2nd use, konteks desk yoga spesifik vs movement breaks umum) |
+|| 1490971588422-52f6262a237a | Orang peregangan di depan meja kerja — desk yoga/stretching at desk | 27 Juli 2026 | Reuse: desk-yoga-remote-worker (2nd use, konteks desk yoga spesifik vs movement breaks umum) | | Reuse: stretching-remote-worker (3rd use, konteks general stretching vs desk yoga spesifik vs movement breaks umum) | 27 Juli 2026 |
 || 1573164574572-cb89e39749b4 | active-listening-remote-worker — Workplace communication / professional meeting | 20 Juli 2026 |
 | 1504711434969-e33886168d8c | financial-independence-remote-worker | Menulis dokumen di laptop | 16 Jul 2026 |
 | 1503676260728-1c00da094a0b | digital-decluttering-remote-worker | desktop-bersih-declutter | 14 Jul 2026 |
@@ -110,7 +110,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1531545514256-b1400bc00f31 | Tim remote berdiskusi lewat video call — kontras visual untuk artikel meeting-free | 4 Juli 2026 |
 | 1499750310107-5fef28a66643 | Laptop di meja kerja dengan suasana tenang — metafora pemulihan setelah rapat panjang | 4 Juli 2026 |
 | 1513542789411-b6a5d4f31634 | Task initiation, remote work motivation | 4 Juli 2026 |
-| 1490971588422-52f6262a237a | Orang peregangan di depan meja kerja - movement breaks | 4 Juli 2026 |
+| 1490971588422-52f6262a237a | Orang peregangan di depan meja kerja - movement breaks | 4 Juli 2026 | | Reuse: stretching-remote-worker (3rd use, konteks general stretching vs desk yoga spesifik vs movement breaks umum) | 27 Juli 2026 |
 | 1470071459604-3b5ec3a7fe05 | Seseorang membaca buku di sofa dengan lampu hangat - evening wind-down | 4 Juli 2026 |
 | 1497366754035-f200968a6e72 | Modern office workspace — setup meja dengan laptop dan tanaman hias | 5 Juli 2026 |
 | 1505740420928-5e560c06d30e | Nature/calm landscape — metafora ketenangan untuk artikel anxiety | 5 Juli 2026 |
@@ -174,3 +174,5 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 
 || 1556761175-5973dc0f32e7 | leadership-remote-team | 22 Juli 2026 |
+
+
