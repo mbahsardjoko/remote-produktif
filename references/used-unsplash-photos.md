@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1496181133206-80ce9b88a853 | invoice-profesional-remote-worker (reuse — konteks invoice/finance/admin, sebelumnya meja-berdiri-remote-worker & dekorasi-ruang-kerja-remote-worker & wfh-setup-budget-friendly & investasi-peralatan-wfh) | 27 Juli 2026 |
 || 1490971588422-52f6262a237a | desk-yoga-remote-worker (reuse — konteks desk yoga/peregangan spesifik di meja, sebelumnya movement-breaks-remote/movement breaks umum) | 27 Juli 2026 |
 || 1488998427799-e3362cec87c3 | side-project-remote-worker | 26 Juli 2026 |
 || 1496181133206-80ce9b88a853 | meja-berdiri-remote-worker | 26 Juli 2026 |
