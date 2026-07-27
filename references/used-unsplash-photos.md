@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1556761175-b413da4baf72 | vitamin-suplemen-remote-worker | 27 Juli 2026 |
 || 1559136555-9303baea8ebd | budaya-kerja-remote-worker (reuse — konteks budaya kerja/team dynamics, sebelumnya google-workspace-tips-remote/tools & membangun-support-system-remote-worker/support system) | 27 Juli 2026 |
 || 1577962917302-cd874c4e31d2 | one-on-one-meeting-remote (reuse — konteks Professional/business meeting — one-on-one meeting konteks komunikasi tim remote) | 27 Juli 2026 |
 || 1515378791036-0648a3ef77b2 | dress-code-remote-worker (reuse — konteks dress code/fashion — pakaian kerja remote, sebelumnya menjaga-motivasi-remote-worker/motivasi kerja) | 27 Juli 2026 |
@@ -311,6 +312,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1512621776951-a57141f2eefd | camilan-sehat-remote-worker (reuse — konteks camilan sehat/snack, sebelumnya lunch-break & healthy-eating) | 25 Juli 2026 |
+
 
 
 
