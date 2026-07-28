@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1497366811353-6870744d04b2 | kursi-ergonomis-remote-worker (reuse — konteks pilih kursi ergonomis vs budget negosiasi home office) | 28 Juli 2026 |
 || 1497366811353-6870744d04b2 | kursi-ergonomis-remote-worker | 28 Juli 2026 |
 || 1556761175-b413da4baf72 | pengambilan-keputusan-remote | 28 Juli 2026 |
 || 1556761175-b413da4baf72 | kepemimpinan-remote-tim | 28 Juli 2026 |
@@ -324,6 +325,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1512621776951-a57141f2eefd | camilan-sehat-remote-worker (reuse — konteks camilan sehat/snack, sebelumnya lunch-break & healthy-eating) | 25 Juli 2026 |
+
 
 
 
