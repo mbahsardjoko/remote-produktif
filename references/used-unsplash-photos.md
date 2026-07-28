@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1556761175-b413da4baf72 | bpjs-kesehatan-ketenagakerjaan-remote-worker (reuse — konteks legal/finansial formalities BPJS buat remote worker, sebelumnya vitamin-suplemen-remote-worker/nutrisi & kesehatan) | 28 Juli 2026 |
 || 1501339847302-ac426a4a7cbb | hiburan-entertainment-remote-worker (reuse — konteks santai/hiburan, sebelumnya sunday-scaries-remote-worker) | 28 Juli 2026 |
 
 || 1484480974693-6ca0a78fb36b | tabungan-dana-darurat-remote-worker (reuse — konteks tabungan/perencanaan keuangan, sebelumnya decision-fatigue-remote-worker, critical-thinking-remote-worker, cold-email-freelance-remote, task-batching-remote-worker, skill-audit-remote-worker, hambatan-komunikasi-remote-worker) | 28 Juli 2026 |
