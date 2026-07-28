@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1497215728101-856f4ea42174 | pengembangan-profesional-remote-worker (reuse — konteks pengembangan karir/profesional, sebelumnya office/professional workspace) | 28 Juli 2026 |
 || 1522071901873-411886a10004 | alergi-saat-wfh-remote-worker (reuse — konteks alergi/kesehatan lingkungan, sebelumnya declutter-workspace-remote-worker) | 28 Juli 2026 |
 || 1556761175-b413da4baf72 | bpjs-kesehatan-ketenagakerjaan-remote-worker (reuse — konteks legal/finansial formalities BPJS buat remote worker, sebelumnya vitamin-suplemen-remote-worker/nutrisi & kesehatan) | 28 Juli 2026 |
 || 1501339847302-ac426a4a7cbb | hiburan-entertainment-remote-worker (reuse — konteks santai/hiburan, sebelumnya sunday-scaries-remote-worker) | 28 Juli 2026 |
