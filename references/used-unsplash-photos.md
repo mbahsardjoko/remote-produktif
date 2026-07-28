@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1484480974693-6ca0a78fb36b | tabungan-dana-darurat-remote-worker (reuse — konteks tabungan/perencanaan keuangan, sebelumnya decision-fatigue-remote-worker, critical-thinking-remote-worker, cold-email-freelance-remote, task-batching-remote-worker, skill-audit-remote-worker, hambatan-komunikasi-remote-worker) | 28 Juli 2026 |
+
 || 1490971588422-52f6262a237a | stretching-remote-worker | 27 Juli 2026 |
 || 1490971588422-52f6262a237a | stretching-remote-worker | 27 Juli 2026 |
 || 1556761175-b413da4baf72 | vitamin-suplemen-remote-worker | 27 Juli 2026 |
