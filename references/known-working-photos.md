@@ -38,7 +38,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1555421689-491a97ff2040 | Tangan mengetik di keyboard Apple — metafora komunikasi digital remote | 7 Juni 2026 | Reuse: komunikasi-asertif-remote (18 Juli 2026) |
 | 1470252649378-9c29740c9fa8 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1488190211105-8b0e65b80b4e | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
-| 1501339847302-ac426a4a7cbb | Suasana coffee shop santai dengan laptop — metafora ketenangan sebelum memulai minggu kerja | 29 Juni 2026 | 7 Juni 2026 |
+| 1501339847302-ac426a4a7cbb | Suasana coffee shop santai dengan laptop — metafora ketenangan sebelum memulai minggu kerja | 29 Juni 2026 | 7 Juni 2026 | | Reuse: hiburan-entertainment-remote-worker (28 Juli 2026, konteks hiburan/santai vs FOMO/mental health) |
 | 1506905925346-21bda4d32df4 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1508672019048-805c876b67e2 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
 | 1515378791036-0648a3ef77b2 | (untracked from HTML extraction — verify with vision_analyze) | 7 Juni 2026 |
