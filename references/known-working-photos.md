@@ -157,7 +157,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1438806159316-e14e7cc7d393 | Desk workspace — metafora komunikasi yang terstruktur di kerja remote | 8 Juli 2026 |
 | 1553028826-f4804a6dba3b | Teamwork/hands stacked — metafora kerja sama tim dan saling membantu di remote | 8 Juli 2026 |
 | 1544025162-d76694265947 | Calm nature/pathway — cocok buat artikel mental health, digital detox, dopamine reset | 8 Juli 2026 |
-| 1497366811353-6870744d04b2 | Modern office interior — ergonomis setup untuk home office | 8 Juli 2026 |
+| 1497366811353-6870744d04b2 | Modern office interior — ergonomis setup untuk home office | 8 Juli 2026 | | Reuse: kursi-ergonomis-remote-worker (28 Juli 2026, ke-3, konteks pemilihan kursi ergonomis vs negosiasi budget home office)
 | 1556761175-4b46a572b786 | (unverified from batch test) | 8 Juli 2026 |
 | 1532619675605-1ede6c2ed2b0 | Digital workspace interface (unverified from known-working list) | 8 Juli 2026 |
 | 1512621776951-a57141f2eefd | Makanan sehat berwarna-warni di meja kerja — salad segar, buah, kacang, air putih | 8 Juli 2026 |
@@ -175,5 +175,6 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 
 || 1556761175-5973dc0f32e7 | leadership-remote-team | 22 Juli 2026 |
+
 
 
