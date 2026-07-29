@@ -175,7 +175,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 
 || 1556761175-5973dc0f32e7 | leadership-remote-team | 22 Juli 2026 |
-
-
-
-
+|| 1540575467063-178a50c2df87 | Suasana konferensi/seminar — metafora event profesional, networking, dan pengembangan karir buat remote worker | 2026-07-29 |

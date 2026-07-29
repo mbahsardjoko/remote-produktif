@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1540575467063-178a50c2df87 | konferensi-remote-worker | 29 Juli 2026 |
+
 || 1501785888041-af3ef285b470 | jalan-kaki-remote-worker (reuse — konteks jalan kaki/walking break buat remote worker, sebelumnya lari-pagi-remote-worker/lari pagi & outdoor exercise) | 29 Juli 2026 |
 
 || 1498050108023-c5249f4df085 | home-studio-remote-worker | 29 Juli 2026 |
