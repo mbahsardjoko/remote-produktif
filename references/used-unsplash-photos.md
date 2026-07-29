@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1501785888041-af3ef285b470 | jalan-kaki-remote-worker (reuse — konteks jalan kaki/walking break buat remote worker, sebelumnya lari-pagi-remote-worker/lari pagi & outdoor exercise) | 29 Juli 2026 |
+
 || 1498050108023-c5249f4df085 | home-studio-remote-worker | 29 Juli 2026 |
 || 1497366811353-6870744d04b2 | kursi-ergonomis-remote-worker (reuse — konteks pilih kursi ergonomis vs budget negosiasi home office) | 28 Juli 2026 |
 || 1497366811353-6870744d04b2 | kursi-ergonomis-remote-worker | 28 Juli 2026 |
