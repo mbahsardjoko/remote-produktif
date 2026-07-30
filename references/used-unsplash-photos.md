@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1529156069898-49953e39b3ac | sinergi-tim-remote-worker | 30 Juli 2026 |
 || 1556761175-4b46a572b786 | brainstorming-remote-worker (reuse — konteks brainstorming/kreativitas tim, sebelumnya creative-thinking-remote-worker + remote-team-culture-rituals) | 30 Juli 2026 |
 || 1554224155-6726b3ff858f | pemetaan-waktu-remote-worker (reuse — konteks perencanaan waktu/jadwal, sebelumnya thr-remote-worker) | 30 Juli 2026 |
 
