@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1556761175-4b46a572b786 | brainstorming-remote-worker (reuse — konteks brainstorming/kreativitas tim, sebelumnya creative-thinking-remote-worker + remote-team-culture-rituals) | 30 Juli 2026 |
 || 1554224155-6726b3ff858f | pemetaan-waktu-remote-worker (reuse — konteks perencanaan waktu/jadwal, sebelumnya thr-remote-worker) | 30 Juli 2026 |
 
 ||| 1521791055366-0d553872125f | interupsi-saat-kerja-remote (reuse — konteks interupsi/gangguan saat kerja remote, sebelumnya notification-management-remote) | 29 Juli 2026 |
