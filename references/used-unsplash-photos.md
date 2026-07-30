@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1556761175-b413da4baf72 | proposal-freelance-remote-worker | 30 Juli 2026 |
+|| 1556761175-b413da4baf72 | proposal-freelance-remote-worker (reuse — konteks proposal/bisnis freelance, sebelumnya managing-up-remote-worker, conflict-resolution-remote-worker, self-discipline-remote-worker, self-advocacy-remote-worker, meeting-etiquette-remote, negosiasi-kontrak-remote-worker, emotional-intelligence-remote, remote-team-culture-rituals) | 30 Juli 2026 |
 || 1552581234-26160f608093 | lomba-kompetisi-remote-worker | 30 Juli 2026 |
 || 1552581234-26160f608093 | lomba-kompetisi-remote-worker | 30 Juli 2026 |
 || 1554224155-6726b3ff858f | thr-remote-worker | 30 Juli 2026 |
@@ -341,6 +343,7 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1512621776951-a57141f2eefd | camilan-sehat-remote-worker (reuse — konteks camilan sehat/snack, sebelumnya lunch-break & healthy-eating) | 25 Juli 2026 |
 || 1544025162-d76694265947 | toxic-positivity-remote-worker (reuse — konteks toxic positivity/kesehatan mental, sebelumnya emotional-regulation-remote-worker, dopamine-detox-remote-worker, gratitude-practice-remote-worker) | 29 Juli 2026 |
+
 
 
 
