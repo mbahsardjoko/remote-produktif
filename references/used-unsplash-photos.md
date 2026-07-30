@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1554224155-6726b3ff858f | thr-remote-worker | 30 Juli 2026 |
 || 1493932484895-752d1471eab5 | manajemen-marah-remote-worker | 30 Juli 2026 |
 || 1529156069898-49953e39b3ac | sinergi-tim-remote-worker | 30 Juli 2026 |
 || 1556761175-4b46a572b786 | brainstorming-remote-worker (reuse — konteks brainstorming/kreativitas tim, sebelumnya creative-thinking-remote-worker + remote-team-culture-rituals) | 30 Juli 2026 |
@@ -338,6 +339,7 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1512621776951-a57141f2eefd | camilan-sehat-remote-worker (reuse — konteks camilan sehat/snack, sebelumnya lunch-break & healthy-eating) | 25 Juli 2026 |
 || 1544025162-d76694265947 | toxic-positivity-remote-worker (reuse — konteks toxic positivity/kesehatan mental, sebelumnya emotional-regulation-remote-worker, dopamine-detox-remote-worker, gratitude-practice-remote-worker) | 29 Juli 2026 |
+
 
 
 
