@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1554224155-6726b3ff858f | pemetaan-waktu-remote-worker (reuse — konteks perencanaan waktu/jadwal, sebelumnya thr-remote-worker) | 30 Juli 2026 |
+
 ||| 1521791055366-0d553872125f | interupsi-saat-kerja-remote (reuse — konteks interupsi/gangguan saat kerja remote, sebelumnya notification-management-remote) | 29 Juli 2026 |
 || 1484480974693-6ca0a78fb36b | anggaran-keuangan-remote-worker (reuse — konteks anggaran/perencanaan keuangan, sebelumnya hambatan-komunikasi-remote-worker/tabungan-dana-darurat-remote-worker) | 29 Juli 2026 |
 || 1540575467063-178a50c2df87 | konferensi-remote-worker | 29 Juli 2026 |
