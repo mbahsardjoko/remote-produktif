@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1470071459604-3b5ec3a7fe05 | kerja-remote-bareng-pasangan | 31 Juli 2026 |
 || 1499951360447-b19be8fe80f5 | sakit-leher-remote-worker | 31 Juli 2026 |
 || 1506905925346-21bda4d32df4 | bebas-utang-remote-worker (reuse — konteks finansial/jalan keluar dari utang, sebelumnya cognitive-load-management-remote & context-switching-cost-remote) | 31 Juli 2026 |
 || 1554224155-6726b3ff858f | financial-mindset-remote-worker (reuse — konteks financial mindset/pola pikir uang, sebelumnya thr-remote-worker & pemetaan-waktu-remote-worker/tax documents & perencanaan keuangan) | 31 Juli 2026 |
