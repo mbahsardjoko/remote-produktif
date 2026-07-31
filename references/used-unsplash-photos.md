@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1551288049-bebda4e38f71 | mahir-spreadsheet-remote-worker (reuse — konteks spreadsheet/data analytics, sebelumnya microlearning-efektif-remote-worker) | 31 Juli 2026 |
 || 1518770660439-4636190af475 | internet-stabil-remote-worker | 31 Juli 2026 |
 || 1600880292089-90a7e086ee0c | micromanagement-remote-worker | 31 Juli 2026 |
 || 1470071459604-3b5ec3a7fe05 | kerja-remote-bareng-pasangan | 31 Juli 2026 |
@@ -351,6 +352,7 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1552664730-d307ca884978 | fear-setting-remote-worker | 19 Juli 2026 |
 || 1512621776951-a57141f2eefd | camilan-sehat-remote-worker (reuse — konteks camilan sehat/snack, sebelumnya lunch-break & healthy-eating) | 25 Juli 2026 |
 || 1544025162-d76694265947 | toxic-positivity-remote-worker (reuse — konteks toxic positivity/kesehatan mental, sebelumnya emotional-regulation-remote-worker, dopamine-detox-remote-worker, gratitude-practice-remote-worker) | 29 Juli 2026 |
+
 
 
 
