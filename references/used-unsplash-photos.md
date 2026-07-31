@@ -5,6 +5,8 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1483058712412-4245e9b90334 | visualisasi-remote-worker (reuse — konteks visualisasi/imajinasi dan perencanaan target, sebelumnya imposter-syndrome-remote-worker, anti-goals-remote-worker, self-reflection-remote-worker, problem-solving-remote-worker, perfectionism-remote-worker, kreativitas-remote-worker, self-love-remote-worker) | 31 Juli 2026 |
+
 || 1556761175-b413da4baf72 | proposal-freelance-remote-worker | 30 Juli 2026 |
 || 1556761175-b413da4baf72 | proposal-freelance-remote-worker (reuse — konteks proposal/bisnis freelance, sebelumnya managing-up-remote-worker, conflict-resolution-remote-worker, self-discipline-remote-worker, self-advocacy-remote-worker, meeting-etiquette-remote, negosiasi-kontrak-remote-worker, emotional-intelligence-remote, remote-team-culture-rituals) | 30 Juli 2026 |
 || 1552581234-26160f608093 | lomba-kompetisi-remote-worker | 30 Juli 2026 |
