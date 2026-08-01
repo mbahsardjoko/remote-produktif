@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1501785888041-af3ef285b470 | nonverbal-communication-remote | 1 Agustus 2026 |
 || 1505740420928-5e560c06d30e | mata-lelah-remote-worker | 1 Agustus 2026 |
 || 1454165205744-3b78555e5572 | downtime-guilt-remote-worker | 1 Agustus 2026 |
 || 1556761175-5973dc0f32e7 | personal-branding-remote-worker | 1 Agustus 2026 |
