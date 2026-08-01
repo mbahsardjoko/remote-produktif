@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1556761175-5973dc0f32e7 | personal-branding-remote-worker | 1 Agustus 2026 |
 || 1434030216411-0b793f4b4173 | digital-detox-remote-worker | 1 Agustus 2026 |
 || 1497366216548-37526070297c | akustik-ruang-kerja-remote-worker (reuse — konteks acoustic treatment/room acoustics, sebelumnya time-tracking-tools-remote-worker/productivity tools) | 31 Juli 2026 |
 || 1551288049-bebda4e38f71 | mahir-spreadsheet-remote-worker (reuse — konteks spreadsheet/data analytics, sebelumnya microlearning-efektif-remote-worker) | 31 Juli 2026 |
