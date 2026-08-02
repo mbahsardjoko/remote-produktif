@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1540575467063-178a50c2df87 | penghasilan-pasif-remote-worker | 2 Agustus 2026 |
 || 1451187580459-43490279c0fa | timeboxing-remote-worker | 2 Agustus 2026 |
 || 1553877522-43269d4ea984 | backup-data-remote-worker | 2 Agustus 2026 |
 || 1460925895917-afdab827c52f | investasi-pemula-remote-worker (reuse - konteks investasi/data dashboard, sebelumnya keamanan-digital-remote-worker, asana-vs-trello-vs-monday, freelance-marketplace-strategy-remote-worker) | 2 Agustus 2026 |
@@ -405,3 +406,4 @@ Jangan pake foto yang sama untuk artikel baru.
 
 
 || 1522071901873-411886a10004 | dual-monitor-setup-remote-worker | 2 Agustus 2026 |
+
