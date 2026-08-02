@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1460925895917-afdab827c52f | investasi-pemula-remote-worker (reuse - konteks investasi/data dashboard, sebelumnya keamanan-digital-remote-worker, asana-vs-trello-vs-monday, freelance-marketplace-strategy-remote-worker) | 2 Agustus 2026 |
 || 1550259576-56c22cecaf77 | yoga-stretching-remote-worker | 2 Agustus 2026 |
 || 1454165205744-3b78555e5572 | ai-remote-worker-praktis | 1 Agustus 2026 |
 || 1501785888041-af3ef285b470 | nonverbal-communication-remote | 1 Agustus 2026 |
