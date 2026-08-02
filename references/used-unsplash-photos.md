@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1522771739844-6a9f6d5f14af | insomnia-remote-worker | 2 Agustus 2026 |
 || 1540575467063-178a50c2df87 | penghasilan-pasif-remote-worker | 2 Agustus 2026 |
 || 1451187580459-43490279c0fa | timeboxing-remote-worker | 2 Agustus 2026 |
 || 1553877522-43269d4ea984 | backup-data-remote-worker | 2 Agustus 2026 |
@@ -406,4 +407,5 @@ Jangan pake foto yang sama untuk artikel baru.
 
 
 || 1522071901873-411886a10004 | dual-monitor-setup-remote-worker | 2 Agustus 2026 |
+
 
