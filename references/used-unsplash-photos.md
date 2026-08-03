@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1516280440614-37939bbacd81 | mandi-air-dingin-remote-worker (reuse — konteks air terjun/segar, sebelumnya renang-remote-worker) | 3 Agustus 2026 |
 || 1516280440614-37939bbacd81 | renang-remote-worker | 3 Agustus 2026 |
 || 1508672019048-805c876b67e2 | berkebun-remote-worker | 3 Agustus 2026 |
 || 1557804506-669a67965ba0 | small-talk-remote-worker (reuse — konteks small talk/obrolan santai tim remote, sebelumnya comparison-trap-remote-worker) | 3 Agustus 2026 |
@@ -413,6 +414,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 
 || 1522071901873-411886a10004 | dual-monitor-setup-remote-worker | 2 Agustus 2026 |
+
 
 
 
