@@ -5,6 +5,7 @@ Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
 |----------|---------|---------|
+|| 1507925921958-8a62f3d1a50d | pindah-kota-remote-worker | 3 Agustus 2026 |
 || 1508672019048-805c876b67e2 | memaafkan-diri-sendiri-remote-worker | 3 Agustus 2026 |
 || 1532298229144-0ec0c57515c7 | bersepeda-remote-worker | 3 Agustus 2026 |
 || 1522771739844-6a9f6d5f14af | insomnia-remote-worker | 2 Agustus 2026 |
