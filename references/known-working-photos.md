@@ -6,6 +6,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+| 1556910103-1c02745aae4d | Kegiatan memasak di dapur rumah — metafora me time yang hangat dan menenangkan | 4 Agustus 2026 |
 || 1490971588422-52f6262a237a | Orang peregangan di depan meja kerja — desk yoga/stretching at desk | 27 Juli 2026 | Reuse: desk-yoga-remote-worker (2nd use, konteks desk yoga spesifik vs movement breaks umum) | | Reuse: stretching-remote-worker (3rd use, konteks general stretching vs desk yoga spesifik vs movement breaks umum) | 27 Juli 2026 |
 || 1573164574572-cb89e39749b4 | active-listening-remote-worker — Workplace communication / professional meeting | 20 Juli 2026 |
 | 1504711434969-e33886168d8c | financial-independence-remote-worker | Menulis dokumen di laptop | 16 Jul 2026 |
