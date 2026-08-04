@@ -6,6 +6,7 @@ Jangan pake foto yang sama untuk artikel baru.
 | Photo ID | Artikel | Tanggal |
 ||| 1507925921958-8a62f3d1a50d | upskilling-remote-worker (reuse — konteks karir/upskill/city career, sebelumnya pindah-kota-remote-worker & productivity-system-remote) | 4 Agustus 2026 |
 |----------|---------|---------|
+|| 1506905925346-21bda4d32df4 | mendaki-gunung-remote-worker (reuse — konteks pendakian/hiking/outdoor, sebelumnya bebas-utang-remote-worker, cognitive-load-management-remote, context-switching-cost-remote) | 4 Agustus 2026 |
 || 1516280440614-37939bbacd81 | mandi-air-dingin-remote-worker (reuse — konteks air terjun/segar, sebelumnya renang-remote-worker) | 3 Agustus 2026 |
 || 1516280440614-37939bbacd81 | renang-remote-worker | 3 Agustus 2026 |
 || 1508672019048-805c876b67e2 | berkebun-remote-worker | 3 Agustus 2026 |
