@@ -4,6 +4,7 @@ Daftar foto Unsplash yang sudah dipake di artikel remoteproduktif.online.
 Jangan pake foto yang sama untuk artikel baru.
 
 | Photo ID | Artikel | Tanggal |
+||| 1507925921958-8a62f3d1a50d | upskilling-remote-worker (reuse — konteks karir/upskill/city career, sebelumnya pindah-kota-remote-worker & productivity-system-remote) | 4 Agustus 2026 |
 |----------|---------|---------|
 || 1516280440614-37939bbacd81 | mandi-air-dingin-remote-worker (reuse — konteks air terjun/segar, sebelumnya renang-remote-worker) | 3 Agustus 2026 |
 || 1516280440614-37939bbacd81 | renang-remote-worker | 3 Agustus 2026 |
