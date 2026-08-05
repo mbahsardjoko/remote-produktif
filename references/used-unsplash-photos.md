@@ -6,6 +6,7 @@ Jangan pake foto yang sama untuk artikel baru.
 | Photo ID | Artikel | Tanggal |
 ||| 1507925921958-8a62f3d1a50d | upskilling-remote-worker (reuse — konteks karir/upskill/city career, sebelumnya pindah-kota-remote-worker & productivity-system-remote) | 4 Agustus 2026 |
 |----------|---------|---------|
+|| 1544025162-d76694265947 | aroma-ruangan-remote-worker (reuse — konteks aroma ruangan/sensory workspace, sebelumnya emotional-regulation, dopamine-detox, gratitude-practice, toxic-positivity) | 5 Agustus 2026 |
 || 1470071459604-3b5ec3a7fe05 | perawatan-kulit-remote-worker (reuse — konteks perawatan kulit/self-care, sebelumnya kerja-remote-bareng-pasangan, hewan-peliharaan, afirmasi-positif, negative-self-talk, digital-sunset) | 5 Agustus 2026 |
 || 1516280440614-37939bbacd81 | kesehatan-gigi-remote-worker (reuse — konteks kebersihan/air segar untuk kesehatan gigi, sebelumnya mandi-air-dingin-remote-worker & renang-remote-worker) | 5 Agustus 2026 |
 || 1553028826-f4804a6dba3b | persiapan-menikah-remote-worker (reuse — konteks partnership/pernikahan, sebelumnya komunitas/feedback/self-discipline) | 4 Agustus 2026 |
