@@ -6,6 +6,7 @@ Jangan pake foto yang sama untuk artikel baru.
 | Photo ID | Artikel | Tanggal |
 ||| 1507925921958-8a62f3d1a50d | upskilling-remote-worker (reuse — konteks karir/upskill/city career, sebelumnya pindah-kota-remote-worker & productivity-system-remote) | 4 Agustus 2026 |
 |----------|---------|---------|
+|| 1583394838336-acd977736f90 | kesehatan-telinga-remote-worker | 5 Agustus 2026 |
 || 1542435503-956c469947f6 | copywriting-remote-worker (reuse — konteks menulis perspektif remote worker) | 5 Agustus 2026 |
 || 1555066931-4365d14bab8c | rencana-darurat-remote-worker | 5 Agustus 2026 |
 || 1507525428034-b723cf961d3e | sauna-remote-worker (reuse — konteks panas/relaksasi, sebelumnya fomo-remote-worker) | 5 Agustus 2026 |
