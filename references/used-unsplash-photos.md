@@ -443,3 +443,4 @@ Jangan pake foto yang sama untuk artikel baru.
 
 || 1593642632559-0c6d3fc62b89 | pergelangan-tangan-remote-worker | 6 Agustus 2026 |
 
+|| 1532298229144-0ec0c57515c7 | jaga-berat-badan-remote-worker | 6 Agustus 2026 |
