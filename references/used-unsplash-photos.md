@@ -6,6 +6,7 @@ Jangan pake foto yang sama untuk artikel baru.
 | Photo ID | Artikel | Tanggal |
 ||| 1507925921958-8a62f3d1a50d | upskilling-remote-worker (reuse — konteks karir/upskill/city career, sebelumnya pindah-kota-remote-worker & productivity-system-remote) | 4 Agustus 2026 |
 |----------|---------|---------|
+|| 1483058712412-4245e9b90334 | self-love-remote-worker | 6 Agustus 2026 |
 || 1484480974693-6ca0a78fb36b | say-no-remote-worker | 5 Agustus 2026 |
 || 1550745165-9bc0b252726f | esensialisme-remote-worker | 5 Agustus 2026 |
 || 1583394838336-acd977736f90 | kesehatan-telinga-remote-worker | 5 Agustus 2026 |
