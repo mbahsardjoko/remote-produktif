@@ -6,6 +6,7 @@ Jangan pake foto yang sama untuk artikel baru.
 | Photo ID | Artikel | Tanggal |
 ||| 1507925921958-8a62f3d1a50d | upskilling-remote-worker (reuse — konteks karir/upskill/city career, sebelumnya pindah-kota-remote-worker & productivity-system-remote) | 4 Agustus 2026 |
 |----------|---------|---------|
+|| 1520333789090-1afc82db536a | sakit-kepala-remote-worker (reuse — konteks sakit kepala/kesehatan fisik, sebelumnya procrastination/toksik produktivitas) | 6 Agustus 2026 |
 || 1556910103-1c02745aae4d | kesehatan-pencernaan-remote-worker (reuse — konteks memasak sehat di dapur rumah, sebelumnya memasak-remote-worker) | 6 Agustus 2026 |
 || 1483058712412-4245e9b90334 | self-love-remote-worker | 6 Agustus 2026 |
 || 1484480974693-6ca0a78fb36b | say-no-remote-worker | 5 Agustus 2026 |
@@ -440,3 +441,4 @@ Jangan pake foto yang sama untuk artikel baru.
 
 
 || 1593642632559-0c6d3fc62b89 | pergelangan-tangan-remote-worker | 6 Agustus 2026 |
+
