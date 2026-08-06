@@ -72,7 +72,7 @@ Jangan pake foto yang sama untuk artikel baru.
 || 1497366811353-6870744d04b2 | kursi-ergonomis-remote-worker | 28 Juli 2026 |
 || 1556761175-b413da4baf72 | pengambilan-keputusan-remote | 28 Juli 2026 |
 || 1556761175-b413da4baf72 | kepemimpinan-remote-tim | 28 Juli 2026 |
-|| 1497215728101-856f4ea42174 | pengembangan-profesional-remote-worker (reuse — konteks pengembangan karir/profesional, sebelumnya office/professional workspace) | 28 Juli 2026 |
+|| 1497215728101-856f4ea42174 | musim-sepi-freelance-remote-worker (reuse — konteks perencanaan keuangan freelance, sebelumnya pengembangan-profesional-remote-worker) | 6 Agustus 2026 |
 || 1522071901873-411886a10004 | alergi-saat-wfh-remote-worker (reuse — konteks alergi/kesehatan lingkungan, sebelumnya declutter-workspace-remote-worker) | 28 Juli 2026 |
 || 1556761175-b413da4baf72 | bpjs-kesehatan-ketenagakerjaan-remote-worker (reuse — konteks legal/finansial formalities BPJS buat remote worker, sebelumnya vitamin-suplemen-remote-worker/nutrisi & kesehatan) | 28 Juli 2026 |
 || 1501339847302-ac426a4a7cbb | hiburan-entertainment-remote-worker (reuse — konteks santai/hiburan, sebelumnya sunday-scaries-remote-worker) | 28 Juli 2026 |
@@ -276,7 +276,7 @@ Jangan pake foto yang sama untuk artikel baru.
 | 1512486130939-2c4f79935e4f | task-batching-metode-produktivitas-remote | 26 Juni 2026 |
 | 1497032628192-86f99bcd76bc | noise-cancelling-remote-worker | 26 Juni 2026 |
 | 1493932484895-752d1471eab5 | overthinking-remote-worker | 26 Juni 2026 |
-| 1497215728101-856f4ea42174 | eisenhower-matrix-remote-worker | 27 Juni 2026 |
+|| 1497215728101-856f4ea42174 | musim-sepi-freelance-remote-worker (reuse — konteks perencanaan keuangan freelance, sebelumnya pengembangan-profesional-remote-worker) | 6 Agustus 2026 |
 | 1524178232363-1fb2b075b655 | writer-block-remote-worker | 27 Juni 2026 |
 | 1506905925346-21bda4d32df4 | cognitive-load-management-remote | 27 Juni 2026 |
 | 1486312338219-ce68d2c6f44d | parkinson-law-remote-worker | 27 Juni 2026 |
