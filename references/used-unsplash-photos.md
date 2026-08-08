@@ -4,6 +4,7 @@
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
 
 || 1470071459604-3b5ec3a7fe05 | membaca-cepat-remote-worker | 7 Agustus 2026 |
+|| 1493932484895-752d1471eab5 | depresi-remote-worker | 8 Agustus 2026 |
 || 1484101403633-562f891dc89a | musim-hujan-remote-worker | 7 Agustus 2026 |
 
 || 1542744173-8e7e53415bb0 | ritual-bulanan-remote-worker | 8 Agustus 2026 |
@@ -13,3 +14,4 @@
 || 1486312338219-ce68d2c6f44d | merayakan-progres-kecil-remote-worker | 8 Agustus 2026 |
 || 1559839734-2b71ea197ec2 | cek-kesehatan-rutin-remote-worker | 8 Agustus 2026 |
 || 1518241353330-0f7941c2d9b5 | milih-tempat-tinggal-remote-worker | 8 Agustus 2026 |
+
