@@ -5,6 +5,7 @@
 || 1520390138845-fd2d229dd553 | fotografi-hobi-remote-worker | 7 Agustus 2026 ||
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
 
+||| 1524250502761-1ac6f2e30d43 | shutdown-ritual-remote-worker | 9 Agustus 2026 |
 || 1560472354-b33ff0c44a43 | menghindari-scam-remote-worker | 9 Agustus 2026 |
 || 1559526324-593bc073d938 | pembayaran-internasional-remote-worker | 9 Agustus 2026 |
 || 1557804506-669a67965ba0 | kencan-remote-worker | 9 Agustus 2026 |
@@ -21,5 +22,6 @@
 || 1486312338219-ce68d2c6f44d | merayakan-progres-kecil-remote-worker | 8 Agustus 2026 |
 || 1559839734-2b71ea197ec2 | cek-kesehatan-rutin-remote-worker | 8 Agustus 2026 |
 || 1518241353330-0f7941c2d9b5 | milih-tempat-tinggal-remote-worker | 8 Agustus 2026 |
+
 
 
