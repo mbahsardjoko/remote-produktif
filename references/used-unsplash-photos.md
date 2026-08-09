@@ -1,4 +1,6 @@
 # Known-working photos
+|| 1438806159316-e14e7cc7d393 | pembukuan-sederhana-remote-worker | 9 Agustus 2026 |
+
 || 1476480862126-209bfaa8edc8 | kena-layoff-remote-worker | 8 Agustus 2026 |
 || 1520390138845-fd2d229dd553 | fotografi-hobi-remote-worker | 7 Agustus 2026 ||
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
