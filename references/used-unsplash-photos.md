@@ -5,6 +5,7 @@
 || 1520390138845-fd2d229dd553 | fotografi-hobi-remote-worker | 7 Agustus 2026 ||
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
 
+|| 1531297484001-80022131f5a1 | kerja-malam-remote-worker | 10 Agustus 2026 |
 || 1522338242992-e1a54906a8da | kesehatan-rambut-remote-worker | 10 Agustus 2026 |
 || 1572025442646-866d16c84a54 | gaslighting-remote-worker | 10 Agustus 2026 |
 || 1438806159316-e14e7cc7d393 | mengatasi-rasa-malas-remote-worker | 10 Agustus 2026 |
