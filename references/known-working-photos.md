@@ -6,6 +6,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+|| 1522338242992-e1a54906a8da | Wanita dengan rambut sehat — ilustrasi kesehatan rambut (hair) | 10 Agustus 2026 |
 || 1484101403633-562f891dc89a | musim-hujan-remote-worker | 7 Agustus 2026 |
 | 1556910103-1c02745aae4d | Kegiatan memasak di dapur rumah — metafora me time yang hangat dan menenangkan | 4 Agustus 2026 |
 || 1490971588422-52f6262a237a | Orang peregangan di depan meja kerja — desk yoga/stretching at desk | 27 Juli 2026 | Reuse: desk-yoga-remote-worker (2nd use, konteks desk yoga spesifik vs movement breaks umum) | | Reuse: stretching-remote-worker (3rd use, konteks general stretching vs desk yoga spesifik vs movement breaks umum) | 27 Juli 2026 |
