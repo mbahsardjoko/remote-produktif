@@ -5,6 +5,7 @@
 || 1520390138845-fd2d229dd553 | fotografi-hobi-remote-worker | 7 Agustus 2026 ||
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
 
+|| 1531545514256-b1400bc00f31 | video-call-setup-remote-worker | 11 Agustus 2026 |
 || 1584515933487-779824d29309 | merawat-orang-tua-remote-worker | 11 Agustus 2026 |
 ||| 1554224155-6726b3ff858f | gaji-pertama-remote-worker | 11 Agustus 2026 |
 
@@ -40,6 +41,7 @@
 
 
 || 1524250502761-1ac6f2e30d43 | night-routine-remote (reuse) | 10 Agustus 2026 |
+
 
 
 
