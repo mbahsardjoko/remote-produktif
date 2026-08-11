@@ -5,6 +5,7 @@
 || 1520390138845-fd2d229dd553 | fotografi-hobi-remote-worker | 7 Agustus 2026 ||
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
 
+|| 1560518883-ce09059eeffa | beli-rumah-remote-worker | 11 Agustus 2026 |
 || 1518241353330-0f7941c2d9b5 | tetangga-remote-worker | 11 Agustus 2026 |
 || 1600880292089-90a7e086ee0c | equity-kompensasi-remote-worker | 10 Agustus 2026 |
 || 1542744173-8e7e53415bb0 | offboarding-remote-worker | 10 Agustus 2026 |

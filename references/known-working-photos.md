@@ -6,6 +6,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+|| 1560518883-ce09059eeffa | beli-rumah-remote-worker | 11 Agustus 2026 |
 | 1571019613454-1cb2f99b2d8b | Outdoor exercise — peregangan bahu di ruang terbuka (fresh, verified 10 Agu 2026) | 10 Agustus 2026 |
 || 1522338242992-e1a54906a8da | Wanita dengan rambut sehat — ilustrasi kesehatan rambut (hair) | 10 Agustus 2026 |
 || 1484101403633-562f891dc89a | musim-hujan-remote-worker | 7 Agustus 2026 |
