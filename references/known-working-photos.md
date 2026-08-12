@@ -6,6 +6,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+|| 1540575467063-178a50c2df87 | pindah-rumah-remote-worker | 12 Agustus 2026 |
 ||| 1558002038-1055907df827 | Smart home / security theme — keamanan rumah buat remote worker (fresh, verified 11 Agu 2026) | 11 Agustus 2026 |
 || 1560518883-ce09059eeffa | beli-rumah-remote-worker | 11 Agustus 2026 |
 | 1571019613454-1cb2f99b2d8b | Outdoor exercise — peregangan bahu di ruang terbuka (fresh, verified 10 Agu 2026) | 10 Agustus 2026 |
