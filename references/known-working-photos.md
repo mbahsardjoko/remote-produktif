@@ -6,6 +6,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+| 1511895426328-dc8714191300 | silaturahmi-jarak-jauh-remote-worker | 12 Agustus 2026 | verified |
 || 1522708323590-d24dbb6b0267 | teman-serumah-remote-worker | 12 Agustus 2026 |
 || 1469854523086-cc02fe5d8800 | ambil-cuti-remote-worker (road trip, travel) | verified 12 Agu 2026 |
 || 1540575467063-178a50c2df87 | pindah-rumah-remote-worker | 12 Agustus 2026 |
