@@ -6,6 +6,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+| 1518770660439-4636190af475 | Circuit board / tech infrastructure — automation metaphor | 14 Agustus 2026 |
 || 1516387938699-a93567ec168e | perundungan-kerja-remote (worker stress/frustrasi) | 12 Agustus 2026 |
 | 1511895426328-dc8714191300 | silaturahmi-jarak-jauh-remote-worker | 12 Agustus 2026 | verified |
 || 1522708323590-d24dbb6b0267 | teman-serumah-remote-worker | 12 Agustus 2026 |
@@ -198,3 +199,4 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1531297484001-80022131f5a1 | Suasana kerja malam dengan layar laptop menyala — kerja malam remote worker | 10 Agustus 2026 |
 
 | 1584515933487-779824d29309 | Merawat orang tua lansia — senior care/caregiver theme | 11 Agustus 2026 |
+
