@@ -5,6 +5,7 @@
 || 1520390138845-fd2d229dd553 | fotografi-hobi-remote-worker | 7 Agustus 2026 ||
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
 
+|| 1559839734-2b71ea197ec2 | asuransi-kesehatan-remote-worker | 14 Agustus 2026 |
 || 1532968961962-8a0cb3a2d4f5 | hobi-offline-remote-worker | 13 Agustus 2026 |
 || 1573164574572-cb89e39749b4 | transisi-karir-remote-worker | 13 Agustus 2026 |
 || 1490971588422-52f6262a237a | potongan-pajak-home-office-remote-worker | 12 Agustus 2026 |
@@ -51,6 +52,7 @@
 
 
 || 1524250502761-1ac6f2e30d43 | night-routine-remote (reuse) | 10 Agustus 2026 |
+
 
 
 
