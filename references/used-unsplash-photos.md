@@ -5,6 +5,7 @@
 || 1520390138845-fd2d229dd553 | fotografi-hobi-remote-worker | 7 Agustus 2026 ||
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
 
+|| 1554224155-6726b3ff858f | kartu-kredit-remote-worker | 15 Agustus 2026 |
 || 1522071901873-411886a10004 | vertical-mouse-remote-worker | 15 Agustus 2026 |
 || 1516574187841-cb9cc2ca948b | mobility-remote-worker | 20 Juni 2026 |
 || 1451187580459-43490279c0fa | rutinitas-weekend-remote-worker | 14 Agustus 2026 |
@@ -72,5 +73,6 @@
 
 
 || 1451187580459-43490279c0fa | tips-manajemen-zona-waktu-tim-remote | 15 Agustus 2026 |
+
 
 
