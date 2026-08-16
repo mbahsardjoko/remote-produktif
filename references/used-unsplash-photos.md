@@ -5,6 +5,7 @@
 || 1520390138845-fd2d229dd553 | fotografi-hobi-remote-worker | 7 Agustus 2026 ||
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
 
+|| 1532298229144-0ec0c57515c7 | pilates-remote-worker | 16 Agustus 2026 |
 || 1504639725590-34d0984388bd | blue-light-remote-worker | 16 Agustus 2026 |
 || 1544025162-d76694265947 | executive-dysfunction-remote-worker | 16 Agustus 2026 |
 || 1496181133206-80ce9b88a853 | kabel-manajemen-remote-worker | 16 Agustus 2026 |
@@ -81,6 +82,7 @@
 
 || 1451187580459-43490279c0fa | tips-manajemen-zona-waktu-tim-remote | 15 Agustus 2026 |
 || 1522771739844-6a9f6d5f14af | napasdalam-remote-worker | 16 Agustus 2026 |
+
 
 
 
