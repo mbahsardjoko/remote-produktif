@@ -6,6 +6,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 |----------|-----------|-------------------|
+|| 1517048676732-d65bc937f952 | surat-lamaran-remote-worker | 17 Agustus 2026 |
 || 1532298229144-0ec0c57515c7 | cycling/outdoor nature | cycling/outdoor theme | 16 Agustus 2026 |
 || 1517048676732-d65bc937f952 | Office professional setting — workplace meeting/communication theme | 16 Agustus 2026 |
 || 1450101499163-c8848c66ca85 | reksa-dana-remote-worker | 16 Agustus 2026 |
@@ -203,6 +204,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1531297484001-80022131f5a1 | Suasana kerja malam dengan layar laptop menyala — kerja malam remote worker | 10 Agustus 2026 |
 
 | 1584515933487-779824d29309 | Merawat orang tua lansia — senior care/caregiver theme | 11 Agustus 2026 |
+
 
 
 
