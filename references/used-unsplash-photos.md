@@ -5,6 +5,7 @@
 || 1520390138845-fd2d229dd553 | fotografi-hobi-remote-worker | 7 Agustus 2026 ||
 || 1516321318423-f06f85e504b3 | minta-maaf-remote-worker | 7 Agustus 2026 ||
 
+|| 1506744038136-46273834b3fb | autonomy-remote-worker | 18 Agustus 2026 |
 || 1611926653458-09294b3142bf | jejaring-profesional-remote-worker | 17 Agustus 2026 |
 || 1441974231531-c6227db76b6e | focus-mode-remote-worker | 17 Agustus 2026 |
 || 1517048676732-d65bc937f952 | surat-lamaran-remote-worker | 17 Agustus 2026 |
@@ -96,4 +97,5 @@
 
 
 || 1493932484895-752d1471eab5 | analysis-paralysis-remote-worker | 17 Agustus 2026 |
+
 
