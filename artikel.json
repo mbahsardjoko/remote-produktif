@@ -1,5 +1,13 @@
 [
   {
+    "slug": "work-life-boundary-remote-worker",
+    "title": "Work-Life Boundary untuk Remote Worker: Cara Atur Batas Antara Kerja dan Hidup Santai",
+    "desc": "Remote worker? Simpan keseimbangan kerja & hidup dengan strategi boundary yang jelas. Tips praktis, shutdown ritual, dan solusi tanpa mikromanajen.",
+    "tag": "Work-Life Balance",
+    "img": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+    "date": "19 Agustus 2026"
+  },
+  {
     "slug": "autonomy-remote-worker",
     "title": "Autonomy untuk Remote Worker: 7 Cara Jadi Mandiri Biar Gak Perlu Diawasi Bos",
     "desc": "Mau kerja remote tanpa mikromanajemen? Pelajari 7 cara bangun autonomy biar produktif, trusted, dan bebas atur jadwal sendiri.",
@@ -4255,5 +4263,13 @@
     "tag": "Work-Life Balance",
     "date": "24 Juni 2026",
     "img": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&q=80"
+  },
+  {
+    "slug": "test-article",
+    "title": "Test Article",
+    "desc": "Test description",
+    "tag": "Test",
+    "img": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=600&q=80",
+    "date": "19 Agustus 2026"
   }
 ]
