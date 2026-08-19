@@ -197,6 +197,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 || 1532298229144-0ec0c57515c7 | cycling/outdoor nature | cycling/outdoor theme |
 || 1516574187841-cb9cc2ca948b | Stretching/mobility at desk — remote worker ergonomics | 2026-08-15 |
+|| 1531403009284-440f080d1e12 | Workspace improvement growth concept — career roadmap/growth metaphor | 19 Agustus 2026 |
 
 
 | 1475924156734-496f6cac6ec1 | sun landscape for vitamin D article | 8 Agustus 2026 |
@@ -205,6 +206,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1531297484001-80022131f5a1 | Suasana kerja malam dengan layar laptop menyala — kerja malam remote worker | 10 Agustus 2026 |
 
 | 1584515933487-779824d29309 | Merawat orang tua lansia — senior care/caregiver theme | 11 Agustus 2026 |
+
 
 
 
