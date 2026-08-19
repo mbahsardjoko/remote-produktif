@@ -5,6 +5,7 @@
 ||| 1507003211169-0a1dd7228f2d | work-life-boundary-remote-worker | 19 Agustus 2026 |
 ||| 1438806159316-e14e7cc7d393 | pembukuan-sederhana-remote-worker | 9 Agustus 2026 |
 
+|| 1555066931-4365d14bab8c | github-remote-worker | 19 Agustus 2026 |
 || 1531403009284-440f080d1e12 | roadmap-karir-remote-worker | 19 Agustus 2026 |
 || 1551836022-d5d88e9218df | atomic-habits-remote-worker | 19 Agustus 2026 |
 || 1543286386-713bdd548da4 | journaling-remote-worker | 19 Agustus 2026 |
