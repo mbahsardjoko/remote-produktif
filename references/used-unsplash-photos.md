@@ -5,6 +5,7 @@
 |||| 1507003211169-0a1dd7228f2d | work-life-boundary-remote-worker | 19 Agustus 2026 |
 |||| 1438806159316-e14e7cc7d393 | pembukuan-sederhana-remote-worker | 9 Agustus 2026 |
 
+|| 1542744095-fcf48d80b0fd | doomscrolling-remote-worker | 20 Agustus 2026 |
 || 1556761175-5973dc0f32e7 | virtual-coffee-remote-worker | 20 Agustus 2026 |
 || 1470071459604-3b5ec3a7fe05 | wind-down-remote-worker | 20 Agustus 2026 |
 |||| 1501785888041-af3ef285b470 | temptation-bundling-remote-worker | 20 Agustus 2026 |
@@ -85,6 +86,7 @@
 
 |||| 1493932484895-752d1471eab5 | analysis-paralysis-remote-worker | 17 Agustus 2026 |
 ||| 1497032628192-86f99bcd76bc | energy-management-remote-worker | 20 Agustus 2026 |
+
 
 
 
