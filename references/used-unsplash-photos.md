@@ -5,6 +5,7 @@
 |||| 1507003211169-0a1dd7228f2d | work-life-boundary-remote-worker | 19 Agustus 2026 |
 |||| 1438806159316-e14e7cc7d393 | pembukuan-sederhana-remote-worker | 9 Agustus 2026 |
 
+|| 1589829085413-56de8ae18c73 | hal-wajib-kontrak-kerja-remote | 21 Agustus 2026 |
 || 1542744095-fcf48d80b0fd | doomscrolling-remote-worker | 20 Agustus 2026 |
 || 1556761175-5973dc0f32e7 | virtual-coffee-remote-worker | 20 Agustus 2026 |
 || 1470071459604-3b5ec3a7fe05 | wind-down-remote-worker | 20 Agustus 2026 |
