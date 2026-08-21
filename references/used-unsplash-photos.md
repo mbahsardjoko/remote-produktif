@@ -5,6 +5,7 @@
 |||| 1507003211169-0a1dd7228f2d | work-life-boundary-remote-worker | 19 Agustus 2026 |
 |||| 1438806159316-e14e7cc7d393 | pembukuan-sederhana-remote-worker | 9 Agustus 2026 |
 
+|| 1517694712202-14dd9538aa97 | presentasi-persuasif-remote-worker | 21 Agustus 2026 |
 || 1483058712412-4245e9b90334 | retrospective-pribadi-remote-worker | 21 Agustus 2026 |
 || 1500917293891-ef795e70e1f6 | pensiun-freelance-remote-worker | 21 Agustus 2026 |
 || 1526374965328-7f61d4dc18c5 | kebebasan-finansial-remote-worker | 21 Agustus 2026 |
@@ -90,6 +91,7 @@
 
 |||| 1493932484895-752d1471eab5 | analysis-paralysis-remote-worker | 17 Agustus 2026 |
 ||| 1497032628192-86f99bcd76bc | energy-management-remote-worker | 20 Agustus 2026 |
+
 
 
 
