@@ -5,6 +5,7 @@
 |||| 1507003211169-0a1dd7228f2d | work-life-boundary-remote-worker | 19 Agustus 2026 |
 |||| 1438806159316-e14e7cc7d393 | pembukuan-sederhana-remote-worker | 9 Agustus 2026 |
 
+|| 1506784983877-45594efa4cbe | eat-that-frog-remote | 22 Agustus 2026 |
 || 1517694712202-14dd9538aa97 | presentasi-persuasif-remote-worker | 21 Agustus 2026 |
 || 1483058712412-4245e9b90334 | retrospective-pribadi-remote-worker | 21 Agustus 2026 |
 || 1500917293891-ef795e70e1f6 | pensiun-freelance-remote-worker | 21 Agustus 2026 |
