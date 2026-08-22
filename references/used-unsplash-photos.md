@@ -5,6 +5,7 @@
 |||| 1507003211169-0a1dd7228f2d | work-life-boundary-remote-worker | 19 Agustus 2026 |
 |||| 1438806159316-e14e7cc7d393 | pembukuan-sederhana-remote-worker | 9 Agustus 2026 |
 
+|| 1497366754035-f200968a6e72 | tanaman-indoor-ruang-kerja-remote-worker | 22 Agustus 2026 |
 || 1500917293891-ef795e70e1f6 | notulen-rapat-remote-worker | 22 Agustus 2026 |
 || 1553028826-f4804a6dba3b | strategi-naik-pangkat-remote-worker | 22 Agustus 2026 |
 || 1507925921958-8a62f3d1a50d | kpi-remote-worker | 22 Agustus 2026 |
@@ -96,6 +97,7 @@
 
 |||| 1493932484895-752d1471eab5 | analysis-paralysis-remote-worker | 17 Agustus 2026 |
 ||| 1497032628192-86f99bcd76bc | energy-management-remote-worker | 20 Agustus 2026 |
+
 
 
 
