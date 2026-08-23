@@ -135,7 +135,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1490971588422-52f6262a237a | Orang peregangan di depan meja kerja - movement breaks | 4 Juli 2026 | | Reuse: stretching-remote-worker (3rd use, konteks general stretching vs desk yoga spesifik vs movement breaks umum) | 27 Juli 2026 |
 | 1470071459604-3b5ec3a7fe05 | Seseorang membaca buku di sofa dengan lampu hangat - evening wind-down | 4 Juli 2026 |
 | 1497366754035-f200968a6e72 | Modern office workspace — setup meja dengan laptop dan tanaman hias | 5 Juli 2026 |
-| 1505740420928-5e560c06d30e | Nature/calm landscape — metafora ketenangan untuk artikel anxiety | 5 Juli 2026 |
+| 1505740420928-5e560c06d30e | Nature/calm landscape — metafora ketenangan untuk artikel anxiety | 5 Juli 2026 | | Reuse: people-pleasing-remote-worker (23 Agustus 2026, konteks mental health/boundary vs anxiety/dental)
 | 1516280440614-37939bbacd81 | Featured image for time-off-remote-worker article | 5 Juli 2026 | | Reuse: kesehatan-gigi-remote-worker (5 Agustus 2026, ke-3, konteks kebersihan mulut vs mandi air dingin/renang)
 | 1583394838336-acd977736f90 | Headphone profesional di atas meja — audio setup buat remote worker | 5 Juli 2026 |
 | 1522071820081-009f0129c71c | Coffee shop atmosphere — reused for caffeine strategy article | 6 Juli 2026 |
@@ -202,6 +202,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 || 1516574187841-cb9cc2ca948b | Stretching/mobility at desk — remote worker ergonomics | 2026-08-15 |
 || 1531403009284-440f080d1e12 | Workspace improvement growth concept — career roadmap/growth metaphor | 19 Agustus 2026 |
 || 1555066931-4365d14bab8c | MacBook dengan layar penuh kode programming — GitHub/development theme | 19 Agustus 2026 |
+|| 1511671782779-c97d3d27a1d4 | Person playing guitar — learning music/instrument theme | verified 2026-08-23 |
 
 
 | 1475924156734-496f6cac6ec1 | sun landscape for vitamin D article | 8 Agustus 2026 |
@@ -210,6 +211,8 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1531297484001-80022131f5a1 | Suasana kerja malam dengan layar laptop menyala — kerja malam remote worker | 10 Agustus 2026 |
 
 | 1584515933487-779824d29309 | Merawat orang tua lansia — senior care/caregiver theme | 11 Agustus 2026 |
+
+
 
 
 
