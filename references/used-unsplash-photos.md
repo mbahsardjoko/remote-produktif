@@ -4,6 +4,7 @@
 ||||| 1490971588422-52f6262a237a | virtual-background-lighting-remote-worker | 2 Agustus 2026 |
 
 |||| 1507003211169-0a1dd7228f2d | work-life-boundary-remote-worker | 19 Agustus 2026 |
+|| 1454165205744-3b78555e5572 | eat-the-frog-remote-worker | 24 Agustus 2026 |
 || 1559136555-9303baea8ebd | boundaries-klien-freelance-remote | 24 Agustus 2026 |
 || 1511671782779-c97d3d27a1d4 | hobi-monetize-remote-worker | 24 Agustus 2026 |
 || 1518770660439-4636190af475 | crypto-remote-worker | 24 Agustus 2026 |
@@ -111,6 +112,7 @@
 
 |||| 1493932484895-752d1471eab5 | analysis-paralysis-remote-worker | 17 Agustus 2026 |
 ||| 1497032628192-86f99bcd76bc | energy-management-remote-worker | 20 Agustus 2026 |
+
 
 
 
