@@ -4,6 +4,7 @@
 ||||| 1490971588422-52f6262a237a | virtual-background-lighting-remote-worker | 2 Agustus 2026 |
 
 |||| 1507003211169-0a1dd7228f2d | work-life-boundary-remote-worker | 19 Agustus 2026 |
+|| 1606857521015-7f9fcf423740 | vulnerability-remote-worker | 25 Agustus 2026 |
 || 1552581234-26160f608093 | reskilling-remote-worker | 25 Agustus 2026 |
 || 1499750310107-5fef28a66643 | after-work-ritual-remote | 25 Agustus 2026 |
 || 1507525428034-b723cf961d3e | after-work-ritual-remote | 25 Agustus 2026 |
@@ -116,6 +117,7 @@
 
 |||| 1493932484895-752d1471eab5 | analysis-paralysis-remote-worker | 17 Agustus 2026 |
 ||| 1497032628192-86f99bcd76bc | energy-management-remote-worker | 20 Agustus 2026 |
+
 
 
 
