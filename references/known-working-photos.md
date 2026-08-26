@@ -7,6 +7,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 || 1553028826-f4804a6dba3b | Tim remote berkolaborasi dan saling mendukung untuk growth karir bersama — teamwork/hands stacked metaphor | 22 Agustus 2026 |
 |----------|-----------|-------------------|
+|| 1449824913935-59a10b8d2000 | cafe/workspace theme | work from cafe |
 | 1500917293891-ef795e70e1f6 | Notebook dan laptop dengan agenda meeting — ilustrasi persiapan rapat yang terstruktur | 10 Juli 2026 |
 || 1470071459604-3b5ec3a7fe05 | Seseorang membaca buku di sofa dengan lampu hangat - evening wind-down / reading theme | 20 Agustus 2026 |
 || 1551836022-d5d88e9218df | Stretching/procrastination metaphor — metafora recharge energi dan menghindari prokrastinasi | 19 Agustus 2026 |
@@ -211,6 +212,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | 1531297484001-80022131f5a1 | Suasana kerja malam dengan layar laptop menyala — kerja malam remote worker | 10 Agustus 2026 |
 
 | 1584515933487-779824d29309 | Merawat orang tua lansia — senior care/caregiver theme | 11 Agustus 2026 |
+
 
 
 

@@ -4,6 +4,7 @@
 |||| 1563013544-824ae1b704d3 | kontribusi-open-source-remote-worker | 19 Agustus 2026 |
 ||||| 1490971588422-52f6262a237a | virtual-background-lighting-remote-worker | 2 Agustus 2026 |
 
+|| 1449824913935-59a10b8d2000 | work-from-cafe-remote-worker | 26 Agustus 2026 |
 |||| 1507003211169-0a1dd7228f2d | work-life-boundary-remote-worker | 19 Agustus 2026 |
 || 1556228578-0d85b1a4d571 | menu-mingguan-remote-worker | 25 Agustus 2026 |
 || 1497032628192-86f99bcd76bc | one-on-one-ic-remote-worker | 25 Agustus 2026 |
@@ -123,6 +124,7 @@
 
 |||| 1493932484895-752d1471eab5 | analysis-paralysis-remote-worker | 17 Agustus 2026 |
 ||| 1497032628192-86f99bcd76bc | energy-management-remote-worker | 20 Agustus 2026 |
+
 
 
 
