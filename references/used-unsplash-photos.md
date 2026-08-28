@@ -4,6 +4,8 @@
 |||| 1563013544-824ae1b704d3 | kontribusi-open-source-remote-worker | 19 Agustus 2026 |
 ||||| 1490971588422-52f6262a237a | virtual-background-lighting-remote-worker | 2 Agustus 2026 |
 
+|| 1606857521015-7f9fcf423740 | humor-kerja-remote | 28 Agustus 2026 |
+|| 1550259576-56c22cecaf77 | terapi-remote-worker | 28 Agustus 2026 |
 || 1469854523086-cc02fe5d8800 | kepercayaan-diri-remote-worker | 28 Agustus 2026 |
 || Photo ID | Artikel | Tanggal |
 || 1518770660439-4636190af475 | otomatisasi-pekerjaan-remote | 28 Agustus 2026 |
