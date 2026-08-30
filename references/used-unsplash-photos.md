@@ -4,6 +4,7 @@
 |||| 1563013544-824ae1b704d3 | kontribusi-open-source-remote-worker | 19 Agustus 2026 |
 ||||| 1490971588422-52f6262a237a | virtual-background-lighting-remote-worker | 2 Agustus 2026 |
 
+|| 1677442136019-21780ecad995 | mengatasi-ketakutan-ai-remote-worker | 30 Agustus 2026 |
 || 1499750310107-5fef28a66643 | design-thinking-remote-worker | 30 Agustus 2026 |
 || 1518770660439-4636190af475 | keamanan-siber-remote-worker | 30 Agustus 2026 |
 ||| 1516574187841-cb9cc2ca948b | trackball-remote-worker | 29 Agustus 2026 |
@@ -188,6 +189,7 @@
 
 
 || 1518611012118-696072aa579a | kursi-remote-worker | 27 Agustus 2026 |
+
 
 
 
