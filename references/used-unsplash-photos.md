@@ -219,3 +219,4 @@
 
 
 || 1506126613408-edd07b3f8dcd | meditasi-fokus-remote-worker | 1 September 2026 |
+|| 1489749798427-f47453d88e39 | gaming-remote-worker | 1 September 2026 |
