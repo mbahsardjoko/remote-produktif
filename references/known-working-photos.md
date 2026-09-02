@@ -7,6 +7,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 || 1553028826-f4804a6dba3b | Tim remote berkolaborasi dan saling mendukung untuk growth karir bersama — teamwork/hands stacked metaphor | 22 Agustus 2026 |
 |----------|-----------|-------------------|
+|| 1507133360519-da953efd850c | istirahat-dalam-remote-worker | 2 September 2026 | Woman resting peacefully |
 | 1519904822033-fd09ad6aef46 | hobby/creative materials | 2026-09-02 |
 || 1507003957-ceadb8cb4d3f | salary-negotiation-tactics-remote-worker | 2 September 2026 |
 || 1497215728101-856f4ea42174 | Office / professional workspace | 31 Agustus 2026 |
