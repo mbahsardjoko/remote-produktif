@@ -7,6 +7,7 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 | Photo ID | Deskripsi | Verifikasi Tanggal |
 || 1553028826-f4804a6dba3b | Tim remote berkolaborasi dan saling mendukung untuk growth karir bersama — teamwork/hands stacked metaphor | 22 Agustus 2026 |
 |----------|-----------|-------------------|
+|| 1507003957-ceadb8cb4d3f | salary-negotiation-tactics-remote-worker | 2 September 2026 |
 || 1497215728101-856f4ea42174 | Office / professional workspace | 31 Agustus 2026 |
 | 1540206395-68808572332f | forest path / nature walk | forest-bathing-remote-worker | 29 Agustus 2026 | verified 3 sizes |
 || 1526374965328-7f61d4dc18c5 | Financial freedom / investment growth metaphor — stock chart growing upward | 26 Agustus 2026 |
@@ -236,5 +237,6 @@ Gunakan foto-foto ini dulu sebelum mencari ID baru.
 
 || 1511632765486-a01980e01a18 | fresh batch (social connections) | 31 Agustus 2026 | verified 31 Aug 2026 |
 || 1501071254979-1ce00eca9f31 | verified 1 September 2026 |
+
 
 
