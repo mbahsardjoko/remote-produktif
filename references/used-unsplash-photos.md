@@ -5,6 +5,7 @@
 ||||| 1490971588422-52f6262a237a | virtual-background-lighting-remote-worker | 2 Agustus 2026 |
 
 
+|| 1519904822033-fd09ad6aef46 | hobi-remote-worker | 2 September 2026 |
 || 1507003957-ceadb8cb4d3f | salary-negotiation-tactics-remote-worker | 2 September 2026 |
 || 1501071254979-1ce00eca9f31 | ritual-transisi-remote-worker | 1 September 2026 |
 || 1517048676732-d65bc937f952 | async-communication-etiquette-remote-worker | 1 September 2026 |
@@ -222,4 +223,5 @@
 || 1506126613408-edd07b3f8dcd | meditasi-fokus-remote-worker | 1 September 2026 |
 || 1489749798427-f47453d88e39 | gaming-remote-worker | 1 September 2026 |
 || 1506794778202-cad84cf45f1d | motivasi-kerja-remote-worker | 1 September 2026 ||| 1517245386807-bb43f82c33c4 | aplikasi-fokus-remote-worker | 2 September 2026 |
+
 
