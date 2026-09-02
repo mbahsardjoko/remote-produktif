@@ -1,5 +1,6 @@
 # Known-working photos
 || 1571019613454-1cb2f99b2d8b | musim-panas-remote-worker | 26 Agustus 2026 |
+|| 1522202176988-66273c2fd55f | negosiasi-gaji-kontrak-remote-worker | 2 September 2026 |
 || 1516321318423-f06f85e504b3 | kecemasan-keuangan-remote-worker | 24 Agustus 2026 |
 |||| 1563013544-824ae1b704d3 | kontribusi-open-source-remote-worker | 19 Agustus 2026 |
 ||||| 1490971588422-52f6262a237a | virtual-background-lighting-remote-worker | 2 Agustus 2026 |
@@ -223,5 +224,6 @@
 || 1506126613408-edd07b3f8dcd | meditasi-fokus-remote-worker | 1 September 2026 |
 || 1489749798427-f47453d88e39 | gaming-remote-worker | 1 September 2026 |
 || 1506794778202-cad84cf45f1d | motivasi-kerja-remote-worker | 1 September 2026 ||| 1517245386807-bb43f82c33c4 | aplikasi-fokus-remote-worker | 2 September 2026 |
+
 
 
