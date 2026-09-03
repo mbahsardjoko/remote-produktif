@@ -1,5 +1,6 @@
 # Known-working photos
 || 1571019613454-1cb2f99b2d8b | musim-panas-remote-worker | 26 Agustus 2026 |
+||| 1556761175-5973dc0f32e7 | bahasa-tubuh-video-call-remote-worker | 3 September 2026 |
 || 1522202176988-66273c2fd55f | negosiasi-gaji-kontrak-remote-worker | 2 September 2026 |
 || 1516321318423-f06f85e504b3 | kecemasan-keuangan-remote-worker | 24 Agustus 2026 |
 |||| 1563013544-824ae1b704d3 | kontribusi-open-source-remote-worker | 19 Agustus 2026 |
