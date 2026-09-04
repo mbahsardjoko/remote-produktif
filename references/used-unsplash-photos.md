@@ -4,6 +4,7 @@
 || 1522202176988-66273c2fd55f | negosiasi-gaji-kontrak-remote-worker | 2 September 2026 |
 || 1516321318423-f06f85e504b3 | kecemasan-keuangan-remote-worker | 24 Agustus 2026 |
 |||| 1563013544-824ae1b704d3 | kontribusi-open-source-remote-worker | 19 Agustus 2026 |
+|| 1516387938699-a93567ec168e | overstimulasi-remote-worker | 4 September 2026 |
 || 1553028826-f4804a6dba3b | async-communication-best-practices-remote-worker | 4 September 2026 |
 || 1522071820081-009f0129c71c | icebreaker-remote-worker | 3 September 2026 |
 || 1573164574572-cb89e39749b4 | bone-conduction-headphones-remote-worker | 3 September 2026 |
