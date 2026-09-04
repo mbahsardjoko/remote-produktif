@@ -4,6 +4,7 @@
 || 1522202176988-66273c2fd55f | negosiasi-gaji-kontrak-remote-worker | 2 September 2026 |
 || 1516321318423-f06f85e504b3 | kecemasan-keuangan-remote-worker | 24 Agustus 2026 |
 |||| 1563013544-824ae1b704d3 | kontribusi-open-source-remote-worker | 19 Agustus 2026 |
+|| 1524250502761-1ac6f2e30d43 | kucing-peliharaan-remote-worker | 4 September 2026 |
 || 1531297484001-80022131f5a1 | anjing-peliharaan-remote-worker | 4 September 2026 |
 || 1476480862126-209bfaa8edc8 | walking-meeting-remote-worker | 4 September 2026 |
 || 1449824913935-59a10b8d2000 | dekorasi-workspace-remote-worker | 4 September 2026 |
