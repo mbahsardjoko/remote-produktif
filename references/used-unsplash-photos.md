@@ -4,6 +4,7 @@
 || 1522202176988-66273c2fd55f | negosiasi-gaji-kontrak-remote-worker | 2 September 2026 |
 || 1516321318423-f06f85e504b3 | kecemasan-keuangan-remote-worker | 24 Agustus 2026 |
 |||| 1563013544-824ae1b704d3 | kontribusi-open-source-remote-worker | 19 Agustus 2026 |
+|| 1528715471579-d1bcf0ba5e83 | antifragile-remote-worker | 5 September 2026 |
 || 1505740420928-5e560c06d30e | tidur-remote-worker | 5 September 2026 |
 || 1524250502761-1ac6f2e30d43 | aksesoris-ergonomis-meja-kerja-remote | 5 September 2026 |
 || 1496181133206-80ce9b88a853 | peralatan-video-call-remote-worker | 4 September 2026 |
@@ -244,6 +245,7 @@
 
 || 1516574187841-cb9cc2ca948b | evening-routine-remote-worker | 2 September 2026 |
 || 1507133360519-da953efd850c | istirahat-dalam-remote-worker | 2 September 2026 |
+
 
 
 
